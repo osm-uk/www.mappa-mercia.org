@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Warwickshire Aerial Imagery	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/03/warwickshire-aerial-imagery.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/03/warwickshire-aerial-imagery.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Tue, 01 Apr 2014 01:09:58 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Antje		</title>
+		<link>https://www.mappa-mercia.org/2014/03/warwickshire-aerial-imagery.html#comment-144</link>
+
+		<dc:creator><![CDATA[Antje]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2014 01:09:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=879#comment-144</guid>
+
+					<description><![CDATA[Awesome: I can even see the street lights that I needed to map since I&#039;m running out of roads in London.]]></description>
+			<content:encoded><![CDATA[<p>Awesome: I can even see the street lights that I needed to map since I&#8217;m running out of roads in London.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

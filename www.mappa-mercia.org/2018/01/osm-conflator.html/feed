@@ -1,0 +1,70 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Conflation &#038; Validation: OSM Conflator	</title>
+	<atom:link href="https://www.mappa-mercia.org/2018/01/osm-conflator.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2018/01/osm-conflator.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Wed, 31 Jan 2018 16:24:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Ilya Zverev		</title>
+		<link>https://www.mappa-mercia.org/2018/01/osm-conflator.html#comment-123639</link>
+
+		<dc:creator><![CDATA[Ilya Zverev]]></dc:creator>
+		<pubDate>Wed, 31 Jan 2018 16:24:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1539#comment-123639</guid>
+
+					<description><![CDATA[wambacher, &quot;pip install osm_conflate&quot; in a console
+more info at https://wiki.openstreetmap.org/wiki/OSM_Conflator]]></description>
+			<content:encoded><![CDATA[<p>wambacher, &#8220;pip install osm_conflate&#8221; in a console<br />
+more info at <a href="https://wiki.openstreetmap.org/wiki/OSM_Conflator" rel="nofollow ugc">https://wiki.openstreetmap.org/wiki/OSM_Conflator</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: wambacher		</title>
+		<link>https://www.mappa-mercia.org/2018/01/osm-conflator.html#comment-123631</link>
+
+		<dc:creator><![CDATA[wambacher]]></dc:creator>
+		<pubDate>Wed, 31 Jan 2018 08:30:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1539#comment-123631</guid>
+
+					<description><![CDATA[nice tool - but where can i get it?]]></description>
+			<content:encoded><![CDATA[<p>nice tool &#8211; but where can i get it?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ken		</title>
+		<link>https://www.mappa-mercia.org/2018/01/osm-conflator.html#comment-123622</link>
+
+		<dc:creator><![CDATA[Ken]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2018 23:44:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1539#comment-123622</guid>
+
+					<description><![CDATA[Very cool.  I wonder if they&#039;ll ever release the dataset of all the nee drinking fountains being planned-. This tool looks like it would be useful if they do.
+
+  http://www.bbc.co.uk/news/uk-england-42808302]]></description>
+			<content:encoded><![CDATA[<p>Very cool.  I wonder if they&#8217;ll ever release the dataset of all the nee drinking fountains being planned-. This tool looks like it would be useful if they do.</p>
+<p>  <a href="http://www.bbc.co.uk/news/uk-england-42808302" rel="nofollow ugc">http://www.bbc.co.uk/news/uk-england-42808302</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

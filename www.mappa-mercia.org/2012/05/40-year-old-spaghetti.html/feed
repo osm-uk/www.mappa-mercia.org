@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 40 year old spaghetti	</title>
+	<atom:link href="https://www.mappa-mercia.org/2012/05/40-year-old-spaghetti.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2012/05/40-year-old-spaghetti.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 17:33:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Richard Fairhurst		</title>
+		<link>https://www.mappa-mercia.org/2012/05/40-year-old-spaghetti.html#comment-31</link>
+
+		<dc:creator><![CDATA[Richard Fairhurst]]></dc:creator>
+		<pubDate>Fri, 18 May 2012 12:52:44 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/40-year-old-spaghetti/#comment-31</guid>
+
+					<description><![CDATA[Nice article! The A38(M) isn&#039;t quite the only single carriageway motorway in Britain though: see &lt;a href=&quot;http://pathetic.org.uk/current/a601m/&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;http://pathetic.org.uk/secretive/walton_summit_motorway/&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Nice article! The A38(M) isn&#8217;t quite the only single carriageway motorway in Britain though: see <a href="http://pathetic.org.uk/current/a601m/" rel="nofollow">here</a> and <a href="http://pathetic.org.uk/secretive/walton_summit_motorway/" rel="nofollow">here</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,198 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: OpenStreetMap alternatives to Google&#8217;s Maps Engine and Fusion Tables	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 17 Feb 2019 12:23:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Stefan Keller (@sfkeller)		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-133818</link>
+
+		<dc:creator><![CDATA[Stefan Keller (@sfkeller)]]></dc:creator>
+		<pubDate>Sun, 17 Feb 2019 12:23:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-133818</guid>
+
+					<description><![CDATA[Yes, you can run your own instance of uMap.
+There are instances run by other OSM chapters.
+See:
+* Info https://wiki.openstreetmap.org/wiki/UMap
+* Installation: https://github.com/umap-project/umap
+* Mailinglist / Support: https://lists.openstreetmap.org/listinfo/umap]]></description>
+			<content:encoded><![CDATA[<p>Yes, you can run your own instance of uMap.<br />
+There are instances run by other OSM chapters.<br />
+See:<br />
+* Info <a href="https://wiki.openstreetmap.org/wiki/UMap" rel="nofollow ugc">https://wiki.openstreetmap.org/wiki/UMap</a><br />
+* Installation: <a href="https://github.com/umap-project/umap" rel="nofollow ugc">https://github.com/umap-project/umap</a><br />
+* Mailinglist / Support: <a href="https://lists.openstreetmap.org/listinfo/umap" rel="nofollow ugc">https://lists.openstreetmap.org/listinfo/umap</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: timtak (Timothy Takemoto)		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-130380</link>
+
+		<dc:creator><![CDATA[timtak (Timothy Takemoto)]]></dc:creator>
+		<pubDate>Tue, 25 Dec 2018 03:10:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-130380</guid>
+
+					<description><![CDATA[I wonder if one can download ones own instance of uMap and host it on ones server, since for one thing, the french instance is saying that it is impermanent and slow. 
+
+I can&#039;t see the Geojson.io example and the uMap version is not showing the tiles (Map) to me so it is just the map that I think you created, on a blank background.]]></description>
+			<content:encoded><![CDATA[<p>I wonder if one can download ones own instance of uMap and host it on ones server, since for one thing, the french instance is saying that it is impermanent and slow. </p>
+<p>I can&#8217;t see the Geojson.io example and the uMap version is not showing the tiles (Map) to me so it is just the map that I think you created, on a blank background.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Dan Jacobson		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-123968</link>
+
+		<dc:creator><![CDATA[Dan Jacobson]]></dc:creator>
+		<pubDate>Wed, 21 Feb 2018 03:14:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-123968</guid>
+
+					<description><![CDATA[In chromium I just see a blank area where the Geojson.io example is.]]></description>
+			<content:encoded><![CDATA[<p>In chromium I just see a blank area where the Geojson.io example is.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Robertf		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-63196</link>
+
+		<dc:creator><![CDATA[Robertf]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2016 12:00:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-63196</guid>
+
+					<description><![CDATA[Your example for Geojson.io doesn&#039;t show up for me. I see &#039;Firefox prevented this page from loading in this way because the page has a content security policy that disallows it.&#039; Do you know what that&#039;s about? Thanks.]]></description>
+			<content:encoded><![CDATA[<p>Your example for Geojson.io doesn&#8217;t show up for me. I see &#8216;Firefox prevented this page from loading in this way because the page has a content security policy that disallows it.&#8217; Do you know what that&#8217;s about? Thanks.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jamesy		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-1664</link>
+
+		<dc:creator><![CDATA[Jamesy]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2015 14:43:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-1664</guid>
+
+					<description><![CDATA[Hi there! I invite you to try http://gpx2kml.com/, a free and easy to use converter tool that easily make gpx to kml format and the other way around, when you need it. It worked for me, see if it helps for you too.]]></description>
+			<content:encoded><![CDATA[<p>Hi there! I invite you to try <a href="http://gpx2kml.com/" rel="nofollow ugc">http://gpx2kml.com/</a>, a free and easy to use converter tool that easily make gpx to kml format and the other way around, when you need it. It worked for me, see if it helps for you too.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-241</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Thu, 28 Aug 2014 22:17:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-241</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-240&quot;&gt;Rob Norris&lt;/a&gt;.
+
+Thanks Rob. I&#039;ve covered how to extract data from OpenStreetMap using overpass turbo in the past so wanted to keep this post focused on producing the map (the overlay data could come from anywhere). There&#039;s a follow up post planned where I will show how to link uMap to Overpass so that your map is always up to date with what&#039;s in OpenStreetMap. Hopefully this should answer your question. :-)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-240">Rob Norris</a>.</p>
+<p>Thanks Rob. I&#8217;ve covered how to extract data from OpenStreetMap using overpass turbo in the past so wanted to keep this post focused on producing the map (the overlay data could come from anywhere). There&#8217;s a follow up post planned where I will show how to link uMap to Overpass so that your map is always up to date with what&#8217;s in OpenStreetMap. Hopefully this should answer your question. 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Rob Norris		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-240</link>
+
+		<dc:creator><![CDATA[Rob Norris]]></dc:creator>
+		<pubDate>Thu, 28 Aug 2014 18:57:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-240</guid>
+
+					<description><![CDATA[It might be handy to explain exactly how you got the source data into the formats used.
+
+It could be as simple as a simple OverPass query, but it would be good to illustrate the full cycle of:
+ Planet OSM Data -&#062; Data Extract -&#062; Data Usage.
+
+Cheers.]]></description>
+			<content:encoded><![CDATA[<p>It might be handy to explain exactly how you got the source data into the formats used.</p>
+<p>It could be as simple as a simple OverPass query, but it would be good to illustrate the full cycle of:<br />
+ Planet OSM Data -&gt; Data Extract -&gt; Data Usage.</p>
+<p>Cheers.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-236</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2014 17:09:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-236</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-235&quot;&gt;Linhares&lt;/a&gt;.
+
+@Linhares: Oh that looks good. Is there a version in English?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-235">Linhares</a>.</p>
+<p>@Linhares: Oh that looks good. Is there a version in English?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Linhares		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-235</link>
+
+		<dc:creator><![CDATA[Linhares]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2014 13:32:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-235</guid>
+
+					<description><![CDATA[You are right. Many people stick to Google when it really comes to using the map.
+It&#039;s been some time that I&#039;m using uMap to plot some riding tracklogs. And more recently I&#039;ve migrate to a brazilian alternative: http://www.mapascoletivos.com.br/]]></description>
+			<content:encoded><![CDATA[<p>You are right. Many people stick to Google when it really comes to using the map.<br />
+It&#8217;s been some time that I&#8217;m using uMap to plot some riding tracklogs. And more recently I&#8217;ve migrate to a brazilian alternative: <a href="http://www.mapascoletivos.com.br/" rel="nofollow ugc">http://www.mapascoletivos.com.br/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Stéphane		</title>
+		<link>https://www.mappa-mercia.org/2014/08/openstreetmap-alternatives-to-googles-maps-engine-and-fusion-tables.html#comment-234</link>
+
+		<dc:creator><![CDATA[Stéphane]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2014 04:18:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=999#comment-234</guid>
+
+					<description><![CDATA[Briliant! Thank you so much for this post! I consider myself an OSM enthusiast but didn&#039;t know of any of those!
+
+Excited to play around with those two amazing tool :)
+
+Keep up the great work!]]></description>
+			<content:encoded><![CDATA[<p>Briliant! Thank you so much for this post! I consider myself an OSM enthusiast but didn&#8217;t know of any of those!</p>
+<p>Excited to play around with those two amazing tool 🙂</p>
+<p>Keep up the great work!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Mapped: Every school in the Outer Hebrides and Shetland Islands!	</title>
+	<atom:link href="https://www.mappa-mercia.org/2016/01/mapped-every-school-in-the-outer-hebrides-and-lerwick.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2016/01/mapped-every-school-in-the-outer-hebrides-and-lerwick.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sat, 30 Jan 2016 22:59:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: UK mapping hot-spots &#124; Mappa Mercia		</title>
+		<link>https://www.mappa-mercia.org/2016/01/mapped-every-school-in-the-outer-hebrides-and-lerwick.html#comment-11790</link>
+
+		<dc:creator><![CDATA[UK mapping hot-spots &#124; Mappa Mercia]]></dc:creator>
+		<pubDate>Sat, 30 Jan 2016 22:59:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1330#comment-11790</guid>
+
+					<description><![CDATA[[&#8230;] Yorkshire is doing well (mapping is across the county not just in the larger urban areas) and as previously noted the Outer Hebrides and Shetland [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Yorkshire is doing well (mapping is across the county not just in the larger urban areas) and as previously noted the Outer Hebrides and Shetland [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

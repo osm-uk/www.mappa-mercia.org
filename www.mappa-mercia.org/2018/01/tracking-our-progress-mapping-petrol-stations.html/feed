@@ -1,0 +1,57 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tracking our progress mapping petrol stations	</title>
+	<atom:link href="https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Thu, 18 Jan 2018 20:17:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html#comment-123440</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Thu, 18 Jan 2018 20:17:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1522#comment-123440</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html#comment-123307&quot;&gt;Christian Ledermann&lt;/a&gt;.
+
+Yes, the initial growth is as a result of our Q1 2016 mapping project but the second bit is due to the schools.mapthe.uk tool. The early growth hides a lot of detail as it is total count and there was a big effort to remap nodes to ways and to remove node + way duplicates. There was some tools to track progress but otherwise this was a manual process. As shown the introduction of schools.mapthe.uk greatly sped up the process.
+
+Have you considered applying it to any other dataset?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html#comment-123307">Christian Ledermann</a>.</p>
+<p>Yes, the initial growth is as a result of our Q1 2016 mapping project but the second bit is due to the schools.mapthe.uk tool. The early growth hides a lot of detail as it is total count and there was a big effort to remap nodes to ways and to remove node + way duplicates. There was some tools to track progress but otherwise this was a manual process. As shown the introduction of schools.mapthe.uk greatly sped up the process.</p>
+<p>Have you considered applying it to any other dataset?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Christian Ledermann		</title>
+		<link>https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html#comment-123307</link>
+
+		<dc:creator><![CDATA[Christian Ledermann]]></dc:creator>
+		<pubDate>Wed, 10 Jan 2018 16:58:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1522#comment-123307</guid>
+
+					<description><![CDATA[schools.mapthe.uk went online august 2017 https://schools.mapthe.uk/import-log/?page=63 and ~ 3000 schools were added with that tool - which shows nicely in the graphic]]></description>
+			<content:encoded><![CDATA[<p>schools.mapthe.uk went online august 2017 <a href="https://schools.mapthe.uk/import-log/?page=63" rel="nofollow ugc">https://schools.mapthe.uk/import-log/?page=63</a> and ~ 3000 schools were added with that tool &#8211; which shows nicely in the graphic</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

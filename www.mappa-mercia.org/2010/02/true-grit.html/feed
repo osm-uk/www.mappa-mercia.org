@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: True grit	</title>
+	<atom:link href="https://www.mappa-mercia.org/2010/02/true-grit.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2010/02/true-grit.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 13:56:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: sachin		</title>
+		<link>https://www.mappa-mercia.org/2010/02/true-grit.html#comment-8</link>
+
+		<dc:creator><![CDATA[sachin]]></dc:creator>
+		<pubDate>Sat, 27 Mar 2010 12:27:17 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/true-grit/#comment-8</guid>
+
+					<description><![CDATA[This comment has been removed by a blog administrator.]]></description>
+			<content:encoded><![CDATA[<p>This comment has been removed by a blog administrator.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,47 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Mysterious objects: No 5 in an occasional series	</title>
+	<atom:link href="https://www.mappa-mercia.org/2013/04/mysterious-objects-no-5-in-occasional.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2013/04/mysterious-objects-no-5-in-occasional.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 18:43:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2013/04/mysterious-objects-no-5-in-occasional.html#comment-56</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sun, 09 Jun 2013 13:59:15 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/?p=255#comment-56</guid>
+
+					<description><![CDATA[(Comments copied over from legacy blog)
+
+Circéus - 21 April 2013 09:07
+Some sort of Insect/animal trap? Speed radar or other type of camera seems pretty damn unlikely...
+
+tom - 22 April 2013 01:10
+My guess would be something like a bat trap to help them survey protected species.]]></description>
+			<content:encoded><![CDATA[<p>(Comments copied over from legacy blog)</p>
+<p>Circéus &#8211; 21 April 2013 09:07<br />
+Some sort of Insect/animal trap? Speed radar or other type of camera seems pretty damn unlikely&#8230;</p>
+<p>tom &#8211; 22 April 2013 01:10<br />
+My guess would be something like a bat trap to help them survey protected species.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: A missing &#8216;l&#8217; adds 5 miles	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/08/a-missing-l-adds-5-miles.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/08/a-missing-l-adds-5-miles.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Tue, 12 Aug 2014 08:46:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: vdp		</title>
+		<link>https://www.mappa-mercia.org/2014/08/a-missing-l-adds-5-miles.html#comment-224</link>
+
+		<dc:creator><![CDATA[vdp]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2014 08:46:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=967#comment-224</guid>
+
+					<description><![CDATA[That kind of error can&#039;t happen if using an associatedstreet relation instead of an addr:street tag...]]></description>
+			<content:encoded><![CDATA[<p>That kind of error can&#8217;t happen if using an associatedstreet relation instead of an addr:street tag&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2014/08/a-missing-l-adds-5-miles.html#comment-223</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2014 22:12:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=967#comment-223</guid>
+
+					<description><![CDATA[Yeah that&#039;s right Brian. Apologies if it didn&#039;t make sense first read through.]]></description>
+			<content:encoded><![CDATA[<p>Yeah that&#8217;s right Brian. Apologies if it didn&#8217;t make sense first read through.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Brian		</title>
+		<link>https://www.mappa-mercia.org/2014/08/a-missing-l-adds-5-miles.html#comment-222</link>
+
+		<dc:creator><![CDATA[Brian]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2014 21:56:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=967#comment-222</guid>
+
+					<description><![CDATA[I got quite confused reading this, until I think I unravelled that there was a typo in the building tags in Sutton Coldfield and you corrected them, which demonstrates the power of the Geofabrik tool as this error wouldn&#039;t have come to light without it. It would be interesting to find out just how great the distance is  before this effect does not function]]></description>
+			<content:encoded><![CDATA[<p>I got quite confused reading this, until I think I unravelled that there was a typo in the building tags in Sutton Coldfield and you corrected them, which demonstrates the power of the Geofabrik tool as this error wouldn&#8217;t have come to light without it. It would be interesting to find out just how great the distance is  before this effect does not function</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

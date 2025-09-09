@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: A unique OpenStreetMap project	</title>
+	<atom:link href="https://www.mappa-mercia.org/2020/01/a-unique-openstreetmap-project.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2020/01/a-unique-openstreetmap-project.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Fri, 30 Jun 2023 10:39:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: ojdo		</title>
+		<link>https://www.mappa-mercia.org/2020/01/a-unique-openstreetmap-project.html#comment-167667</link>
+
+		<dc:creator><![CDATA[ojdo]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 10:39:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1573#comment-167667</guid>
+
+					<description><![CDATA[And here, some three years later, someone somewhere on the globe has a good read on a Friday afternoon... thank you!]]></description>
+			<content:encoded><![CDATA[<p>And here, some three years later, someone somewhere on the globe has a good read on a Friday afternoon&#8230; thank you!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

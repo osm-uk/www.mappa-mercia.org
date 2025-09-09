@@ -1,0 +1,40 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Happy 10th birthday OSM!	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/08/happy-10th-birthday-osm.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/08/happy-10th-birthday-osm.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sat, 09 Aug 2014 22:41:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2014/08/happy-10th-birthday-osm.html#comment-221</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2014 22:37:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=954#comment-221</guid>
+
+					<description><![CDATA[Wow the cake looks amazing! It must have taken ages to cut out all the land including the small islands. Well done to Liz for having the patience to do all this fiddly work. I certainly don&#039;t have the patience for it.
+
+Glad to hear that we had some people turning up for the first time. I only wish I could have made it too. I expect Andy (@pigsonthewing on twitter) would have come along too if he wasn&#039;t doing such a great job promoting OpenStreetMap at Wikimania 2014 in London.]]></description>
+			<content:encoded><![CDATA[<p>Wow the cake looks amazing! It must have taken ages to cut out all the land including the small islands. Well done to Liz for having the patience to do all this fiddly work. I certainly don&#8217;t have the patience for it.</p>
+<p>Glad to hear that we had some people turning up for the first time. I only wish I could have made it too. I expect Andy (@pigsonthewing on twitter) would have come along too if he wasn&#8217;t doing such a great job promoting OpenStreetMap at Wikimania 2014 in London.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

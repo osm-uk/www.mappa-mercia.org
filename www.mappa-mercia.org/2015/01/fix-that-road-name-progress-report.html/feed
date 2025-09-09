@@ -1,0 +1,63 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Fix that road name! Progress Report	</title>
+	<atom:link href="https://www.mappa-mercia.org/2015/01/fix-that-road-name-progress-report.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2015/01/fix-that-road-name-progress-report.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Fri, 23 Jan 2015 19:53:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: SK53		</title>
+		<link>https://www.mappa-mercia.org/2015/01/fix-that-road-name-progress-report.html#comment-451</link>
+
+		<dc:creator><![CDATA[SK53]]></dc:creator>
+		<pubDate>Fri, 23 Jan 2015 19:53:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1101#comment-451</guid>
+
+					<description><![CDATA[Personally I use 2 rules for resolving this type of info:
+
+a) A site visit and clear unambiguous evidence in the form of a street name sign. 
+
+b) Two independent sources of (allowable) evidence (excluding or over and above Ordnance Survey data) for the name. Useful sources are: Food Hygiene Open Data which covers a surprisingly large number of UK postcodes; Geograph, particularly in commentary on photos; other local Open Data such as Planning Applications; Land Registry Prices Paid Open Data, &lt;b&gt;BUT&lt;/b&gt; this is now suspect; historical out-of-copyright maps, e.g., NLS (but names may have changed); NAPTAN open data, mainly bus stops (utility varies across the country). (Incidentally I use the same rule with information in Notes: largely because they might not be placed accurately or the note contributor might have used Google or similar to check).
+
+I would strongly encourage contributors to use source:name=survey for those names which have been seen in the field. In the longer term we should be working to reduce or eliminate source crediting the Ordnance Survey, mainly through field work.
+
+Currently the 10 missing names closest to Nottingham city centre have been surveyed at least 5 times, and nothing has revealed the name. At least in some cases if the street has a name it is probably never used except when someone refers to OS data: many have no addresses using the &#039;official&#039; street name. I have written about one of these in the past &quot;Kenyon Road&quot; (http://sk53-osm.blogspot.com/2011/02/mysterious-case-of-kenyon-road.html). Some kind person added the name to OpenStreetMap despite my 50 years of experience of never having encountered the name. In the end I altered the tag to official_name or admin_name to reflect the difference between what people who live in an area use and what someone who consults a map would use.]]></description>
+			<content:encoded><![CDATA[<p>Personally I use 2 rules for resolving this type of info:</p>
+<p>a) A site visit and clear unambiguous evidence in the form of a street name sign. </p>
+<p>b) Two independent sources of (allowable) evidence (excluding or over and above Ordnance Survey data) for the name. Useful sources are: Food Hygiene Open Data which covers a surprisingly large number of UK postcodes; Geograph, particularly in commentary on photos; other local Open Data such as Planning Applications; Land Registry Prices Paid Open Data, <b>BUT</b> this is now suspect; historical out-of-copyright maps, e.g., NLS (but names may have changed); NAPTAN open data, mainly bus stops (utility varies across the country). (Incidentally I use the same rule with information in Notes: largely because they might not be placed accurately or the note contributor might have used Google or similar to check).</p>
+<p>I would strongly encourage contributors to use source:name=survey for those names which have been seen in the field. In the longer term we should be working to reduce or eliminate source crediting the Ordnance Survey, mainly through field work.</p>
+<p>Currently the 10 missing names closest to Nottingham city centre have been surveyed at least 5 times, and nothing has revealed the name. At least in some cases if the street has a name it is probably never used except when someone refers to OS data: many have no addresses using the &#8216;official&#8217; street name. I have written about one of these in the past &#8220;Kenyon Road&#8221; (<a href="http://sk53-osm.blogspot.com/2011/02/mysterious-case-of-kenyon-road.html" rel="nofollow ugc">http://sk53-osm.blogspot.com/2011/02/mysterious-case-of-kenyon-road.html</a>). Some kind person added the name to OpenStreetMap despite my 50 years of experience of never having encountered the name. In the end I altered the tag to official_name or admin_name to reflect the difference between what people who live in an area use and what someone who consults a map would use.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Chris		</title>
+		<link>https://www.mappa-mercia.org/2015/01/fix-that-road-name-progress-report.html#comment-450</link>
+
+		<dc:creator><![CDATA[Chris]]></dc:creator>
+		<pubDate>Fri, 23 Jan 2015 13:31:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1101#comment-450</guid>
+
+					<description><![CDATA[Looking at the OSM Analysis for Bradford I see what I&#039;m most concerned about: a very small number of recorded differences between OS Locator and surveys. I believe that there should be about 3-4% of OS Locator names recorded as differences, yet in Bradford there are only 23 not:names recorded out of 8941 roads, or about 0.25%. The biggest problem is that people just use the OS Locator (or OS StreetView) name without checking what is really on the ground. This wrong name may persist for years as it superficially looks complete. How do we persuade people to actually check?]]></description>
+			<content:encoded><![CDATA[<p>Looking at the OSM Analysis for Bradford I see what I&#8217;m most concerned about: a very small number of recorded differences between OS Locator and surveys. I believe that there should be about 3-4% of OS Locator names recorded as differences, yet in Bradford there are only 23 not:names recorded out of 8941 roads, or about 0.25%. The biggest problem is that people just use the OS Locator (or OS StreetView) name without checking what is really on the ground. This wrong name may persist for years as it superficially looks complete. How do we persuade people to actually check?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

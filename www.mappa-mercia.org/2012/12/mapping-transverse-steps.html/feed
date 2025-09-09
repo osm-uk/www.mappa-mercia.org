@@ -1,0 +1,75 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Mapping transverse steps	</title>
+	<atom:link href="https://www.mappa-mercia.org/2012/12/mapping-transverse-steps.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2012/12/mapping-transverse-steps.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 17:33:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Brian		</title>
+		<link>https://www.mappa-mercia.org/2012/12/mapping-transverse-steps.html#comment-49</link>
+
+		<dc:creator><![CDATA[Brian]]></dc:creator>
+		<pubDate>Mon, 03 Dec 2012 10:38:16 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/mapping-transverse-steps/#comment-49</guid>
+
+					<description><![CDATA[aseerel4c26 has sent you a message through OpenStreetMap:&lt;br /&gt;&lt;br /&gt;I wanted to comment at http://blog.mappa-mercia.org/2012/12/mapping-transverse-steps.html but it seems to require some third-party accounts to do so... as I had already typed the text.. here it is (you may publish it there if you want to):&lt;br /&gt;&lt;br /&gt;The real-world feature is quite clearly an area. If we would tag this area highway=steps how to indicate the direction - that is the only problem. I would make it an area highway=steps but overlay (sharing nodes with the area) some highway=steps ways (one-dimensional) at important points with an indication of direction (incline=up/down). That could be a cheap way to indicate the direction for the whole area but at least it leads to routing compatibility.]]></description>
+			<content:encoded><![CDATA[<p>aseerel4c26 has sent you a message through OpenStreetMap:</p>
+<p>I wanted to comment at <a href="http://blog.mappa-mercia.org/2012/12/mapping-transverse-steps.html" rel="nofollow ugc">http://blog.mappa-mercia.org/2012/12/mapping-transverse-steps.html</a> but it seems to require some third-party accounts to do so&#8230; as I had already typed the text.. here it is (you may publish it there if you want to):</p>
+<p>The real-world feature is quite clearly an area. If we would tag this area highway=steps how to indicate the direction &#8211; that is the only problem. I would make it an area highway=steps but overlay (sharing nodes with the area) some highway=steps ways (one-dimensional) at important points with an indication of direction (incline=up/down). That could be a cheap way to indicate the direction for the whole area but at least it leads to routing compatibility.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sander		</title>
+		<link>https://www.mappa-mercia.org/2012/12/mapping-transverse-steps.html#comment-48</link>
+
+		<dc:creator><![CDATA[Sander]]></dc:creator>
+		<pubDate>Sat, 01 Dec 2012 11:39:30 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/mapping-transverse-steps/#comment-48</guid>
+
+					<description><![CDATA[I&#039;d make a new tag barrier=steps. It could be applied to a node (very short steps on a path), a way (for short steps over a wide lenghth, or long steps over a path), or an area (for long, wide steps, like the example given here).&lt;br /&gt;&lt;br /&gt;Highway=steps implies barrier=steps, so this doesn&#039;t have to be combined.&lt;br /&gt;&lt;br /&gt;It would suffice for routing, and be useful for rendering as it can be combined with several highway types (path, pedestrian, footway)&lt;br /&gt;
+]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;d make a new tag barrier=steps. It could be applied to a node (very short steps on a path), a way (for short steps over a wide lenghth, or long steps over a path), or an area (for long, wide steps, like the example given here).</p>
+<p>Highway=steps implies barrier=steps, so this doesn&#8217;t have to be combined.</p>
+<p>It would suffice for routing, and be useful for rendering as it can be combined with several highway types (path, pedestrian, footway)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2012/12/mapping-transverse-steps.html#comment-47</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sat, 01 Dec 2012 10:25:05 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/mapping-transverse-steps/#comment-47</guid>
+
+					<description><![CDATA[I discussed this with Peter (not sherbourne, a different Peter), here in Coventry. We ended up going for steps at each end and a zig zag path between:&lt;br /&gt;&lt;br /&gt;http://www.openstreetmap.org/?mlat=52.407747&amp;mlon=-1.505586&amp;zoom=18&amp;layers=M&lt;br /&gt;&lt;br /&gt;http://www.openstreetmap.org/?mlat=52.409599&amp;mlon=-1.508375&amp;zoom=18&amp;layers=M&lt;br /&gt;&lt;br /&gt;For a wide area of steps but no zig zag path, we decided to use a few step ways spaced evenly along the area:&lt;br /&gt;&lt;br /&gt;http://www.openstreetmap.org/?mlat=52.407714&amp;mlon=-1.506358&amp;zoom=18&amp;layers=M&lt;br /&gt;&lt;br /&gt;None of the are ideal, but they work for now.]]></description>
+			<content:encoded><![CDATA[<p>I discussed this with Peter (not sherbourne, a different Peter), here in Coventry. We ended up going for steps at each end and a zig zag path between:</p>
+<p><a href="http://www.openstreetmap.org/?mlat=52.407747&#038;mlon=-1.505586&#038;zoom=18&#038;layers=M" rel="nofollow ugc">http://www.openstreetmap.org/?mlat=52.407747&#038;mlon=-1.505586&#038;zoom=18&#038;layers=M</a></p>
+<p><a href="http://www.openstreetmap.org/?mlat=52.409599&#038;mlon=-1.508375&#038;zoom=18&#038;layers=M" rel="nofollow ugc">http://www.openstreetmap.org/?mlat=52.409599&#038;mlon=-1.508375&#038;zoom=18&#038;layers=M</a></p>
+<p>For a wide area of steps but no zig zag path, we decided to use a few step ways spaced evenly along the area:</p>
+<p><a href="http://www.openstreetmap.org/?mlat=52.407714&#038;mlon=-1.506358&#038;zoom=18&#038;layers=M" rel="nofollow ugc">http://www.openstreetmap.org/?mlat=52.407714&#038;mlon=-1.506358&#038;zoom=18&#038;layers=M</a></p>
+<p>None of the are ideal, but they work for now.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

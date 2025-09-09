@@ -1,0 +1,305 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Participate &#8211; Mappa Mercia</title>
+	<atom:link href="https://www.mappa-mercia.org/category/participate/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Tue, 30 Jan 2018 22:41:06 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Conflation &#038; Validation: OSM Conflator</title>
+		<link>https://www.mappa-mercia.org/2018/01/osm-conflator.html</link>
+					<comments>https://www.mappa-mercia.org/2018/01/osm-conflator.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2018 22:41:06 +0000</pubDate>
+				<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1539</guid>
+
+					<description><![CDATA[When Ilya approached the UK OpenStreetMap community about incorporating third party data (Shell petrol stations) into OSM he had already ran the data through his “OSM Conflator” tool. As part of the project he also created a “Community Validation” tool. &#8230; <a href="https://www.mappa-mercia.org/2018/01/osm-conflator.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>When Ilya approached the UK OpenStreetMap community about incorporating third party data (Shell petrol stations) into OSM he had already ran the data through his “OSM Conflator” tool. As part of the project he also created a “Community Validation” tool. I decided to take a look at both of these using Asda petrol station data as a test case.</strong></p>
+<p><strong>In a series of posts I will share my experience with conflation and validation. This first post covers just OSM Conflator, with a follow on posts in the coming days covering the Community Validation tool and some reflections on the process.<br />
+</strong></p>
+<h3>Intro to OSM Conflator</h3>
+<p>OSM Conflator is a command-line tool written in Python 3 that compares a third party dataset against OpenStreetMap. It does not directly edit OpenStreetMap but instead gives you two outputs based on what it finds. The first, preview.json, can be loaded into an online tool such as <a href="http://geojson.io/#map=2/20.0/0.0">geojson.io</a> to visualise the differences. The second, a OSM change file, can be opened in JOSM for uploading in to OpenStreetMap. In both cases it assumes the third party data is correct and more up to date than any OSM data it is replacing. As such it is worth using the <a href="https://wiki.openstreetmap.org/wiki/OSM_Conflator#Community_Validation">Community Validation</a> tool to check the results <em>before</em> uploading.</p>
+<p>For now the third party data must be point (node) data but it can match to both nodes and ways in OpenStreetMap; downloading the most recent data each time you run the script. The matching is initially done by distance and you can set the maximum tolerance (e.g. 100 meters). If the third party data has a unique reference key (e.g. a store ID number) then this can be added to OpenStreetMap the first time you merge the data. The next time you run the comparison, for example if a retail chain has changed their opening hours, then OSM Conflator relies on this reference key rather than having to undertake a proximity search.</p>
+<h3>Inputs</h3>
+<p>OSM Conflator requires two inputs: a profile and the third party data. The profile sets the search criteria and which third party tags should always replace values on matched OSM objects. In the case of the Asda petrol stations the search criteria was for ‘amenity=fuel’ objects within 100 meters. The tags to upload were &#8216;brand&#8217;, &#8216;opening_hours&#8217;, &#8216;website&#8217;, &#8216;phone&#8217;, &#8216;addr:street&#8217;, and &#8216;addr:postcode&#8217;. The data included a unique reference ID so I set the profile to write this to OSM.</p>
+<p>&nbsp;</p>
+<div id="attachment_1542" style="width: 692px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1542" decoding="async" class="wp-image-1542 size-full" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-profile.png" alt="" width="682" height="157" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-profile.png 682w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-profile-300x69.png 300w" sizes="(max-width: 682px) 100vw, 682px" /><p id="caption-attachment-1542" class="wp-caption-text">My OSM Conflator profile file.</p></div>
+<p>&nbsp;</p>
+<p>The profile is actually created as a Python file but is simple enough that you don’t need any Python experience. If you are however a pro at Python you can add to the profile. Example additions include tag transformations (e.g. reformatting telephone numbers in to ‘+44 &lt;Area Code&gt; &lt;Number&gt;’ format) or even code to download the source data direct from the third party’s website. If like me you are not a Python pro then you will need to provide OSM Conflator with a separate file including the third party data. This must be in a JSON file format.</p>
+<p>&nbsp;</p>
+<div id="attachment_1545" style="width: 605px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1545" decoding="async" loading="lazy" class="wp-image-1545 size-full" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-data.png" alt="" width="595" height="103" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-data.png 595w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-data-300x52.png 300w" sizes="(max-width: 595px) 100vw, 595px" /><p id="caption-attachment-1545" class="wp-caption-text">Extract of the Asda source data (rows and additional tag columns omitted).</p></div>
+<p>&nbsp;</p>
+<p>Getting the third party data into a JSON file is easy when you know how. Prepare a table like the one above with columns for latitude (lat), longitude (lon) and, if you have it, the unique reference key (id). For the tags you wish to add to OpenStreetMap name the columns according to the standard tag usage within OSM adding ‘tags/’ in front of the column name. To convert your table into a JSON file simply copy and paste the data in to <a href="http://www.convertcsv.com/csv-to-json.htm">www.convertcsv.com/csv-to-json.htm</a> making sure to select “First row is column names” and “Recreate nested objects and arrays” in the options. Copy the output into a blank notepad and save as ‘data.json’.</p>
+<h3>Running the tool</h3>
+<p>With the profile and third party data now prepared the final step is to run OSM Conflate. As noted this is a Python 3 command-line tool. I assume you have already installed this and have also installed ‘pip’ which is a package management system used to install and manage software packages written in Python. With both of these installed go ahead and open a command/terminal window and run “pip install osm_conflate” to install OSM Conflate. Finally to run OSM Conflate using your profile and data file run “conflate -i data.json -v -o result.osm -c preview.json profile.py”. When it has finished running try opening preview.json in <a href="http://geojson.io/#map=2/20.0/0.0">geojson.io</a> to get a visualisation of the results.</p>
+<p>In the next post we will look at how to load the outputs in to the Community Validation tool.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2018/01/osm-conflator.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Petrol stations with a fixme tag</title>
+		<link>https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html</link>
+					<comments>https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 17 Jan 2018 21:49:36 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1525</guid>
+
+					<description><![CDATA[As we described when we kicked off this quarters UK project to map petrol stations, recent community validation of third party (import) data has highlighted much outdated and erroneous data within OpenStreetMap :-(. For the Shell import we captured some &#8230; <a href="https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>As we <a href="https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html">described</a> when we kicked off this quarters UK project to map petrol stations, recent community validation of third party (import) data has highlighted much outdated and erroneous data within OpenStreetMap :-(. For the Shell import we captured some of this and added it to a &#8220;fixme&#8221; tag. If you have not yet come across this tag then it is one in which OpenStreetMap users can flag something that looks wrong or requires additional information to improve the map.</p>
+<p>It is possible to view petrol stations with a fixme tag by using Overpass Turbo scripts. We have done this already so all you have to do is click <a href="https://overpass-turbo.eu/s/uZD">this link</a> and press run. Results are visual as shown in the example below. There are approximately 130 petrol stations with a fixme tag so with some effort we should be able to review them all. Happy mapping!</p>
+<div id="attachment_1526" style="width: 827px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1526" decoding="async" loading="lazy" class="wp-image-1526 size-full" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme.png" alt="" width="817" height="421" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme.png 817w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme-300x155.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme-768x396.png 768w" sizes="(max-width: 817px) 100vw, 817px" /><p id="caption-attachment-1526" class="wp-caption-text">Example result from Overpass Turbo.</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Q1 2018 mapping project: Petrol stations</title>
+		<link>https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html</link>
+					<comments>https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Tue, 09 Jan 2018 22:01:19 +0000</pubDate>
+				<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1517</guid>
+
+					<description><![CDATA[Following a lengthy discussion on the talk-gb mailing list and several false starts, Ilya recently imported UK Shell petrol station data into OpenStreetMap.To confirm the quality of the third party data a brand new community validation tool was developed. Use &#8230; <a href="https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="size-full wp-image-1518 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_station.jpg" alt="" width="640" height="337" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_station.jpg 640w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_station-300x158.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p>Following a lengthy discussion on the talk-gb mailing list and several false starts, Ilya <a href="https://lists.openstreetmap.org/pipermail/talk-gb/2017-December/021011.html">recently imported</a> UK Shell petrol station data into OpenStreetMap.To confirm the quality of the third party data a brand new <a href="https://lists.openstreetmap.org/pipermail/talk-gb/2017-December/020972.html">community validation tool</a> was developed. Use of this tool highlighted a lot of inconsistency in the way we map &#8211; as such let&#8217;s make petrol stations the quarterly mapping project for Q1 2018.</p>
+<p>According to <a href="https://www.statista.com/statistics/312331/number-of-petrol-stations-in-the-united-kingdom-uk/">Statistica</a> there are some 8450 petrol stations in the UK. Compare this to OpenStreetMap, where <a href="http://taginfo.openstreetmap.org.uk/tags/amenity=fuel">TagInfo shows</a> that we have mapped 7200. Not bad &#8211; just 1250 more to go! Let&#8217;s see if we can get to the magic 8450 by the end of the quarterly project (or show that the real number is indeed different). This also gives us a great opportunity to review the existing data, updating old tags to reflect on-the-ground change and converting petrol stations mapped as points (nodes) to ones mapped as areas (closed ways).</p>
+<p><em>Image: CC-By-Sa 2.0 <a title="View profile" href="http://www.geograph.org.uk/profile/11162" rel="cc:attributionURL dct:creator">Betty Longbottom</a></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A guide to mapping Fire Hydrants in the UK</title>
+		<link>https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html</link>
+					<comments>https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2016 15:42:16 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Observations]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1487</guid>
+
+					<description><![CDATA[&#160; In the West Midlands our fire hydrant signs are generally placed on lamp posts: The black H on a yellow background I believe to be a UK standard. The upper number is the diameter of the underlying water main &#8230; <a href="https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>In the West Midlands our fire hydrant signs are generally placed on lamp posts:</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-1475 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-300x225.jpg" alt="" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>The black H on a yellow background I believe to be a UK standard. The upper number is the diameter of the underlying water main in mm. The lower number is the distance in feet to the fire hydrant from the sign with the arrow showing the direction to the actual hydrant. There is also a reference number at the foot of the sign. So, having spotted the sign, the actual fire hydrant has to be found. The signs can get swivelled on the lamposts through maintenance interventions or general neglect and the arrows point in the wrong direction!</p>
+<p>To complicate matters further, there are some fire hydrants that do not have a sign, and some older variants of the signs. These older signs tend to be attached to buildings or walls and I have no idea what the numbers refer to.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1483" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-300x225.jpg" alt="" width="129" height="97" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-1024x768.jpg 1024w" sizes="(max-width: 129px) 100vw, 129px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1482" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-300x225.jpg" alt="" width="130" height="97" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-1024x768.jpg 1024w" sizes="(max-width: 130px) 100vw, 130px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1480" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-300x225.jpg" alt="" width="135" height="101" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-1024x768.jpg 1024w" sizes="(max-width: 135px) 100vw, 135px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1479" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-300x225.jpg" alt="" width="132" height="99" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-1024x768.jpg 1024w" sizes="(max-width: 132px) 100vw, 132px" /></a></p>
+<p>So you have to on the lookout on the ground as well as spotting yellow H  signs.Fire hydrant covers generally have FH on them to identify them, although some older ones can have just H only. Whether the older style ones are still operational I don&#8217;t know, but they get mapped anyway.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916.jpg"><img decoding="async" loading="lazy" class="wp-image-1476 alignleft" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-300x225.jpg" alt="" width="166" height="124" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-1024x768.jpg 1024w" sizes="(max-width: 166px) 100vw, 166px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1484 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-300x225.jpg" alt="" width="171" height="128" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-1024x768.jpg 1024w" sizes="(max-width: 171px) 100vw, 171px" /></a></p>
+<p>&nbsp;</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915.jpg"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1477" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-300x225.jpg" alt="" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587.jpg"><img decoding="async" loading="lazy" class="alignnone  wp-image-1485" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587-225x300.jpg" alt="" width="171" height="228" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587-225x300.jpg 225w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587-768x1024.jpg 768w" sizes="(max-width: 171px) 100vw, 171px" /></a></p>
+<p>And of course it&#8217;s always good to see public organisations collaborating successfully with each other!</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-1481 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-300x225.jpg" alt="" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>The basic tag is emergency=fire_hydrant with more <a href="http://wiki.openstreetmap.org/wiki/Tag:emergency%3Dfire_hydrant">details on the OSM wiki</a></p>
+<p>Why the sudden interest in fire hydrants? In the UK, they&#8217;ve languished as an item that gets mapped.</p>
+<p>At our last mappamercia pub meeting Andy Mabbett regaled us with his saga of trying to get West Midlands Fire Service to release the locations of fire hydrants under Freedom of Information legislation.</p>
+<p>The full saga can be found<a href="https://www.whatdotheyknow.com/request/locations_of_fire_hydrants"> here</a></p>
+<p>WMFS refused to release the information on the grounds of national security viz: &#8220;publishing information about water  networks and other parts of the critical national infrastructure could  expose vulnerabilities in the network and pose a serious risk to public health either through non availability of water resource or<br />
+contamination of supplies. There does not have to be any evidence that this is being planned but it is a possibility given the current threat level in the United Kingdom.&#8221;</p>
+<p>An appeal by Andy against WMFS to the first-tier information rights tribunal mainly on the grounds that other Fire Services in the UK had already released their information on fire hydrants was rejected. The judges agreed with the Information Commissioner&#8217;s Office (ICO) assessment:</p>
+<p>&#8220;The ICO concluded that the withholding of the information was reasonably necessary for national security and a listing of hydrants and their locations would assist in the planning of an attack by poisoning on water supply infrastructure by identifying access points. Such an attack on the infrastructure would be in the domain of national security. While hydrants are visible a comprehensive list of the precise location of every hydrant would place in the public domain more information than is available through hydrants being visible. WMFS supplied a list of attacks and attempted attacks on water supplies.The ICO considered that such an attack was plausible.&#8221;</p>
+<p>There is a method for contaminating the water supply known as backflow contamination, which is considered to be reasonably easy according to an excellent paper <a href="http://www.waterworld.com/articles/2010/03/terrorism-vulnerabilities-to-the-water-supply-and-the-role-of-the-consumer.html">here </a>which quotes extensively from US military and homeland security sources. Fire hydrants are one possible source to generate backflow.</p>
+<p>My limited understanding of water networks is that backflow is a general problem for the water supply industry, which can mitigate the effects with backflow prevention devices. Just how extensive and successful this mitigation is in the UK (and thus how safe we are from backflow attacks) will remain a commercial mystery, as our water supply is in the hands of private companies who are under no obligation to reveal such information. ( I have another story about water networks and open information which will be the subject of a later blog)</p>
+<p>Given the cult of secrecy that exists at all levels of official Britain, it also seems unlikely there will be any disclosure of the risk levels of such an attack vector so that we might make up our own minds based on the data. We will have to make do with the assurances of &#8220;those that know best&#8221;. The public&#8217;s role seems to be limited primarily to that of potential or actual victims.</p>
+<p>This issue does raise some interesting ethical challenges for OpenStreetMap as it seems to be sending us back several centuries when accurate maps were regarded as military secrets. Or to the days of the Cold War when our national mapping agency the Ordnance Survey would obligingly leave blank spaces on their maps at the sites of military installations. Would a map of fire hydrants in the West Midlands be construed as offence under ss57&amp;58 of the Terrorism Act 2000: collecting, possessing or making a record of information of a kind likely to be useful to a person committing or preparing an act of terrorism? Should we be standing up for opendata, one of the founding principles of OpenStreetMap, or protecting  (supposedly) national security? What is the position in other jurisdictions where there are more draconian restrictions about identifying and mapping military installations and &#8220;national critical infrastructure&#8221;? Are mappers more circumspect there?  What&#8217;s the legal postion- is the OSMF liable for prosecution or just the contributing mapper or both? Should OSMF comply with a demand to remove information on the grounds of national security? Or to refrain from collecting it in the first instance?</p>
+<p>According to taginfo there are only 1786 fire hydrants mapped in the UK, of which there are now about 300  in the West Midlands. Prior to my interest being piqued by this sorry tale there were only about 5 fire hydrants mapped in the West Midlands. Judging by the density of fire hydrants I&#8217;ve discovered so far, there are probably thousands in the West Midlands so I seriously doubt whether we&#8217;ll ever crowdsource the location of all of them,(or even many more than we have already).</p>
+<p>Nonetheless, it&#8217;s been an education in another aspect of urban infrastructure I wasn&#8217;t really aware of, and a confirmation of the patrician &#8220;you don&#8217;t need to know about that&#8221; attitude of much of British officialdom.</p>
+<p>(all of the images are my own and are published here as public domain)</p>
+<div class="textLayer">
+<div>.</div>
+</div>
+<div data-canvas-width="643.1706424"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html/feed</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OpenStreetMap UK Local Chapter officially exists</title>
+		<link>https://www.mappa-mercia.org/2016/12/openstreetmap-uk-local-chapter-officially-exists.html</link>
+					<comments>https://www.mappa-mercia.org/2016/12/openstreetmap-uk-local-chapter-officially-exists.html#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2016 16:01:12 +0000</pubDate>
+				<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1471</guid>
+
+					<description><![CDATA[On Saturday morning I received from Companies House the Certicifate of Incorporation for OpenStreetMap United Kingdom Community Interest Company Ltd. It is a private limited company, limited by guarantee. It&#8217;s taken us a year to get this far, through a &#8230; <a href="https://www.mappa-mercia.org/2016/12/openstreetmap-uk-local-chapter-officially-exists.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<div>
+<div>On Saturday morning I received from Companies House the Certicifate of Incorporation for OpenStreetMap United Kingdom Community Interest Company Ltd. It is a private limited company, limited by guarantee.</p>
+</div>
+<p>It&#8217;s taken us a year to get this far, through a protracted and  often tedious process of agreeing Memorandum and Articles of Association,Community Interest Statement, form-filling, and signature gathering. Thankyou to everyone who participated, especially the volunteers who agreed to be the first directors necessary to get the thing off the ground.</p>
+</div>
+<p>Now we can start doing the fun stuff of how we make this work and transform it into a living organisation.(Although I&#8217;m sure we&#8217;ll still have our share of bureaucratic process to navigate).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/12/openstreetmap-uk-local-chapter-officially-exists.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Congratulations!</title>
+		<link>https://www.mappa-mercia.org/2016/10/congratulations.html</link>
+					<comments>https://www.mappa-mercia.org/2016/10/congratulations.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2016 16:18:51 +0000</pubDate>
+				<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1458</guid>
+
+					<description><![CDATA[Congratulations to everyone who has participated in the various UK Quarterly Projects. We were nominated for an award at the recent international State of the Map 2016 conference in Brussels. Unfortunately we weren&#8217;t awsome enough to win, but it&#8217;s nice &#8230; <a href="https://www.mappa-mercia.org/2016/10/congratulations.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Congratulations to everyone who has participated in the various UK Quarterly Projects. We were nominated for an award at the recent international State of the Map 2016 conference in Brussels.</p>
+<p>Unfortunately we weren&#8217;t awsome enough to win, but it&#8217;s nice to be recognised, even though that&#8217;s not why we do things. It&#8217;s just fun!</p>
+<p>Thanks to everyone who voted for us.</p>
+<p>Anyway here&#8217;s  the nice certificate that Rob brought back from Brussels</p>
+<p style="text-align: center;"><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/10/OSM-award.png" rel="attachment wp-att-1459"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1459" src="https://www.mappa-mercia.org/wp-content/uploads/2016/10/OSM-award-224x300.png" alt="osm-award" width="224" height="300" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/10/OSM-award-224x300.png 224w, https://www.mappa-mercia.org/wp-content/uploads/2016/10/OSM-award.png 522w" sizes="(max-width: 224px) 100vw, 224px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/10/congratulations.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UK Summer Quarterly Project</title>
+		<link>https://www.mappa-mercia.org/2016/09/uk-summer-quarterly-project.html</link>
+					<comments>https://www.mappa-mercia.org/2016/09/uk-summer-quarterly-project.html#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2016 17:43:30 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1448</guid>
+
+					<description><![CDATA[Today saw us pass the 1,000 total for farmyards added during this project(1008 to be precise). Well done to everyone who has participated. What has been the most unusual farm name anyone has come across? Picture Wikimedia Commons: Rod Trevaskus       &#8230; <a href="https://www.mappa-mercia.org/2016/09/uk-summer-quarterly-project.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Today saw us pass the 1,000 total for farmyards added during this project(1008 to be precise).</p>
+<p>Well done to everyone who has participated. What has been the most unusual farm name anyone has come across?</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/09/Stone_built_Slurry_tank_at_Moel_y_Mab._Part_of_the_Leighton_Model_Farm..png" rel="attachment wp-att-1449"><img decoding="async" loading="lazy" class="size-medium wp-image-1449 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/09/Stone_built_Slurry_tank_at_Moel_y_Mab._Part_of_the_Leighton_Model_Farm.-300x199.png" alt="stone_built_slurry_tank_at_moel_y_mab-_part_of_the_leighton_model_farm" width="300" height="199" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/09/Stone_built_Slurry_tank_at_Moel_y_Mab._Part_of_the_Leighton_Model_Farm.-300x199.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/09/Stone_built_Slurry_tank_at_Moel_y_Mab._Part_of_the_Leighton_Model_Farm..png 637w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><em>Picture Wikimedia Commons: <span class="mw-mmv-source-author"><span class="mw-mmv-author">Rod Trevaskus</span></span>       cc0</em></p>
+<p>Only a couple of weeks left &#8211; time to start thinking about our next quarterly project, while we see how many more farmyards we can add.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/09/uk-summer-quarterly-project.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Busy days</title>
+		<link>https://www.mappa-mercia.org/2016/07/busy-days.html</link>
+					<comments>https://www.mappa-mercia.org/2016/07/busy-days.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 08:23:44 +0000</pubDate>
+				<category><![CDATA[Participate]]></category>
+		<category><![CDATA[Use The Map]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1437</guid>
+
+					<description><![CDATA[Yesterday I attended the Landor Future Highways Conference at the new iCentrum building on Birmingham Science Park, at the invitation of the Birmingham ODI (Open Data Institute) node. It was good to see so many OSM maps being used by &#8230; <a href="https://www.mappa-mercia.org/2016/07/busy-days.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Yesterday I attended the Landor Future Highways Conference at the new iCentrum building on Birmingham Science Park, at the invitation of the Birmingham ODI (Open Data Institute) node. It was good to see so many OSM maps being used by presenters (thankyou Devon County Council and TransportAPI). I  was provided an adhoc slot into the programme to deliver a lightning 5 minute presentation about OpenStreetMap (thankyou Birmingham ODI node). It was a bit daunting presenting to highway professionals, especially in front of a screen the size of an IMAX cinema!</p>
+<p>Then it was off to Leicester to train new volunteers in editing with iD, as part of Leicester City Council&#8217;s walking-mapping project which is an  extension of their weekly Leicester health Walks. Thanks to Sara for organising the training and to Chris, Alan, Stan and AJ who took their first steps editing OpenStreetMap. We all look forward to you increasing the data coverage in Leicester.</p>
+<p>I&#8217;ve just about finished the edits from our June mini-mapping party in Kidderminster  from 2 weeks ago, when guess what?  Our July mini-mapping party is tonight in Tamworth &#8211; everyone welcome. We&#8217;ll be meeting in the Globe Inn <span class="_Xbe">Lower Gungate, Tamworth B79 7AT</span> at 8pm.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/07/busy-days.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Summer Programme</title>
+		<link>https://www.mappa-mercia.org/2016/05/summer-programme.html</link>
+					<comments>https://www.mappa-mercia.org/2016/05/summer-programme.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Mon, 09 May 2016 18:52:00 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1402</guid>
+
+					<description><![CDATA[To take advantage of the good weather and light evenings during the summer months we tour around the region mapping areas which look either interesting or not well-mapped. So far this year we have visited Stratford-upon-Avon where we attempted to &#8230; <a href="https://www.mappa-mercia.org/2016/05/summer-programme.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>To take advantage of the good weather and light evenings during the summer months we tour around the region mapping areas which look either interesting or not well-mapped.</p>
+<p>So far this year we have visited Stratford-upon-Avon where we attempted to map all the tourist accommodation (it is the 400th annivarsary of Shakespeare&#8217;s death and this town is a global tourist destination). The ongoing project is to map all the buildings &#8211; help appreciated!</p>
+<p>Last week saw us in Atherstone where our mapping effort was eclectic to say the least</p>
+<p>We have mapped out the remainder of the venues:</p>
+<p><strong>June</strong> will be <strong>Kidderminster</strong> on a Saturday ( pub &amp; date tbc)</p>
+<p><strong>July</strong> will be <strong>Tamworth</strong> Wed July 6th (<a href="http://www.openstreetmap.org/way/391844336" target="_blank">Globe Inn</a>, Lower Gungate)</p>
+<p><strong>August</strong> is the 10th anniversary of mappamercia so we&#8217;re going to map as much of <strong>WR10</strong> as possible, centred on <strong>Pershore</strong> (pub &amp; date tbc)</p>
+<p><strong>September</strong> will be somewhere in <strong>Herefordshire</strong> (some input from mappers in Herefordshire appreciated &#8211; given the distance involved for most attendees this will probably be a Saturday too)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/05/summer-programme.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Becoming mobile: MAPS.ME and Geopedia</title>
+		<link>https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html</link>
+					<comments>https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2016 21:44:11 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1391</guid>
+
+					<description><![CDATA[Back in June of last year we shared with you Richard Fairhurst&#8217;s State of the Map US talk in which he set out the case for more mobile OpenStreetMap apps. One of the key message was that &#8220;we need to &#8230; <a href="https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>Back in June of last year we shared with you <a href="https://www.mappa-mercia.org/2015/06/we-need-to-think-about-smartphone-editors.html">Richard Fairhurst&#8217;s State of the Map US talk</a> in which he set out the case for more mobile OpenStreetMap apps. One of the key message was that &#8220;we need to think about smartphone editors&#8221; as a way to continue growing OpenStreetMap. This month we got a new mobile editor and a new app to help you explore your surroundings.</strong></p>
+<p>Firstly the new editor. This comes in the form of an update to the popular <a href="http://maps.me/en/home">MAPS.ME</a>. Even before this update MAPS.ME was a essential app for any OpenStreetMapper. It provides a simple to use offline map with voice over guidance for travel directions by car or on foot. It&#8217;s interface is simple and effective: for example, clicking on a map feature brings up a slider at the bottom of the screen providing more information.</p>
+<p>On April 5th 2016, MAPS.ME developer Ilya Zverev <a href="http://www.openstreetmap.org/user/Zverik/diary/38344">explained</a> how you can now edit the map information direct from the app. This is perfect for adding addresses, phone numbers and opening hours to existing map features whilst out and about.</p>
+<div id="attachment_1392" style="width: 699px" class="wp-caption aligncenter"><a href="http://maps.me/en/home" rel="attachment wp-att-1392"><img aria-describedby="caption-attachment-1392" decoding="async" loading="lazy" class="wp-image-1392" src="https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-1024x526.png" alt="Editing OpenStreetMap with Maps.Me" width="689" height="354" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-1024x526.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-300x154.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-768x394.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor.png 1100w" sizes="(max-width: 689px) 100vw, 689px" /></a><p id="caption-attachment-1392" class="wp-caption-text">Editing OpenStreetMap with MAPS.ME</p></div>
+<p>With more than 7 million monthly active users MAPS.ME is aiming to be the number one OpenStreetMap editor. Although OpenStreetMap&#8217;s <a href="http://wiki.openstreetmap.org/wiki/Editor_usage_stats#by_number_of_users_.28distinct_uids.29">editor usage stats</a> are a little out of date, it&#8217;s <a href="http://py.osmz.ru/mmwatch/">already clear</a> that MAPS.ME is the most used mobile editor measured by number of users.</p>
+<p>The second addition to mobile comes in the form of <a href="http://www.geopedia.info/">Geopedia</a>. This is a neat little app that takes the OpenStreetMap base map and overlays the wikipedia database. Clicking on the map shows you all the nearby features that have a wikipedia article (we understand this is based on wikipedia&#8217;s latitude/longitude data rather than the wikipedia tag stored within OpenStreetMap).</p>
+<div id="attachment_1393" style="width: 699px" class="wp-caption aligncenter"><a href="http://www.geopedia.info/" rel="attachment wp-att-1393"><img aria-describedby="caption-attachment-1393" decoding="async" loading="lazy" class="size-full wp-image-1393" src="https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia.png" alt="Searching for nearby attractions with geopedia." width="689" height="426" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia.png 689w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia-300x185.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia-80x50.png 80w" sizes="(max-width: 689px) 100vw, 689px" /></a><p id="caption-attachment-1393" class="wp-caption-text">Searching for nearby attractions with geopedia.</p></div>
+<p>As this links to wikipedia you can view the articles in multiple languages and view an image if one is available. It works well to find new and exciting places to explore in your neighbourhood, or whilst away travelling. And of course you can use it as a prompt to add text and photos to wikipedia, and map details to OpenStreetMap &#8211; perhaps via MAPS.ME!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

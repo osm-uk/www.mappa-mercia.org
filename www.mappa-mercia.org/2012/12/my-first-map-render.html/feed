@@ -1,0 +1,57 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Maperitive: My first map render	</title>
+	<atom:link href="https://www.mappa-mercia.org/2012/12/my-first-map-render.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2012/12/my-first-map-render.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 22 Feb 2015 17:39:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2012/12/my-first-map-render.html#comment-539</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sun, 22 Feb 2015 17:39:53 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/my-first-map-render/#comment-539</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2012/12/my-first-map-render.html#comment-517&quot;&gt;Juan M Diaz Soto&lt;/a&gt;.
+
+Not sure exactly what you mean. If something is missing from OpenStreetMap the you can add it yourself using, for example, the iD map editor at openstreetmap.org (please only add real things/objects that exist on the ground).
+
+If you are wanting to add non-map data then you may want to look into JOSM which can open and save .osm files (please be careful not to upload your non-map data back up to the openstreetmap website instead be sure to save to a file on your computer).]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2012/12/my-first-map-render.html#comment-517">Juan M Diaz Soto</a>.</p>
+<p>Not sure exactly what you mean. If something is missing from OpenStreetMap the you can add it yourself using, for example, the iD map editor at openstreetmap.org (please only add real things/objects that exist on the ground).</p>
+<p>If you are wanting to add non-map data then you may want to look into JOSM which can open and save .osm files (please be careful not to upload your non-map data back up to the openstreetmap website instead be sure to save to a file on your computer).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Juan M Diaz Soto		</title>
+		<link>https://www.mappa-mercia.org/2012/12/my-first-map-render.html#comment-517</link>
+
+		<dc:creator><![CDATA[Juan M Diaz Soto]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2015 12:02:56 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/my-first-map-render/#comment-517</guid>
+
+					<description><![CDATA[Please. how could i draw, put or insert UTM coordinates on OSM to work with maperitive?]]></description>
+			<content:encoded><![CDATA[<p>Please. how could i draw, put or insert UTM coordinates on OSM to work with maperitive?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

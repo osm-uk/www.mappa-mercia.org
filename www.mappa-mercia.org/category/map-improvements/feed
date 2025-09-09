@@ -1,0 +1,391 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Map Improvements &#8211; Mappa Mercia</title>
+	<atom:link href="https://www.mappa-mercia.org/category/map-improvements/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Tue, 17 Dec 2019 21:32:36 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Junction improvements: more than meets the eye</title>
+		<link>https://www.mappa-mercia.org/2019/12/junction-improvements-more-than-meets-the-eye.html</link>
+					<comments>https://www.mappa-mercia.org/2019/12/junction-improvements-more-than-meets-the-eye.html#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2019 21:32:36 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1571</guid>
+
+					<description><![CDATA[It&#8217;s been fascinating mapping the changes during 2019 for the major junction improvements under way at the Iron Lane junction in East Birmingham; long tolerated by users of the  A4040 Outer Ring Road for generating long waits especially for users &#8230; <a href="https://www.mappa-mercia.org/2019/12/junction-improvements-more-than-meets-the-eye.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s been fascinating mapping the changes during 2019 for the major junction improvements under way at the <a href="https://www.openstreetmap.org/way/698221081#map=15/52.4836/-1.8074">Iron Lane junction</a> in East Birmingham; long tolerated by users of the  A4040 Outer Ring Road for generating long waits especially for users of the adjacent Stechford Retail Park and long-suffering passengers on the 11A/11C outer circle bus route. &#8220;Pinchpoint&#8221; is the official nomenclature for such junctions.</p>
+<p>The junction moves from being a signalised gyratory to a junction with two new roundabouts and improvements to north-south flow with a dualled section (involving a new bridge over the River Cole) and a  bypass northbound lane to avoid the new Ring Road roundabout. There also 5 new toucan crossing to be installed.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2019/12/Iron-Lane-Map.png"><img decoding="async" loading="lazy" class=" wp-image-1570 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2019/12/Iron-Lane-Map-300x203.png" alt="" width="506" height="342" srcset="https://www.mappa-mercia.org/wp-content/uploads/2019/12/Iron-Lane-Map-300x203.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2019/12/Iron-Lane-Map.png 584w" sizes="(max-width: 506px) 100vw, 506px" /></a></p>
+<p>Iron Lane becomes restricted to a road with no addresses, joining the two roundabouts (the current mini-roundabout to the east is only temporary to ease traffic flow whilst the second roundabout is constructed).</p>
+<p>Apart from the mapping complexity of keeping up with changes,  what makes this junction so interesting is that the majority of the funding comes from errant motorists caught and fined by Bus Lane enforcement cameras: £7.083m of the total cost of £12.984m. Next time I&#8217;m sat fuming on a delayed bus journey because of selfish prats who think BUS LANE doesn&#8217;t apply to them, I can feel smug that they&#8217;re funding road  improvements.</p>
+<p>Iron Lane junction improvements  began in March 2019, and are expected to end in late 2020 with a major step forward on 9th December when a 350 tonne mobile crane made short work of lifting reinforced concrete box beams onto the newly constructed supports across the River Cole. The major roundabout on the A4040 is now open and work has started on the second roundabout for the new entrance to the Stechford Retail Park</p>
+<p>But the story doesn&#8217;t start with the arrival of the diggers and road cones this year. Birmingham City Council first approved the scheme in March 2015 and preparatory demolition was completed in November 2016 ( I remember removing the Snooker Club from OpenStreetMap).  And the actual roadworks only cost £5.5m in the contract awarded to McPhillips. So why the delay and what cost so much more than the actual construction?</p>
+<p>Putting aside the usual struggle to secure funding from an austerity-obsessed government, two main factors dominate:</p>
+<p>Firstly the immense volume of documentation required for planning and other statutory requirements such as a 232 page traffic modelling report. To say nothing of the extensive consultation process required. Compulsory Purchase Orders even have to be justified by referral to provisions of the Human Rights Act. All those consultants and surveys take time and money.</p>
+<p>Secondly, land acquisition by Compulsory Purchase Orders also eats time and money, especially when landowners&#8217; lawyers get involved. The adjacent retail park is owned  by some tax-avoidance outfit in Luxembourg and the antics of their lawyers as documented by Birmingham City Council on their planning portal would make you howl with laughter if you&#8217;re cynically inclined or your blood boil if you have a bit more of a social conscience.</p>
+<p>Needless to say only on OpenStreetMap can you see the latest road layout! Come back next year when it&#8217;s complete</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2019/12/junction-improvements-more-than-meets-the-eye.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Petrol stations with a fixme tag</title>
+		<link>https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html</link>
+					<comments>https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 17 Jan 2018 21:49:36 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1525</guid>
+
+					<description><![CDATA[As we described when we kicked off this quarters UK project to map petrol stations, recent community validation of third party (import) data has highlighted much outdated and erroneous data within OpenStreetMap :-(. For the Shell import we captured some &#8230; <a href="https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>As we <a href="https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html">described</a> when we kicked off this quarters UK project to map petrol stations, recent community validation of third party (import) data has highlighted much outdated and erroneous data within OpenStreetMap :-(. For the Shell import we captured some of this and added it to a &#8220;fixme&#8221; tag. If you have not yet come across this tag then it is one in which OpenStreetMap users can flag something that looks wrong or requires additional information to improve the map.</p>
+<p>It is possible to view petrol stations with a fixme tag by using Overpass Turbo scripts. We have done this already so all you have to do is click <a href="https://overpass-turbo.eu/s/uZD">this link</a> and press run. Results are visual as shown in the example below. There are approximately 130 petrol stations with a fixme tag so with some effort we should be able to review them all. Happy mapping!</p>
+<div id="attachment_1526" style="width: 827px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1526" decoding="async" loading="lazy" class="wp-image-1526 size-full" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme.png" alt="" width="817" height="421" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme.png 817w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme-300x155.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme-768x396.png 768w" sizes="(max-width: 817px) 100vw, 817px" /><p id="caption-attachment-1526" class="wp-caption-text">Example result from Overpass Turbo.</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Updating bus stops in the West Midlands</title>
+		<link>https://www.mappa-mercia.org/2017/05/updating-bus-stops-in-the-west-midlands.html</link>
+					<comments>https://www.mappa-mercia.org/2017/05/updating-bus-stops-in-the-west-midlands.html#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Wed, 24 May 2017 17:47:48 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1505</guid>
+
+					<description><![CDATA[It has been 8 years since the original NaPTAN (National Public Transport Access Nodes) data was imported into the UK space of OpenStreetMap in 2009. It was done on a piecemeal basis and only in areas where it was requested, &#8230; <a href="https://www.mappa-mercia.org/2017/05/updating-bus-stops-in-the-west-midlands.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>It has been 8 years since the original NaPTAN (National Public Transport Access Nodes) data was imported into the UK space of OpenStreetMap in 2009. It was done on a piecemeal basis and only in areas where it was requested, which was generally where there were active mappers. Since that time I am not aware of any organised attempts to bring that data up-to-date. There will certainly have been localised efforts based purely on surveys.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2017/05/Bus-stop-and-shelter.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-1508 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2017/05/Bus-stop-and-shelter-300x281.jpg" alt="" width="300" height="281" srcset="https://www.mappa-mercia.org/wp-content/uploads/2017/05/Bus-stop-and-shelter-300x281.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2017/05/Bus-stop-and-shelter-768x719.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2017/05/Bus-stop-and-shelter-1024x959.jpg 1024w, https://www.mappa-mercia.org/wp-content/uploads/2017/05/Bus-stop-and-shelter.jpg 2181w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+So when the local OSM community, mappa-mercia,  was approached by TfWM (Transport for West Midlands) with the offer of resources to bring the NaPTAN data up to date as TfWM was reviewing all their public map production and could consider OSM as a candidate for displaying this data, we leapt at the chance.<br />
+We had started out locally some 8 years ago with a lot of enthusiasm and surveyed bus stops crazily but given the scale of the task (some 12,000 bus stops) even a dedicated bunch of mappers is going to get bored &#8211; and so we did. Updates and confirmation of existing data languished outside of a couple of public transport enthusiasts and sporadic surveying by others when out surveying something else.<br />
+So two internal developers from TfWM and me set to work meeting every Tuesday afternoon in TfWM&#8217;s Birmingham head office to put matters right. Our aim was to get an accurate up-to-date map of Public Transport  data in the West Midlands using mostly NaPTAN data. We planned and <a href="http://wiki.openstreetmap.org/wiki/Automated_Edit_West_Midlands_NAPTAN_data">documented</a> and kept relevant OSM talk lists up to date with what we were doing.<br />
+Peripheral tasks were:<br />
+1. entering the location of all the new Swift Collector points &#8211; these are where passengers can upload new ride allowances into their Swift Smart Cards<br />
+2. entering West Midands Fare Zone data to all railway stations in the region<br />
+3. entering the proposed routes of all planned Metro tram lines<br />
+The first task was to clean up the existing OSM data. This involved moving bus stop nodes that were nodes on highways rather than to one side, identifying and tagging non-naptan bus stops  ( for example car park shuttle buses at the Airport, large campuses such as the National Exhibition Centre and personnel shuttle buses for multisite campuses, usually hospitals) and finally identifying, and resolving where possible,  what we dubbed &#8220;orphan&#8221; bus stops which were those surveyed by OSMers but with no NapTAN data attached.<br />
+The next task was to check the positional accuracy of the current 2017 NapTAN data against both aerial imagery and known OSM well-surveyed areas, as that would determine our approach. Sadly we found that the positional accuracy had not improved systematically over the 8 years. So any refresh of NapTAN data would have to rely on OSM position.<br />
+Our next step was to remove all those bus stops marked DEL, for deleted, in the NaPTAN data by removing the highway=bus_stop tag and adding a note to that effect and leaving the remainder of the tags. This was very much a belt-and-braces approach.<br />
+Next we updated all the bus stops that had a NapTAN identifier with a standardised naming convention preferred by TfWM and agreed by the local OSM community,  and with current route_ref information.<br />
+That left all the new bus stops that had been added in the intervening 8 years. This had to be done semi-manually in order not to remove any bus stops surveyed by OSMers and also to check the positional accuracy (OSM surveys always won!)<br />
+As CUS (Customary) stops do not render as there is nothing verifiable on the ground such as a pole we imported those first, as is.<br />
+Then any remaining &#8220;orphan&#8221; bus stops were checked against the new bus stops, relevant data transferred and positions moved before deleting them. We managed to remove nearly 300 of these but were unable to resolve about 50. Then the new bus stops with improved positions were imported. We could have automated this more, but preferred to adopt a more cautious , if laborious, approach of human review.<br />
+Finally, having achieved an accurate up-to-date bus stop estate we added shelter information: shelter=yes and shelter_ref=xxxxxxxx.<br />
+Loose ends are largely those bus stops still in existence on the ground with NOT IN USE displayed prominently on the pole flag, which NaPTAN treat as non-existent but OSMers can see and will map; and Ring and Ride bus stops which also were  not in the NapTAN data. There are also numbers of bus stops with poles that are still labelled as CUS in NapTAN.So we never achieved 100% accuracy but the percentage of errors/queries is of the order of &lt;1%.<br />
+Next we have to agree with TfWM not to let our hard work atrophy by entropy  but keep the data up-to-date by agreeing a frequency of when we do it and a process of how we do it.<br />
+<strong>What we didn&#8217;t do</strong>: upgrade existing  and enter  missing bus routes as relations. Neither party was willing to devote the resources to entering these as relations. Which was a pity but maybe we have to realise that the easiest way of representing these given their quantity and volatility ( and the upcoming changes in the Bus Bill which will demand electronic submission of bus routes) is layering on the base map in a separate application.<br />
+<strong> The process in numbers</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="385">Item</td>
+<td width="385">Approx number</td>
+</tr>
+<tr>
+<td width="385">Elapsed time</td>
+<td width="385">3 months</td>
+</tr>
+<tr>
+<td width="385">TfWM resource hours</td>
+<td width="385">30 hours</td>
+</tr>
+<tr>
+<td width="385">OSM resource hours</td>
+<td width="385">30 hours</td>
+</tr>
+<tr>
+<td width="385">Total  bus stops</td>
+<td width="385">12,500</td>
+</tr>
+<tr>
+<td width="385">Bus stops deleted</td>
+<td width="385">400</td>
+</tr>
+<tr>
+<td width="385">New bus stops imported</td>
+<td width="385">800</td>
+</tr>
+<tr>
+<td width="385">Orphans removed</td>
+<td width="385">300</td>
+</tr>
+<tr>
+<td width="385">Shelters added</td>
+<td width="385">5,000</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Conclusion</strong><br />
+TfWM have some great developers and we quickly developed a rapport together. We have built good relations not only at a personal level, but also as organisations.<br />
+If the state of our bus stop data in the West Midlands is typical for the UK then we have a lot of work to do to obtain an accurate UK-wide map of bus stops. If we were to  contemplate upgrading throughout the UK I would say it couldn&#8217;t be done without a dedicated full-time team and would consequently need some national sponsorship with a business case for devoting the resources necessary. A region-by-region or city-by-city approach would be more doable. So how about it OSM UK and DfT (Department for Transport)?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2017/05/updating-bus-stops-in-the-west-midlands.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A guide to mapping Fire Hydrants in the UK</title>
+		<link>https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html</link>
+					<comments>https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2016 15:42:16 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Observations]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1487</guid>
+
+					<description><![CDATA[&#160; In the West Midlands our fire hydrant signs are generally placed on lamp posts: The black H on a yellow background I believe to be a UK standard. The upper number is the diameter of the underlying water main &#8230; <a href="https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>In the West Midlands our fire hydrant signs are generally placed on lamp posts:</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-1475 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-300x225.jpg" alt="" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>The black H on a yellow background I believe to be a UK standard. The upper number is the diameter of the underlying water main in mm. The lower number is the distance in feet to the fire hydrant from the sign with the arrow showing the direction to the actual hydrant. There is also a reference number at the foot of the sign. So, having spotted the sign, the actual fire hydrant has to be found. The signs can get swivelled on the lamposts through maintenance interventions or general neglect and the arrows point in the wrong direction!</p>
+<p>To complicate matters further, there are some fire hydrants that do not have a sign, and some older variants of the signs. These older signs tend to be attached to buildings or walls and I have no idea what the numbers refer to.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1483" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-300x225.jpg" alt="" width="129" height="97" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-1024x768.jpg 1024w" sizes="(max-width: 129px) 100vw, 129px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1482" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-300x225.jpg" alt="" width="130" height="97" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-1024x768.jpg 1024w" sizes="(max-width: 130px) 100vw, 130px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1480" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-300x225.jpg" alt="" width="135" height="101" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-1024x768.jpg 1024w" sizes="(max-width: 135px) 100vw, 135px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1479" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-300x225.jpg" alt="" width="132" height="99" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-1024x768.jpg 1024w" sizes="(max-width: 132px) 100vw, 132px" /></a></p>
+<p>So you have to on the lookout on the ground as well as spotting yellow H  signs.Fire hydrant covers generally have FH on them to identify them, although some older ones can have just H only. Whether the older style ones are still operational I don&#8217;t know, but they get mapped anyway.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916.jpg"><img decoding="async" loading="lazy" class="wp-image-1476 alignleft" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-300x225.jpg" alt="" width="166" height="124" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-1024x768.jpg 1024w" sizes="(max-width: 166px) 100vw, 166px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1484 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-300x225.jpg" alt="" width="171" height="128" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-1024x768.jpg 1024w" sizes="(max-width: 171px) 100vw, 171px" /></a></p>
+<p>&nbsp;</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915.jpg"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1477" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-300x225.jpg" alt="" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587.jpg"><img decoding="async" loading="lazy" class="alignnone  wp-image-1485" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587-225x300.jpg" alt="" width="171" height="228" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587-225x300.jpg 225w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587-768x1024.jpg 768w" sizes="(max-width: 171px) 100vw, 171px" /></a></p>
+<p>And of course it&#8217;s always good to see public organisations collaborating successfully with each other!</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-1481 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-300x225.jpg" alt="" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>The basic tag is emergency=fire_hydrant with more <a href="http://wiki.openstreetmap.org/wiki/Tag:emergency%3Dfire_hydrant">details on the OSM wiki</a></p>
+<p>Why the sudden interest in fire hydrants? In the UK, they&#8217;ve languished as an item that gets mapped.</p>
+<p>At our last mappamercia pub meeting Andy Mabbett regaled us with his saga of trying to get West Midlands Fire Service to release the locations of fire hydrants under Freedom of Information legislation.</p>
+<p>The full saga can be found<a href="https://www.whatdotheyknow.com/request/locations_of_fire_hydrants"> here</a></p>
+<p>WMFS refused to release the information on the grounds of national security viz: &#8220;publishing information about water  networks and other parts of the critical national infrastructure could  expose vulnerabilities in the network and pose a serious risk to public health either through non availability of water resource or<br />
+contamination of supplies. There does not have to be any evidence that this is being planned but it is a possibility given the current threat level in the United Kingdom.&#8221;</p>
+<p>An appeal by Andy against WMFS to the first-tier information rights tribunal mainly on the grounds that other Fire Services in the UK had already released their information on fire hydrants was rejected. The judges agreed with the Information Commissioner&#8217;s Office (ICO) assessment:</p>
+<p>&#8220;The ICO concluded that the withholding of the information was reasonably necessary for national security and a listing of hydrants and their locations would assist in the planning of an attack by poisoning on water supply infrastructure by identifying access points. Such an attack on the infrastructure would be in the domain of national security. While hydrants are visible a comprehensive list of the precise location of every hydrant would place in the public domain more information than is available through hydrants being visible. WMFS supplied a list of attacks and attempted attacks on water supplies.The ICO considered that such an attack was plausible.&#8221;</p>
+<p>There is a method for contaminating the water supply known as backflow contamination, which is considered to be reasonably easy according to an excellent paper <a href="http://www.waterworld.com/articles/2010/03/terrorism-vulnerabilities-to-the-water-supply-and-the-role-of-the-consumer.html">here </a>which quotes extensively from US military and homeland security sources. Fire hydrants are one possible source to generate backflow.</p>
+<p>My limited understanding of water networks is that backflow is a general problem for the water supply industry, which can mitigate the effects with backflow prevention devices. Just how extensive and successful this mitigation is in the UK (and thus how safe we are from backflow attacks) will remain a commercial mystery, as our water supply is in the hands of private companies who are under no obligation to reveal such information. ( I have another story about water networks and open information which will be the subject of a later blog)</p>
+<p>Given the cult of secrecy that exists at all levels of official Britain, it also seems unlikely there will be any disclosure of the risk levels of such an attack vector so that we might make up our own minds based on the data. We will have to make do with the assurances of &#8220;those that know best&#8221;. The public&#8217;s role seems to be limited primarily to that of potential or actual victims.</p>
+<p>This issue does raise some interesting ethical challenges for OpenStreetMap as it seems to be sending us back several centuries when accurate maps were regarded as military secrets. Or to the days of the Cold War when our national mapping agency the Ordnance Survey would obligingly leave blank spaces on their maps at the sites of military installations. Would a map of fire hydrants in the West Midlands be construed as offence under ss57&amp;58 of the Terrorism Act 2000: collecting, possessing or making a record of information of a kind likely to be useful to a person committing or preparing an act of terrorism? Should we be standing up for opendata, one of the founding principles of OpenStreetMap, or protecting  (supposedly) national security? What is the position in other jurisdictions where there are more draconian restrictions about identifying and mapping military installations and &#8220;national critical infrastructure&#8221;? Are mappers more circumspect there?  What&#8217;s the legal postion- is the OSMF liable for prosecution or just the contributing mapper or both? Should OSMF comply with a demand to remove information on the grounds of national security? Or to refrain from collecting it in the first instance?</p>
+<p>According to taginfo there are only 1786 fire hydrants mapped in the UK, of which there are now about 300  in the West Midlands. Prior to my interest being piqued by this sorry tale there were only about 5 fire hydrants mapped in the West Midlands. Judging by the density of fire hydrants I&#8217;ve discovered so far, there are probably thousands in the West Midlands so I seriously doubt whether we&#8217;ll ever crowdsource the location of all of them,(or even many more than we have already).</p>
+<p>Nonetheless, it&#8217;s been an education in another aspect of urban infrastructure I wasn&#8217;t really aware of, and a confirmation of the patrician &#8220;you don&#8217;t need to know about that&#8221; attitude of much of British officialdom.</p>
+<p>(all of the images are my own and are published here as public domain)</p>
+<div class="textLayer">
+<div>.</div>
+</div>
+<div data-canvas-width="643.1706424"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html/feed</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Summary of the Summer UK Quarterly Project</title>
+		<link>https://www.mappa-mercia.org/2016/10/summary-of-the-summer-uk-quarterly-project.html</link>
+					<comments>https://www.mappa-mercia.org/2016/10/summary-of-the-summer-uk-quarterly-project.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2016 15:35:04 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1456</guid>
+
+					<description><![CDATA[Our Summer project  which ended on 30 September was to map as many farmyards as we could. 1. We added 1499 farmyards, which compares to an increase of 853 schools for the schools project which seems to suggest farmyards was &#8230; <a href="https://www.mappa-mercia.org/2016/10/summary-of-the-summer-uk-quarterly-project.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>Our Summer project  which ended on 30 September was to map as many farmyards as we could.</div>
+<div></div>
+<div>1. We added 1499 farmyards, which compares to an increase of 853 schools for the schools project which seems to suggest farmyards was a more active project, but the schools project added 3653 polygons( i.e we converted lots of nodes to polygons, thereby enriching the data). So this time we created more data, rather than improve existing data.</div>
+<div>2. We gathered momentum during the project: it took 39 days to edit the first 500 farmyards; 33 for the next 500; and 20 days for the ultimate 500 (well, 499)</div>
+<p>3. There are over 19,000 place=farm tags, almost all of them (&gt;18,000) nodes. Mostly they seem to indicate farms but sometimes they get used too enthusiastically for any group of buildings. It is generally agreed that this tag really doesn&#8217;t add any useful information and its use should be discouraged.</p></div>
+<p>4. We have 36 generically named Poultry Farm or Poultry Houses copied from OS OpenData, which describes the farm but doesn&#8217;t actually name it!</p></div>
+<p>5. A lot of farms in Herefordshire (which is where I mapped mostly for this project) don&#8217;t have the word Farm in their name. Is this the case elsewhere?</p></div>
+<p>6. If Herefordshire is anything to go by road alignment in rural areas can be pretty poor.</p></div>
+<p>7. Waterways traced from NPE are severely misaligned.</p></div>
+<p>8. 5 and 6 might suggest themselves as future quarterly projects. Correcting them around farms I added certainly slowed down my output.</p></div>
+<p>9. Don&#8217;t ask farmers to help you mapping during their busiest time of year! I got zero response from my approaches.</p></div>
+<p>10. Most unusual name I found was Cold Comfort Farm. There are 4 of them in the UK and had a <a href="http://www.openstreetmap.org/way/228497532#map=16/52.2189/-1.8953&amp;layers=Thttps://en.wikipedia.org/wiki/Cold_Comfort_Farm" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=http://www.openstreetmap.org/way/228497532%23map%3D16/52.2189/-1.8953%26layers%3DThttps://en.wikipedia.org/wiki/Cold_Comfort_Farm&amp;source=gmail&amp;ust=1475594768764000&amp;usg=AFQjCNGvpZAxMddmssEnOKZMuoLPWcwgYA">comic novel</a> named after them</p>
+<p>Herefordshire farmyards before and after:</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June.png" rel="attachment wp-att-1455"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1455" src="https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June-300x230.png" alt="hereford-farms-june" width="300" height="230" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June-300x230.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June-768x589.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June.png 855w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep.png" rel="attachment wp-att-1454"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1454" src="https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep-300x225.png" alt="hereford-end-sep" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep-300x225.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep-768x576.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep.png 866w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/10/summary-of-the-summer-uk-quarterly-project.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UK Summer Quarterly Project</title>
+		<link>https://www.mappa-mercia.org/2016/09/uk-summer-quarterly-project.html</link>
+					<comments>https://www.mappa-mercia.org/2016/09/uk-summer-quarterly-project.html#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2016 17:43:30 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1448</guid>
+
+					<description><![CDATA[Today saw us pass the 1,000 total for farmyards added during this project(1008 to be precise). Well done to everyone who has participated. What has been the most unusual farm name anyone has come across? Picture Wikimedia Commons: Rod Trevaskus       &#8230; <a href="https://www.mappa-mercia.org/2016/09/uk-summer-quarterly-project.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Today saw us pass the 1,000 total for farmyards added during this project(1008 to be precise).</p>
+<p>Well done to everyone who has participated. What has been the most unusual farm name anyone has come across?</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/09/Stone_built_Slurry_tank_at_Moel_y_Mab._Part_of_the_Leighton_Model_Farm..png" rel="attachment wp-att-1449"><img decoding="async" loading="lazy" class="size-medium wp-image-1449 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/09/Stone_built_Slurry_tank_at_Moel_y_Mab._Part_of_the_Leighton_Model_Farm.-300x199.png" alt="stone_built_slurry_tank_at_moel_y_mab-_part_of_the_leighton_model_farm" width="300" height="199" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/09/Stone_built_Slurry_tank_at_Moel_y_Mab._Part_of_the_Leighton_Model_Farm.-300x199.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/09/Stone_built_Slurry_tank_at_Moel_y_Mab._Part_of_the_Leighton_Model_Farm..png 637w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><em>Picture Wikimedia Commons: <span class="mw-mmv-source-author"><span class="mw-mmv-author">Rod Trevaskus</span></span>       cc0</em></p>
+<p>Only a couple of weeks left &#8211; time to start thinking about our next quarterly project, while we see how many more farmyards we can add.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/09/uk-summer-quarterly-project.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A surprising rural waymarked walk in the heart of a city</title>
+		<link>https://www.mappa-mercia.org/2016/07/a-surprising-rural-waymarked-walk-in-the-heart-of-a-city.html</link>
+					<comments>https://www.mappa-mercia.org/2016/07/a-surprising-rural-waymarked-walk-in-the-heart-of-a-city.html#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Fri, 01 Jul 2016 10:22:10 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Use The Map]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1433</guid>
+
+					<description><![CDATA[Dudley, in the heart of the Black Country in the West Midands, is not the sort of place you&#8217;d envisage a rural walk. The Black Country is so-named for its iron and coal and industrial might. Some  have claimed the &#8230; <a href="https://www.mappa-mercia.org/2016/07/a-surprising-rural-waymarked-walk-in-the-heart-of-a-city.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Dudley, in the heart of the Black Country in the West Midands, is not the sort of place you&#8217;d envisage a rural walk. The Black Country is so-named for its iron and coal and industrial might. Some  have claimed the furnaces and mines of the Black Country were the basis for JRR Tolkien&#8217;s Mordor in Lord of the Rings. Most of the industry has now disappeared and left lots of brownfield sites, crumbling industrial buildings and a struggling economy, with its associated social problems.</p>
+<p>I have recently walked, surveyed and mapped the Limestone Walk. And  what a delight it was!  It was easy to forget the adjacent presence of a dense urban environment. The walk is poorly publicised and poorly mapped (the waymarking can be poor in places also). I could find little on the web which could act as a practical guide for anyone wanting to walk this route. The best I found was from the excellent <a href="https://www.discoveringbritain.org/activities/west-midlands/walks/dudley.html">Discovering Britain</a> resource provided by the Royal Geographical Society.</p>
+<p>So I thought &#8211; here&#8217;s an opportunity to demonstrate the capabilities of OpenStreetMap. This is the result of my efforts, taken from Lonvia&#8217;s <a href="http://hiking.waymarkedtrails.org/#?map=13!52.5376!-2.0966">Waymarked Trails</a></p>
+<p style="text-align: center;"><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/07/Limestone-Walk.png" rel="attachment wp-att-1432"><img decoding="async" loading="lazy" class="alignnone  wp-image-1432" src="https://www.mappa-mercia.org/wp-content/uploads/2016/07/Limestone-Walk-300x218.png" alt="Limestone Walk" width="368" height="267" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/07/Limestone-Walk-300x218.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/07/Limestone-Walk-768x558.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/07/Limestone-Walk-1024x744.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2016/07/Limestone-Walk.png 1125w" sizes="(max-width: 368px) 100vw, 368px" /></a></p>
+<p style="text-align: left;">The walk commences at the ruins of Dudley&#8217;s mediaeval Priory and ascends Castle Hill (unfortunately Dudley Castle and its zoo are a paying attraction so the walk has to avoid them). Castle Hill is riddled with collapsed limestone mines and also with canal tunnels. A small diversion to the Black Country Living Museum is well worth the effort: it provides an extensive depiction of the industrial and social history of the Black Country.</p>
+<p>But the jewel in the crown of the walk has to be its passage through the <a href="https://en.wikipedia.org/wiki/Wren%27s_Nest">Wren&#8217;s Nest National Nature Reserve</a>. It has been a national nature reserve since 1956 and there is currently a bid to place it in  wider regional GeoPark. It is world famous geologically for its well-preserved Silurian coral reef fossils and is one of the most diverse and abundant fossil site in the British Isles.  It is also famous historically for here it was  that the Scottish palaeontologist Sir Roderick Murchison studied the fossils and rock formations that led to him defining the Silurian System. <sup id="cite_ref-news.bbc.co.uk_6-1" class="reference"></sup></p>
+<p>The crater <a title="Murchison (crater)" href="https://en.wikipedia.org/wiki/Murchison_%28crater%29">Murchison</a> on the Moon and at least fifteen geographical locations on Earth are named after him. These include: Mount Murchison in the <a title="Mountaineer Range" href="https://en.wikipedia.org/wiki/Mountaineer_Range">Mountaineer Range</a>, Antarctica; Mount Murchison, just west of <a title="Squamish, British Columbia" href="https://en.wikipedia.org/wiki/Squamish,_British_Columbia">Squamish, British Columbia</a>, <a title="Canada" href="https://en.wikipedia.org/wiki/Canada">Canada</a>; tiny Murchison Island in the <a class="mw-redirect" title="Queen Charlotte Islands" href="https://en.wikipedia.org/wiki/Queen_Charlotte_Islands">Queen Charlotte Islands</a> in the same province; <a title="Murchison Falls National Park" href="https://en.wikipedia.org/wiki/Murchison_Falls_National_Park">Murchison Falls (Uganda)</a>; and the <a title="Murchison River (Western Australia)" href="https://en.wikipedia.org/wiki/Murchison_River_%28Western_Australia%29">Murchison River</a> in Western Australia. The town of <a title="Murchison, New Zealand" href="https://en.wikipedia.org/wiki/Murchison,_New_Zealand">Murchison</a> in the Tasman Region of New Zealand&#8217;s South Island was also named after him. It would be interesting to discover how many of these are mapped in OpenStreetMap.</p>
+<p>The walk culminates on<a href="http://www.dudley.gov.uk/see-and-do/parks-open-spaces/the-parks-in-the-borough/beacon-hill-and-tower/"> Sedgley Hill.  </a>At 277m, reputedly the next highest point East is in the Ural Mountains. There are stunning views over much of the West Midlands, Staffordshire and Worcestershire; Birmingham&#8217;s city centre with its cluster of tall buildings can be seen in the distance squatting as it does on a low ridge.</p>
+<p>Dudly Council, under severe financial pressure, is doing it best to improve the infrastructure of the walk and to promote its use.I hope OpenStreetMap&#8217;s resource can be of use to them.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/07/a-surprising-rural-waymarked-walk-in-the-heart-of-a-city.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Visualising Food Hygiene Rating Scheme (FHRS) and OSM data</title>
+		<link>https://www.mappa-mercia.org/2016/06/visualising-food-hygiene-rating-scheme-fhrs-and-osm-data.html</link>
+					<comments>https://www.mappa-mercia.org/2016/06/visualising-food-hygiene-rating-scheme-fhrs-and-osm-data.html#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Sun, 05 Jun 2016 16:13:28 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Use The Map]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1420</guid>
+
+					<description><![CDATA[Greg Swinford has  developed some tools for visualising Food Hygiene Rating Scheme (FHRS) and OSM data, finding possible matches between it and importing useful tags into JOSM. FHRS data is a useful source of postcodes and addresses, and it can &#8230; <a href="https://www.mappa-mercia.org/2016/06/visualising-food-hygiene-rating-scheme-fhrs-and-osm-data.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><span class="im">Greg Swinford has  developed some tools for visualising Food Hygiene Rating Scheme (FHRS) and OSM data, finding possible matches between it and importing useful tags into JOSM.</span></p>
+<p>FHRS data is a useful source of postcodes and addresses, and it can also be a helpful reminder of local establishments to add to the map. The tools will  help us to efficiently add and verify data in our local areas (rather than importing large amounts of data automatically).</p>
+<p>FHRS is a central government scheme run by the The Food Standards Agency: the inspections are carried out by local authorities.The food hygiene rating or inspection result given to a business reflects the standards of food hygiene found on the date of inspection or visit by the local authority. The food hygiene rating is not a guide to food quality.</p>
+<p>Greg has  created a set of maps (one per OS Boundary Line district) for the West Midlands and uploaded them here: <a href="https://dl.dropboxusercontent.com/u/42978572/FHRS%20West%20Midlands/index.html" target="_blank">https://dl.dropboxusercontent.<wbr />com/u/42978572/FHRS%20West%<wbr />20Midlands/index.html</a> &lt;<a href="https://dl.dropboxusercontent.com/u/42978572/FHRS%20West%20Midlands/index.html" target="_blank">https://dl.<wbr />dropboxusercontent.com/u/<wbr />42978572/FHRS%20West%<wbr />20Midlands/index.html</a>&gt;.</p>
+<p>Greg doesn&#8217;t have the time or computing resources to update the data very regularly or to widen the geographical area beyond the West Midlands, but the code is freely available at <a href="http://github.com/gregrs-uk/python-fhrs-osm" target="_blank">http://github.com/gregrs-uk/<wbr />python-fhrs-osm</a> &lt;<a href="http://github.com/gregrs-uk/python-fhrs-osm" target="_blank">http://github.com/gregrs-uk/<wbr />python-fhrs-osm</a>&gt; if anyone would like to use it.</p>
+<p>The tools are a fantastic resource, enabling you to find estbalishments that haven&#8217;t been mapped and also for adding addresses and postcodes for thos that have already been mapped</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-1.png" rel="attachment wp-att-1421"><img decoding="async" loading="lazy" class="size-medium wp-image-1421 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-1-300x273.png" alt="FHRS 1" width="300" height="273" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-1-300x273.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-1-768x699.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-1-1024x932.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-1.png 1130w" sizes="(max-width: 300px) 100vw, 300px" /></a> When you click on a POI you get the FHRS data:</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-2.png" rel="attachment wp-att-1422"><img decoding="async" loading="lazy" class="size-medium wp-image-1422 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-2-300x168.png" alt="FHRS 2" width="300" height="168" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-2-300x168.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-2-768x431.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-2-1024x575.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2016/06/FHRS-2.png 1561w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/06/visualising-food-hygiene-rating-scheme-fhrs-and-osm-data.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Becoming mobile: MAPS.ME and Geopedia</title>
+		<link>https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html</link>
+					<comments>https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2016 21:44:11 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1391</guid>
+
+					<description><![CDATA[Back in June of last year we shared with you Richard Fairhurst&#8217;s State of the Map US talk in which he set out the case for more mobile OpenStreetMap apps. One of the key message was that &#8220;we need to &#8230; <a href="https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>Back in June of last year we shared with you <a href="https://www.mappa-mercia.org/2015/06/we-need-to-think-about-smartphone-editors.html">Richard Fairhurst&#8217;s State of the Map US talk</a> in which he set out the case for more mobile OpenStreetMap apps. One of the key message was that &#8220;we need to think about smartphone editors&#8221; as a way to continue growing OpenStreetMap. This month we got a new mobile editor and a new app to help you explore your surroundings.</strong></p>
+<p>Firstly the new editor. This comes in the form of an update to the popular <a href="http://maps.me/en/home">MAPS.ME</a>. Even before this update MAPS.ME was a essential app for any OpenStreetMapper. It provides a simple to use offline map with voice over guidance for travel directions by car or on foot. It&#8217;s interface is simple and effective: for example, clicking on a map feature brings up a slider at the bottom of the screen providing more information.</p>
+<p>On April 5th 2016, MAPS.ME developer Ilya Zverev <a href="http://www.openstreetmap.org/user/Zverik/diary/38344">explained</a> how you can now edit the map information direct from the app. This is perfect for adding addresses, phone numbers and opening hours to existing map features whilst out and about.</p>
+<div id="attachment_1392" style="width: 699px" class="wp-caption aligncenter"><a href="http://maps.me/en/home" rel="attachment wp-att-1392"><img aria-describedby="caption-attachment-1392" decoding="async" loading="lazy" class="wp-image-1392" src="https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-1024x526.png" alt="Editing OpenStreetMap with Maps.Me" width="689" height="354" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-1024x526.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-300x154.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-768x394.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor.png 1100w" sizes="(max-width: 689px) 100vw, 689px" /></a><p id="caption-attachment-1392" class="wp-caption-text">Editing OpenStreetMap with MAPS.ME</p></div>
+<p>With more than 7 million monthly active users MAPS.ME is aiming to be the number one OpenStreetMap editor. Although OpenStreetMap&#8217;s <a href="http://wiki.openstreetmap.org/wiki/Editor_usage_stats#by_number_of_users_.28distinct_uids.29">editor usage stats</a> are a little out of date, it&#8217;s <a href="http://py.osmz.ru/mmwatch/">already clear</a> that MAPS.ME is the most used mobile editor measured by number of users.</p>
+<p>The second addition to mobile comes in the form of <a href="http://www.geopedia.info/">Geopedia</a>. This is a neat little app that takes the OpenStreetMap base map and overlays the wikipedia database. Clicking on the map shows you all the nearby features that have a wikipedia article (we understand this is based on wikipedia&#8217;s latitude/longitude data rather than the wikipedia tag stored within OpenStreetMap).</p>
+<div id="attachment_1393" style="width: 699px" class="wp-caption aligncenter"><a href="http://www.geopedia.info/" rel="attachment wp-att-1393"><img aria-describedby="caption-attachment-1393" decoding="async" loading="lazy" class="size-full wp-image-1393" src="https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia.png" alt="Searching for nearby attractions with geopedia." width="689" height="426" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia.png 689w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia-300x185.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia-80x50.png 80w" sizes="(max-width: 689px) 100vw, 689px" /></a><p id="caption-attachment-1393" class="wp-caption-text">Searching for nearby attractions with geopedia.</p></div>
+<p>As this links to wikipedia you can view the articles in multiple languages and view an image if one is available. It works well to find new and exciting places to explore in your neighbourhood, or whilst away travelling. And of course you can use it as a prompt to add text and photos to wikipedia, and map details to OpenStreetMap &#8211; perhaps via MAPS.ME!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mapped: Every school in the Outer Hebrides and Shetland Islands!</title>
+		<link>https://www.mappa-mercia.org/2016/01/mapped-every-school-in-the-outer-hebrides-and-lerwick.html</link>
+					<comments>https://www.mappa-mercia.org/2016/01/mapped-every-school-in-the-outer-hebrides-and-lerwick.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2016 20:28:37 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1330</guid>
+
+					<description><![CDATA[Progress on our fifth OpenStreetMap quarterly project – schools – continues to delight. Today we congratulate the HS (Outer Hebrides) and ZE (Shetland Islands) postcodes for becoming the first to reach 100% completeness! Not even a month in to the &#8230; <a href="https://www.mappa-mercia.org/2016/01/mapped-every-school-in-the-outer-hebrides-and-lerwick.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>Progress on our fifth <a href="https://openstreetmap.org">OpenStreetMap</a> quarterly project – schools <strong>–</strong> continues to delight. Today we congratulate the HS (Outer Hebrides) and ZE (<b>Shetland Islands</b>) postcodes for becoming the first to reach 100% completeness!</strong></p>
+<p>Not even a month in to the latest <a href="http://wiki.openstreetmap.org/wiki/UK_Quarterly_Projects">UK Quarterly Projects</a> and there has already been so much to celebrate. Here are the highlights from the third update on our project to map Schools.</p>
+<p><strong>1. HS and ZE are 100% complete!</strong><br />
+Yes you read it right! Mapping of schools in the HS (Outer Hebrides) and ZE (Shetland Islands) postcodes are complete thanks to the efforts of OpenStreetMapper <a href="https://www.openstreetmap.org/user/seumas">seumas</a>. This means that all schools are mapped as a land area at minimum. We continue to add detail (e.g. buildings, sports pitches and paths) to further improve the mapping of the schools. Many other postcodes (most with more schools within them <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ) are close to 100% complete now too. Follow the progress <a href="http://robert.mathmos.net/osm/schools/progress/">here</a>.</p>
+<div id="attachment_1334" style="width: 950px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1334" decoding="async" loading="lazy" class="size-large wp-image-1334" src="https://www.mappa-mercia.org/wp-content/uploads/2016/01/School_Outer_Hebrides-1024x646.jpg" alt="Sir E Scott School in in the Outer Hebrides. Image courtesy of Urban Realm." width="940" height="593" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/01/School_Outer_Hebrides-1024x646.jpg 1024w, https://www.mappa-mercia.org/wp-content/uploads/2016/01/School_Outer_Hebrides-300x189.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/01/School_Outer_Hebrides-768x484.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/01/School_Outer_Hebrides-80x50.jpg 80w, https://www.mappa-mercia.org/wp-content/uploads/2016/01/School_Outer_Hebrides.jpg 1254w" sizes="(max-width: 940px) 100vw, 940px" /><p id="caption-attachment-1334" class="wp-caption-text">Sir E Scott School on Tarbert in the Outer Hebrides. Image courtesy of <a href="http://www.urbanrealm.com/news/3670/Tarbert%E2%80%99s_Sir_E_Scott_school_handed_over.html">Urban Realm</a>.</p></div>
+<p><strong>2. Open Data Manchester</strong><br />
+Following a tweet Open Data Manchester have asked whether anyone can go and show them how to map. Looks like their next meeting is Monday February 1st, 6.30 – 8.30pm. Any volunteers?</p>
+<p><strong>3. 175 people have done 5351 edits</strong><br />
+Amazing numbers measured by Harry&#8217;s <a href="http://harrywood.dev.openstreetmap.org/diffreader/schools/">tracker</a>. Looks like Uganda has joined the project too. It would be great if  someone could turn the CSV linked data at the bottom of the tracker into a daily chart. Drop us a comment below if you are able to help.</p>
+<p><strong>4. Nodes converted to ways</strong><br />
+Following lot&#8217;s of data <a href="https://www.mappa-mercia.org/2016/01/schools-back-to-square-one.html">clean up</a> we are nearing 80% of schools mapped as land areas rather than simple points. We should hit this in the next couple of days.</p>
+<p><strong>5. Northern Ireland still needs some work</strong><br />
+If you map in Northern Ireland and want to get involved please do. Each extra school mapped there will help lift it off the bottom of the tracker. We can also look at doing some initiatives in NI if the local community want this. Let us know <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><em>Interested in mapping schools in your area? To join us see <a href="http://wiki.openstreetmap.org/wiki/UK_Quarterly_Projects">here</a>. Never mapped before? No worries, <a href="https://www.mappa-mercia.org/contact">contact us</a> for a helping hand.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/01/mapped-every-school-in-the-outer-hebrides-and-lerwick.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

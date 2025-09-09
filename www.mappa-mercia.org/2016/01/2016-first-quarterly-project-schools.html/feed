@@ -1,0 +1,51 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 2016 first quarterly project: schools	</title>
+	<atom:link href="https://www.mappa-mercia.org/2016/01/2016-first-quarterly-project-schools.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2016/01/2016-first-quarterly-project-schools.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Fri, 29 Jan 2016 23:50:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: UK mapping hot-spots &#124; Mappa Mercia		</title>
+		<link>https://www.mappa-mercia.org/2016/01/2016-first-quarterly-project-schools.html#comment-10841</link>
+
+		<dc:creator><![CDATA[UK mapping hot-spots &#124; Mappa Mercia]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2016 23:50:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1304#comment-10841</guid>
+
+					<description><![CDATA[[&#8230;] quarter year we pick a different task to work on. The fifth is all about schools and has (by a long way) been our most successful. Let&#8217;s therefore use it to get an idea of [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] quarter year we pick a different task to work on. The fifth is all about schools and has (by a long way) been our most successful. Let&#8217;s therefore use it to get an idea of [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2016/01/2016-first-quarterly-project-schools.html#comment-6501</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2016 22:25:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1304#comment-6501</guid>
+
+					<description><![CDATA[Don&#039;t forget to check out the comments posted on talk-gb: https://lists.openstreetmap.org/pipermail/talk-gb/2016-January/date.html]]></description>
+			<content:encoded><![CDATA[<p>Don&#8217;t forget to check out the comments posted on talk-gb: <a href="https://lists.openstreetmap.org/pipermail/talk-gb/2016-January/date.html" rel="nofollow ugc">https://lists.openstreetmap.org/pipermail/talk-gb/2016-January/date.html</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

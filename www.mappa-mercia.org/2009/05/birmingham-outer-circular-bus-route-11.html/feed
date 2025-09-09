@@ -1,0 +1,43 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Birmingham Outer Circular Bus Route 11	</title>
+	<atom:link href="https://www.mappa-mercia.org/2009/05/birmingham-outer-circular-bus-route-11.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2009/05/birmingham-outer-circular-bus-route-11.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Mon, 27 Apr 2015 15:42:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: John Ross		</title>
+		<link>https://www.mappa-mercia.org/2009/05/birmingham-outer-circular-bus-route-11.html#comment-773</link>
+
+		<dc:creator><![CDATA[John Ross]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2015 15:42:17 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/birmingham-outer-circular-bus-route-11/#comment-773</guid>
+
+					<description><![CDATA[Hi,
+
+Looking for a map of the 11 bus route - do you know where I might find one?
+
+Regards,  John.]]></description>
+			<content:encoded><![CDATA[<p>Hi,</p>
+<p>Looking for a map of the 11 bus route &#8211; do you know where I might find one?</p>
+<p>Regards,  John.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

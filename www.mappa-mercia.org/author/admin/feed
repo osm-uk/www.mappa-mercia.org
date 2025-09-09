@@ -1,0 +1,385 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Mappa Mercia</title>
+	<atom:link href="https://www.mappa-mercia.org/author/admin/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Mon, 24 Feb 2014 22:33:34 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Welcome again to Mappa‑Mercia.org</title>
+		<link>https://www.mappa-mercia.org/2014/02/welcome-again-to-mappamercia-org.html</link>
+					<comments>https://www.mappa-mercia.org/2014/02/welcome-again-to-mappamercia-org.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2014 21:48:57 +0000</pubDate>
+				<category><![CDATA[Participate]]></category>
+		<category><![CDATA[Use The Map]]></category>
+		<guid isPermaLink="false">http://mappa-mercia.org/?p=775</guid>
+
+					<description><![CDATA[Welcome to our new website. It&#8217;s taken us over a year to discuss, design, write and migrate from our old one &#8211; but we do have the excuse of organising OpenStreetMap&#8216;s international conference State of the Map 2013 in Birmingham &#8230; <a href="https://www.mappa-mercia.org/2014/02/welcome-again-to-mappamercia-org.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Welcome to our new website. It&#8217;s taken us over a year to discuss, design, write and migrate from our old one &#8211; but we do have the excuse of organising <a href="http://www.openstreetmap.org/">OpenStreetMap</a>&#8216;s international conference <a title="State of the Map 2013" href="http://2013.stateofthemap.org/">State of the Map 2013</a> in Birmingham in September 2013. A not inconsiderable task which quite naturally took almost all of our time and energies. So good luck to the organisers of <a title="Announcement of SOTM 2014" href="http://blog.openstreetmap.org/2014/01/12/buenos-aires-hosts-sotm14/">SotM 2014 in Buenos Aires</a> and those organising regional conferences in <a title="Local SOTM events in 2014" href="http://2013.stateofthemap.org/blog/sotm-2014-and-local-events/">Europe and the US</a> &#8211; we know how much hard work it is!</p>
+<div id="attachment_778" style="width: 1023px" class="wp-caption alignnone"><a href="https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite.png"><img aria-describedby="caption-attachment-778" decoding="async" class="size-full wp-image-778" alt="Screenshot of our new website. Keep an eye open for more improvements in the coming weeks." src="https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite.png" width="1013" height="622" srcset="https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite.png 1013w, https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite-300x184.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite-250x153.png 250w, https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite-100x61.png 100w, https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite-150x92.png 150w, https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite-200x122.png 200w, https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite-450x276.png 450w, https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite-600x368.png 600w, https://www.mappa-mercia.org/wp-content/uploads/2014/02/NewWebsite-900x552.png 900w" sizes="(max-width: 1013px) 100vw, 1013px" /></a><p id="caption-attachment-778" class="wp-caption-text">A screenshot of our new website. Keep an eye open for more improvements in the coming weeks.</p></div>
+<p>Anyhow back to our website. We hope you like it. We&#8217;ve tried to give more prominence to the social element of mapping and given slightly less prominence to maps. It&#8217;s also displays great on tablets and smartphones. We have plans to enhance its content over the next few weeks.</p>
+<p>And our blog is now re-open for business so expect regular updates from the Midlands &#8211; they might revive pleasant memories for those of you who attended SotM 2013 in Birmingham. We hope they inspire local mappers to continue their sterling efforts.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2014/02/welcome-again-to-mappamercia-org.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rural Mapping</title>
+		<link>https://www.mappa-mercia.org/2013/02/rural-mapping.html</link>
+					<comments>https://www.mappa-mercia.org/2013/02/rural-mapping.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2013 21:05:00 +0000</pubDate>
+				<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/rural-mapping/</guid>
+
+					<description><![CDATA[In the West Midlands we’ve been busy with rural mapping. To those of you surprised that there&#8217;s any countryside in the sprawling industrial conurbation that spreads from Wolverhampton through Birmingham and Solihull into Coventry, we need only quote the motto &#8230; <a href="https://www.mappa-mercia.org/2013/02/rural-mapping.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>In the West Midlands we’ve been busy with rural mapping. To those of you surprised that there&#8217;s <em>any</em> countryside in the sprawling industrial conurbation that spreads from Wolverhampton through Birmingham and Solihull into Coventry, <strong>we need only quote the motto of Solihull which is Urbs in Rure (Town in Country)</strong>. You will see that there is a large amount of green belt land that has been jealously guarded by planning authorities. The green belt land provides much needed recreational access for the surrounding population. It will come under increasing pressure from the new relaxations on planning restrictions.</p>
+<p>In a <a href="http://www.openstreetmap.org/?lat=52.42235&amp;lon=-1.61854&amp;zoom=16&amp;layers=M" target="_blank">COUNTRYSIDE TRIAL AREA</a> to the eastern end of Solihull and the Western end of Coventry bounded by A45 / Birmingham Road Meriden / Berkswell Road / Meriden Road / Coventry Road / Broad Lane / Eastern Green estates / Allesley Green estates, mappa-mercia mappers have collaborated to produce a rural map to the most detailed level currently available within OSM.</p>
+<h1><a href="https://www.mappa-mercia.org/wp-content/uploads/blogger/-_qbb4BCu8cI/URv-L5AdqlI/AAAAAAAAAOc/dhTXGyptA0g/s1600/map%2B%25281%2529.png"><img decoding="async" loading="lazy" class="aligncenter" style="border: 0px none;" alt="" src="https://www.mappa-mercia.org/wp-content/uploads/blogger/-_qbb4BCu8cI/URv-L5AdqlI/AAAAAAAAAOc/dhTXGyptA0g/s320/map%2B%25281%2529.png" width="320" height="273" border="0" /></a>Guidelines</h1>
+<p>The guidelines which we evolved by discussion, some concentrating on mapping landuse and others on mapping footpaths, are as follows:</p>
+<p>1. All field boundaries are shown using the predominant feature defining it to someone in the field. The most useful are: <br /> &#8211; barrier=hedge<br /> &#8211; barrier=fence<br /> &#8211; waterway=stream (NB: if a stream also has hedge one side and fence the other we only show more than one if it is necessary to make situation clearer).<br /> &#8211; highway=service (or higher – only show barrier as well if necessary)<br /> &#8211; boundary between landuse=residential and landuse=farmland (NB – these are not so easy to see and therefore adding a barrier as well is desirable, or for “MapQuest Open” type rendering, essential.</p>
+<p>2.   Adding the main buildings within a residential area is desirable in order to give as god idea what the area looks like. We  have tried to add all houses, and usually all similar sized or larger buildings to all small areas of landuse=residential. In some cases we have added all buildings and the dividing hedge/fence between plots, but regard this as optional and maybe overkill/over use of memory/rendering-CPU-time/etc. In larger residential areas such as Meriden and Berkswell we have not added any buildings to contrast village with hamlet/mansions/etc., but would welcome other local editors to take on such tasks over time. In larger areas still, it is obvious by adding all the residential roads that the grey area is residential. Buildings for farm use are default labelled as building=agricultural, unless the specific use is known, e.g building=glasshouse</p>
+<p>3.   We have  tried to give a landuse to all light grey areas other than the verges of roads and some tracks and footpaths. Sometimes this needed lateral thinking to define an area by its major use to avoid leaving light grey bits of scrubland, etc.</p>
+<p>4.  Being surrounded by large residential areas where horse riding is popular amongst the residents there is  a large amount of farmland devoted to grazing and exercising horses: these we have differentiated by using landuse=meadow. It is often hard to get this right, for example the meadows north of Pickford Grange Farm are usually full of horses, but checking with Google StreetView shows cattle in the eastern 2 or 3  so we’ve left them meadow). There are other areas which are probably anomalies but regular ground surveying and more discussion will eventually clear these up.</p>
+<p>5. Landuse=forest has only been used where it is obvious by the regular pattern of the trees that it  is a planted and managed area of trees. All other wooded areas are tagged natural=wood. Currently we are not sure that we have been totally consistent here. There can also be ambiguity between a line of trees, a thin wood and a thick hedge,especially along watercourses. Much here is a matter of styles between individual mappers.</p>
+<h1>Issues</h1>
+<p>A. The brown colouring of the farmland we hope one day soon be made lighter/brighter. The current brown is not, to us, aesthetically pleasing, and  makes seeing highway=footway paths hard to see. The residential grey has almost as bad an effect. <br /> It may be a good idea to render footways somewhat wider (especially at larger scales), and/or increase the width of lightening the background which works so well with woods and forests.</p>
+<p>B.  We have been adding a lot more of the stiles and kissing gates. Unfortunately the latter do not get rendered whereas gates, bollards and stiles do. Kissing gates locations are useful to know if you need to navigate with persons who can walk adequately but have mobility difficulty in crossing stiles or you have a very large dog which you can’t lift over stiles bit you can get though kissing gates. We can’t rely on the absence of stiles on the map to infer a walkable  route in these circumstances (incomplete surveying), but the explicit rendering of kissing gates would be a great asset.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2013/02/rural-mapping.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Heritage mapping</title>
+		<link>https://www.mappa-mercia.org/2012/12/heritage-mapping.html</link>
+					<comments>https://www.mappa-mercia.org/2012/12/heritage-mapping.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 10 Dec 2012 21:22:00 +0000</pubDate>
+				<category><![CDATA[Use The Map]]></category>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/heritage-mapping/</guid>
+
+					<description><![CDATA[Finally, after a couple of years surveying listed buildings, parks and gardens an public artworks, amassing along the way a vast collection of photos; we&#8217;ve managed to get a prototype map showing everything of &#8220;heritage&#8221;  or &#8220;cultural&#8221; status in the &#8230; <a href="https://www.mappa-mercia.org/2012/12/heritage-mapping.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Finally, after a couple of years surveying listed buildings, parks and gardens an public artworks, amassing along the way a vast collection of photos; we&#8217;ve managed to get a <a href="http://a.tiles.mapbox.com/v3/brianboru.map-ag576a5p.html#17.00/52.48109/-1.90159" target="_blank">prototype map</a> showing everything of &#8220;heritage&#8221;  or &#8220;cultural&#8221; status in the West Midlands.</p>
+<p>There doesn&#8217;t seem to be anywhere with one source that you can go to to visualise all this data and how each point relates to another. You can search and find individual points which is time consuming and requires some prior knowledge. But once you&#8217;ve found an interesting artefact you&#8217;re at a loss to know what else is close by, so that if you plan a visit you might miss something just as interesting nearby, or fail to put your chosen artefact into its proper context.</p>
+<p>The data is a mixture of OSM data and government data from English Heritage. The English Heritage data is what we&#8217;ve come to expect from government data &#8211; it&#8217;s about 95% accurate and about 95% complete (not a mathematical analysis just a &#8220;feel&#8221; for the data based on errors discovered so far). Getting that last 5% just seems to be too much effort and too much expense! But thanks anyway to English Heritage for finally publishing the data under an open licence.  OSM data was extracted using osmfilter and then converted to csv format using osmconvert -two very useful tools, even if getting used to a command line interface was a bit tedious at first &#8211; so congratulations to the authors.</p>
+<p>We&#8217;ve used TileMill and MapBox mainly because of the excellent initial free hosting and the ease of learning the editing tools &#8211; still a steep learning curve but nowhere near as steep as some map-making tools. TileMill has its limitations but it&#8217;s a great introduction to keen mappers who are not skilled software developers. So congratulations to MapBox and don&#8217;t worry about it looking daunting once you&#8217;ve started:  their support is excellent and not at all condescending to newbies.</p>
+<p>This is what it looks like and you find the service <a href="http://a.tiles.mapbox.com/v3/brianboru.map-ag576a5p.html#17.00/52.48109/-1.90159" target="_blank">here</a>.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/blogger/-T_cktIL531g/UMZN9gaVCSI/AAAAAAAAANY/bF6HY-IOwNk/s1600/Heritage%2Bmap.jpg"><img decoding="async" loading="lazy" class="aligncenter" style="border: 0px none;" alt="" src="https://www.mappa-mercia.org/wp-content/uploads/blogger/-T_cktIL531g/UMZN9gaVCSI/AAAAAAAAANY/bF6HY-IOwNk/s320/Heritage%2Bmap.jpg" width="320" height="200" border="0" /></a>Our service is still evolving and is nowhere near fully populated &#8211; most interesting feedback so far is the level of satisfaction with the pop-up boxes being set to the side of the map not over the marker, obscuring the surrounding area. We&#8217;re hoping to get local conservation bodies interested and one has already responded positively.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2012/12/heritage-mapping.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mysterious objects: No 4 in an occasional series</title>
+		<link>https://www.mappa-mercia.org/2012/12/mysterious-objects-no-4-in-occasional.html</link>
+					<comments>https://www.mappa-mercia.org/2012/12/mysterious-objects-no-4-in-occasional.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2012 16:19:00 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/mysterious-objects-no-4-in-an-occasional-series/</guid>
+
+					<description><![CDATA[There&#8217;s about a dozen of these set into the ground, about  20cm high. Four pairs of boots would cover its area. There&#8217;s no discernible pattern to how they&#8217;re laid out. The ground is a school playing field traversed by a public right &#8230; <a href="https://www.mappa-mercia.org/2012/12/mysterious-objects-no-4-in-occasional.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>There&#8217;s about a dozen of these set into the ground, about  20cm high. Four pairs of boots would cover its area. There&#8217;s no discernible pattern to how they&#8217;re laid out. The ground is a school playing field traversed by a public right of way <a href="http://www.openstreetmap.org/?lat=52.45265&amp;lon=-2.1351&amp;zoom=17&amp;layers=M" target="_blank">here</a> in Stourbridge.</p>
+<p style="text-align: center;"><a href="https://www.mappa-mercia.org/wp-content/uploads/blogger/-ub20hDSW7EI/UL9zsJdB8FI/AAAAAAAAANI/tg4PLdaMaEU/s1600/IMG_7409.JPG"><img decoding="async" loading="lazy" class="aligncenter" style="border: 0px none;" alt="" src="https://www.mappa-mercia.org/wp-content/uploads/blogger/-ub20hDSW7EI/UL9zsJdB8FI/AAAAAAAAANI/tg4PLdaMaEU/s320/IMG_7409.JPG" width="320" height="240" border="0" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2012/12/mysterious-objects-no-4-in-occasional.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mapping transverse steps</title>
+		<link>https://www.mappa-mercia.org/2012/12/mapping-transverse-steps.html</link>
+					<comments>https://www.mappa-mercia.org/2012/12/mapping-transverse-steps.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 01 Dec 2012 08:09:00 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/mapping-transverse-steps/</guid>
+
+					<description><![CDATA[How do you map steps that are transverse like these? This is a view towards Birmingham Central Library from Victoria Square and is a route traversed by thousands of people a day. Currently highway=steps is for a set of steps &#8230; <a href="https://www.mappa-mercia.org/2012/12/mapping-transverse-steps.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>How do you map steps that are transverse like these? This is a view towards Birmingham Central Library from Victoria Square and is a route traversed by thousands of people a day.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/blogger/-a7lsLzrzdwk/ULm4Rs2BD0I/AAAAAAAAAMo/Jw0zJ1Obwdw/s1600/DSC00289.JPG"><img decoding="async" loading="lazy" class="aligncenter" style="border: 0px none;" alt="" src="https://www.mappa-mercia.org/wp-content/uploads/blogger/-a7lsLzrzdwk/ULm4Rs2BD0I/AAAAAAAAAMo/Jw0zJ1Obwdw/s320/DSC00289.JPG" width="320" height="240" border="0" /></a>Currently highway=steps is for a set of steps along a linear way which doesn&#8217;t address this scenario which must occur tens of thousands of times across the planet.</p>
+<p>There is a <a href="http://wiki.openstreetmap.org/wiki/Relations/Proposed/Area#area-steps" target="_blank">tagging proposal</a> which as been around for a couple of years which seems to be going nowhere. I&#8217;ve read it and it&#8217;s far too complex for  me and I would guess most mappers.</p>
+<p>Solving this problem is important a) for accurate mapping and  b) for disabled/visually impaired routing.</p>
+<p>Perhaps a simple tagging scheme of highway=steps steps=transverse with the left hand side of the way being the top with a rendering of the current steps render with little arrows pointing in the downwards direction across the way?</p>
+<p>While we&#8217;re at it perhaps the existing linear steps render could be improved with an arrow indicating down? But maybe that would be confusing with the one way render for streets/roads.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2012/12/mapping-transverse-steps.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mysterious Objects: No 3 in an occasional series</title>
+		<link>https://www.mappa-mercia.org/2012/11/mysterious-objects-no-3-in-occasional.html</link>
+					<comments>https://www.mappa-mercia.org/2012/11/mysterious-objects-no-3-in-occasional.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Nov 2012 16:21:00 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/mysterious-objects-no-3-in-an-occasional-series/</guid>
+
+					<description><![CDATA[Who&#8217;s this little fella?  I see stickers of him pasted up in all kinds of urban locations around Birmingham. Is he local? I&#8217;m obviously too old to be aware of urban youth culture, whence I assume he originates.Can anyone help me?]]></description>
+										<content:encoded><![CDATA[<p>Who&#8217;s this little fella?  I see stickers of him pasted up in all kinds of urban locations around Birmingham. Is he local? I&#8217;m obviously too old to be aware of urban youth culture, whence I assume he originates.Can anyone help me?</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/blogger/-K-LorzAgkY4/ULOW03cOtFI/AAAAAAAAAMY/CPfplUZcit0/s1600/DSC00288.JPG"><img decoding="async" loading="lazy" class="aligncenter" style="border: 0px none;" alt="" src="https://www.mappa-mercia.org/wp-content/uploads/blogger/-K-LorzAgkY4/ULOW03cOtFI/AAAAAAAAAMY/CPfplUZcit0/s320/DSC00288.JPG" width="320" height="240" border="0" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2012/11/mysterious-objects-no-3-in-occasional.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mysterious Objects: No 2 of an occasional series</title>
+		<link>https://www.mappa-mercia.org/2012/11/mysterious-objects-no-2-of-occasional.html</link>
+					<comments>https://www.mappa-mercia.org/2012/11/mysterious-objects-no-2-of-occasional.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 09 Nov 2012 13:16:00 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/mysterious-objects-no-2-of-an-occasional-series/</guid>
+
+					<description><![CDATA[This object has been a puzzle for a couple of years. It&#8217;s been constructed on land alongside an old railway siding adjacent to Small Heath Bridge Birmingham B11. This picture was taken from a train on the way into Birmingham &#8230; <a href="https://www.mappa-mercia.org/2012/11/mysterious-objects-no-2-of-occasional.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.mappa-mercia.org/wp-content/uploads/blogger/-54rSSsiGeDc/UJ0AC4EuOCI/AAAAAAAAAMI/ELDX154G0DY/s1600/IMG_5289.JPG"><img decoding="async" loading="lazy" class="aligncenter" style="border: 0px none;" alt="" src="https://www.mappa-mercia.org/wp-content/uploads/blogger/-54rSSsiGeDc/UJ0AC4EuOCI/AAAAAAAAAMI/ELDX154G0DY/s320/IMG_5289.JPG" width="320" height="240" border="0" /></a>This object has been a puzzle for a couple of years. It&#8217;s been constructed on land alongside an old railway siding adjacent to <a href="http://www.openstreetmap.org/?lat=52.46695&amp;lon=-1.86652&amp;zoom=17&amp;layers=M" target="_blank">Small Heath Bridge Birmingham B11</a>. This picture was taken from a train on the way into Birmingham Moor Street.</p>
+<p>It&#8217;s pointing vaguely westwards, i.e which is the direction the camera is pointing in. The reverse side is a  highly polished surface (stainless steel?). It looks like it might be a solar collector of some kind but there are  no power cables or fluid/gas pipes that I can see so it remains a mystery.</p>
+<p>Any offers of what it might be?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2012/11/mysterious-objects-no-2-of-occasional.html/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mysterious Objects: No 1 of an occasional series</title>
+		<link>https://www.mappa-mercia.org/2012/11/mysterious-objects-no-1-of-occasional.html</link>
+					<comments>https://www.mappa-mercia.org/2012/11/mysterious-objects-no-1-of-occasional.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 03 Nov 2012 15:54:00 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/mysterious-objects-no-1-of-an-occasional-series/</guid>
+
+					<description><![CDATA[Can anyone help in identifying this object which has been lovingly placed on Aston University Campus. It&#8217;s not mapped yet: what do you tag this as?  Perhaps they just haven&#8217;t got round to placing a label or information board there. &#8230; <a href="https://www.mappa-mercia.org/2012/11/mysterious-objects-no-1-of-occasional.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Can anyone help in identifying this object which has been lovingly placed on Aston University Campus. It&#8217;s not mapped yet: what do you tag this as?  Perhaps they just haven&#8217;t got round to placing a label or information board there. Any help gladly accepted</p>
+<p style="text-align: center;"><a href="https://www.mappa-mercia.org/wp-content/uploads/blogger/-BbTRFO2Ckgo/UJU95fymehI/AAAAAAAAAL4/joqyFXBpABA/s1600/IMG_9888.JPG"><img decoding="async" loading="lazy" class="aligncenter" style="border: 0px none;" alt="" src="https://www.mappa-mercia.org/wp-content/uploads/blogger/-BbTRFO2Ckgo/UJU95fymehI/AAAAAAAAAL4/joqyFXBpABA/s320/IMG_9888.JPG" width="317" height="320" border="0" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2012/11/mysterious-objects-no-1-of-occasional.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>November Pub Meeting</title>
+		<link>https://www.mappa-mercia.org/2012/11/november-pub-meeting.html</link>
+					<comments>https://www.mappa-mercia.org/2012/11/november-pub-meeting.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 02 Nov 2012 12:56:00 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/november-pub-meeting/</guid>
+
+					<description><![CDATA[We had a good turnout last night in the Spon Gate in Coventry – nine people, including  three new faces. A special welcome to Florian who’s just arrived from France for a long stay, working in Coventry. It was a good &#8230; <a href="https://www.mappa-mercia.org/2012/11/november-pub-meeting.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>We had a good turnout last night in the Spon Gate in Coventry – nine people, including  three new faces. A special welcome to Florian who’s just arrived from France for a long stay, working in Coventry. It was a good choice of pub with some excellent choices of beer made tastier by their low cost – well done Wetherspoons!</p>
+<p>Our discussions ranged widely and randomly as usual, including: aerial photography, postcodes, quadrocopters, bridge relations, postcodes, listed buildings, footpaths, blue plaques, postcodes, SOTM, memorials in cemeteries and parks, postcodes, tagging businesses, public bodies’ open data, plans to improve our building definition inside the Ring Road in Coventry, Natural England open spaces and all the other topics at the other end of the table I couldn’t hear.</p>
+<p>We didn’t just idly chat, we also made some plans:</p>
+<ol>
+<li>To keep the momentum going from the completion of tracing buildings in Birmingham we decided on collaborative armchair mapping of the buildings in Balsall Common – a large dormitory village midway between Coventry and Birmingham.  Maybe it will motivate some of us to travel there to do some surveying. We’ll have to remember to get off the train at Berkswell ( named after the next village to Balsall Common, even though the station is not in Berkswell  but Balsall Common – such is the logic of naming of stations!)</li>
+<li>Next month we all felt we’d like a curry rather than a pub meet , which soon progressed into “Let’s map the Balti Triangle in Birmingham”. Now the Balti Triangle can probably be surveyed relatively speedily, so we soon expanded the mapping objective to the Bus Route 37 which can be boarded outside Moor Street Station and will take us to the edge of the Balti Triangle. So the party will be dubbed “Mappa Mercia 37” and will take place on Saturday December 1<sup>st</sup> with mapping for as long as the weather and stamina allows until it gets dark – say 4:30 where we’ll meet in a pub (bit of a challenge since the area is mostly muslim and most of the pubs have closed!) and then proceed for an early evening curry. Cake based on No 37 bus stops will be up shortly.</li>
+<li>SOTM 2013 bid – numerous decisions based on keeping up the momentum which will be communicated separately to Talk-GB.</li>
+</ol>
+<p>If I&#8217;ve missed anything apologies and let me know so I can add it.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2012/11/november-pub-meeting.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Birmingham completely covered with buildings</title>
+		<link>https://www.mappa-mercia.org/2012/10/birmingham-completely-covered-with.html</link>
+					<comments>https://www.mappa-mercia.org/2012/10/birmingham-completely-covered-with.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 27 Oct 2012 11:48:00 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/birmingham-completely-covered-with-buildings/</guid>
+
+					<description><![CDATA[Today West Midlands mappers have  passed another major milestone: Birmingham has complete coverage for buildings! Complete coverage does not mean we have EVERY building mapped, just that we’ve covered every area of the city. There will be the inevitable errors from buildings having been built &#8230; <a href="https://www.mappa-mercia.org/2012/10/birmingham-completely-covered-with.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Today West Midlands mappers have  passed another major milestone: Birmingham has complete coverage for buildings!</p>
+<p>Complete coverage does not mean we have EVERY building mapped, just that we’ve covered every area of the city. There will be the inevitable errors from buildings having been built and demolished and just from human error in missing a building. We welcome news from  the keen-eyed of any errors so we can improve the map even further.</p>
+<p>It has taken two years of effort (often very tedious) tracing buildings from our own aerial imagery (supplied by Cities Revealed for the City Centre) and latterly from Bing. For new developments (new housing estates, industrial estates, supermarkets and demolitions) we have had to compare Bing with the latest release of OSSV which is newer and reveals a later state of building coverage. Nevertheless we reckon that we have the most accurate and complete coverage of any online map of Birmingham.</p>
+<p>While we’ve been at it the other local authority areas in the West Midlands have also obtained pretty good building coverage. Estimates are:</p>
+<table border="1" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="top" width="158">
+<div>Solihull</div>
+</td>
+<td valign="top" width="95">
+<div>70%</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Sandwell</div>
+</td>
+<td valign="top" width="95">
+<div>30%</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Coventry</div>
+</td>
+<td valign="top" width="95">
+<div>20%</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Dudley</div>
+</td>
+<td valign="top" width="95">
+<div>10%</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Wolverhampton</div>
+</td>
+<td valign="top" width="95">
+<div>10%</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Walsall</div>
+</td>
+<td valign="top" width="95">
+<div>10%</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Thanks are due to everyone who’s contributed – especially the 6 or so mappers who have contributed most of the work.</p>
+<p>For those of you reading this outside the UK who might be thinking “ What’s the big deal?” every building has been traced by hand – we have no data import of building outlines available to us.</p>
+<p>You can see a good visual analysis of coverage by using the excellent tools at <a href="http://www.itoworld.com/map/main">ITOworld’s map service.</a></p>
+<p>Of the 290,000 buildings added, 69,000 have full address information, complete with postcode.</p>
+<p>The building count we estimate is under-represented by a factor of 8, as many are just represented by an outline rather than individual addressable units. For instance, a row of terraced houses of which Birmingham has hundreds, once surveyed and terraced with individual addresses can become up to 40 buildings, depending on the length of the terrace instead of one. This all depends of course on your definition of building; but we’re basing this on OSM tagging of building=residential (or similar in other circumstances) for each address.</p>
+<p>There are over 400 tags applied to buildings; here are some of the more prevalent ones:</p>
+<table border="1" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="top" width="158">
+<div><strong>Tag</strong></div>
+</td>
+<td valign="top" width="123">
+<div><strong>Qty</strong></div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Listed Building</div>
+</td>
+<td valign="top" width="123">
+<div>1,400</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Residential</div>
+</td>
+<td valign="top" width="123">
+<div>137,000</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Retail</div>
+</td>
+<td valign="top" width="123">
+<div>2,000</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Garage/Garages</div>
+</td>
+<td valign="top" width="123">
+<div>4,500</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Yes</div>
+</td>
+<td valign="top" width="123">
+<div>134,000</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>Industrial</div>
+</td>
+<td valign="top" width="123">
+<div>1,000</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="158">
+<div>House</div>
+</td>
+<td valign="top" width="123">
+<div>5,000</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Amongst the bewildering variety of tags we even have a chimney mapped! This is probably an old industrial artefact of some prominence. Anyone want to try finding it? (The person who mapped it is exempt from this challenge!)</p>
+<p>All figures are for the West Midlands as a whole rather than just for Birmingham, and are rounded to the nearest thousand.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2012/10/birmingham-completely-covered-with.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

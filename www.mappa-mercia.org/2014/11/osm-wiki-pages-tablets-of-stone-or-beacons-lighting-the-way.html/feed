@@ -1,0 +1,60 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: OSM Wiki pages: tablets of stone or beacons lighting the way?	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/11/osm-wiki-pages-tablets-of-stone-or-beacons-lighting-the-way.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/11/osm-wiki-pages-tablets-of-stone-or-beacons-lighting-the-way.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Thu, 27 Nov 2014 01:23:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Ben H		</title>
+		<link>https://www.mappa-mercia.org/2014/11/osm-wiki-pages-tablets-of-stone-or-beacons-lighting-the-way.html#comment-318</link>
+
+		<dc:creator><![CDATA[Ben H]]></dc:creator>
+		<pubDate>Thu, 27 Nov 2014 01:23:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1076#comment-318</guid>
+
+					<description><![CDATA[I don&#039;t think I would have kept contributing if not for the resources on the wiki; taginfo is useful when you&#039;re not sure what the appropriate tag/word/category might be, but the wiki usually seems the best place for finding what those tags are supposed to represent. The various photos uploaded as examples for various tags (like the surface page) have been particularly useful.
+
+But if you live outside one of the more popular OSM countries, you quickly learn to take things with a grain of salt - which is pretty much your point #4. And then there&#039;s all the &#039;proposed features&#039; and contradictory &#039;V2.0&#039; proposals and so on. I tend to treat it more like &quot;this is how things are usually done in Europe&quot;, not &quot;this is how things MUST be done everywhere&quot;.
+
+While there are specific pages for my country they&#039;re pretty vague on the few details mentioned. I probably could update a few bits myself but I&#039;m wary of this overall situation - I don&#039;t want others to think my personal preferences are the rule!]]></description>
+			<content:encoded><![CDATA[<p>I don&#8217;t think I would have kept contributing if not for the resources on the wiki; taginfo is useful when you&#8217;re not sure what the appropriate tag/word/category might be, but the wiki usually seems the best place for finding what those tags are supposed to represent. The various photos uploaded as examples for various tags (like the surface page) have been particularly useful.</p>
+<p>But if you live outside one of the more popular OSM countries, you quickly learn to take things with a grain of salt &#8211; which is pretty much your point #4. And then there&#8217;s all the &#8216;proposed features&#8217; and contradictory &#8216;V2.0&#8217; proposals and so on. I tend to treat it more like &#8220;this is how things are usually done in Europe&#8221;, not &#8220;this is how things MUST be done everywhere&#8221;.</p>
+<p>While there are specific pages for my country they&#8217;re pretty vague on the few details mentioned. I probably could update a few bits myself but I&#8217;m wary of this overall situation &#8211; I don&#8217;t want others to think my personal preferences are the rule!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2014/11/osm-wiki-pages-tablets-of-stone-or-beacons-lighting-the-way.html#comment-317</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2014 23:49:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1076#comment-317</guid>
+
+					<description><![CDATA[Good post, and I agree with all your points. To me the wiki is important as it forms a major part of our documentation but I would love to see some improvement in the way that articles are written. Some are simply way too long for what should be a very basic concept, whilst others suffer from the so-called &quot;wiki-fiddling&quot; where someone changes something without taking time to consider impacts on a global community.
+
+Point 6 above is particularly important.]]></description>
+			<content:encoded><![CDATA[<p>Good post, and I agree with all your points. To me the wiki is important as it forms a major part of our documentation but I would love to see some improvement in the way that articles are written. Some are simply way too long for what should be a very basic concept, whilst others suffer from the so-called &#8220;wiki-fiddling&#8221; where someone changes something without taking time to consider impacts on a global community.</p>
+<p>Point 6 above is particularly important.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

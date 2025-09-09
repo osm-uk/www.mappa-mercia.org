@@ -1,0 +1,65 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Why can&#8217;t signmakers get it right?	</title>
+	<atom:link href="https://www.mappa-mercia.org/2009/05/why-cant-signmakers-get-it-right.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2009/05/why-cant-signmakers-get-it-right.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 13:56:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: traveline		</title>
+		<link>https://www.mappa-mercia.org/2009/05/why-cant-signmakers-get-it-right.html#comment-4</link>
+
+		<dc:creator><![CDATA[traveline]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2009 10:54:21 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/why-cant-signmakers-get-it-right/#comment-4</guid>
+
+					<description><![CDATA[I understand this typing error on the sign has now been corrected - perhaps as a result of you drawing attention to it.  Thanks]]></description>
+			<content:encoded><![CDATA[<p>I understand this typing error on the sign has now been corrected &#8211; perhaps as a result of you drawing attention to it.  Thanks</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mappa Mercia		</title>
+		<link>https://www.mappa-mercia.org/2009/05/why-cant-signmakers-get-it-right.html#comment-3</link>
+
+		<dc:creator><![CDATA[Mappa Mercia]]></dc:creator>
+		<pubDate>Tue, 19 May 2009 12:30:00 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/why-cant-signmakers-get-it-right/#comment-3</guid>
+
+					<description><![CDATA[Yep, NaPTAN is not at fault here, just the dumb signmakers and erectors and the people who pay the invoices]]></description>
+			<content:encoded><![CDATA[<p>Yep, NaPTAN is not at fault here, just the dumb signmakers and erectors and the people who pay the invoices</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: edgemaster		</title>
+		<link>https://www.mappa-mercia.org/2009/05/why-cant-signmakers-get-it-right.html#comment-2</link>
+
+		<dc:creator><![CDATA[edgemaster]]></dc:creator>
+		<pubDate>Fri, 01 May 2009 15:09:00 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/why-cant-signmakers-get-it-right/#comment-2</guid>
+
+					<description><![CDATA[Did NaPTAN get it right? :)]]></description>
+			<content:encoded><![CDATA[<p>Did NaPTAN get it right? 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

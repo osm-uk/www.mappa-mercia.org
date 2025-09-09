@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Birmingham &#038; Solihull map now in print	</title>
+	<atom:link href="https://www.mappa-mercia.org/2009/03/birmingham-solihull-map-now-in-print.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2009/03/birmingham-solihull-map-now-in-print.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 13:56:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: rorymcc		</title>
+		<link>https://www.mappa-mercia.org/2009/03/birmingham-solihull-map-now-in-print.html#comment-17</link>
+
+		<dc:creator><![CDATA[rorymcc]]></dc:creator>
+		<pubDate>Tue, 12 Apr 2011 11:06:50 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/birmingham-solihull-map-now-in-print/#comment-17</guid>
+
+					<description><![CDATA[Looks cool. How did you get the map printed out? What company did you use?]]></description>
+			<content:encoded><![CDATA[<p>Looks cool. How did you get the map printed out? What company did you use?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

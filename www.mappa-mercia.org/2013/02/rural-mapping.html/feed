@@ -1,0 +1,41 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Rural Mapping	</title>
+	<atom:link href="https://www.mappa-mercia.org/2013/02/rural-mapping.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2013/02/rural-mapping.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 18:43:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: dud1		</title>
+		<link>https://www.mappa-mercia.org/2013/02/rural-mapping.html#comment-53</link>
+
+		<dc:creator><![CDATA[dud1]]></dc:creator>
+		<pubDate>Fri, 15 Feb 2013 19:52:02 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/rural-mapping/#comment-53</guid>
+
+					<description><![CDATA[This is great work your doing and useful information for those considering rural mapping in the UK.&lt;br /&gt;&lt;br /&gt;I would ask that you review your use of landuse=meadow.  It would be good if landuse=meadow was reserved for fields that are actually managed as &quot;meadows&quot;.  i.e. where there is a variety of grasses and the fields are allowed to flower to support wildlife etc.  It could be the horses are on &quot;meadows&quot; but they may not be.  You can get all sorts of other animals on &quot;meadows&quot;, it is really about what grows in the field and how it is managed.  Spring, when the flowers, are out is probably the best time to map &quot;meadows&quot;.&lt;br /&gt;&lt;br /&gt;It would also be good if you could mark the field boundaries along roads.&lt;br /&gt;&lt;br /&gt;If you want to help dog owners they also like to know if dog gates exist.  There seem to be only two mapped as barrier=dog_gate so far in OSM.      &lt;br /&gt;&lt;br /&gt;I&#039;ve started using natural=tree_row (not rendered as yet) for tree growth along rivers.  The examples on the wiki needs adding to as these are clearly planted as such.  It seemed sensible given it is &quot;natural&quot; and the tag is already available.]]></description>
+			<content:encoded><![CDATA[<p>This is great work your doing and useful information for those considering rural mapping in the UK.</p>
+<p>I would ask that you review your use of landuse=meadow.  It would be good if landuse=meadow was reserved for fields that are actually managed as &#8220;meadows&#8221;.  i.e. where there is a variety of grasses and the fields are allowed to flower to support wildlife etc.  It could be the horses are on &#8220;meadows&#8221; but they may not be.  You can get all sorts of other animals on &#8220;meadows&#8221;, it is really about what grows in the field and how it is managed.  Spring, when the flowers, are out is probably the best time to map &#8220;meadows&#8221;.</p>
+<p>It would also be good if you could mark the field boundaries along roads.</p>
+<p>If you want to help dog owners they also like to know if dog gates exist.  There seem to be only two mapped as barrier=dog_gate so far in OSM.      </p>
+<p>I&#8217;ve started using natural=tree_row (not rendered as yet) for tree growth along rivers.  The examples on the wiki needs adding to as these are clearly planted as such.  It seemed sensible given it is &#8220;natural&#8221; and the tag is already available.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

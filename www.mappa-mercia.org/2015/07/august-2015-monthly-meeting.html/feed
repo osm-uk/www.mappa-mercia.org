@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: August 2015 monthly meeting	</title>
+	<atom:link href="https://www.mappa-mercia.org/2015/07/august-2015-monthly-meeting.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2015/07/august-2015-monthly-meeting.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Fri, 21 Aug 2015 16:42:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Brian Prangle		</title>
+		<link>https://www.mappa-mercia.org/2015/07/august-2015-monthly-meeting.html#comment-1374</link>
+
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2015 16:42:38 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1175#comment-1374</guid>
+
+					<description><![CDATA[A small meeting this month. The Bacco Lounge is to be highly recommended- thanks to Greg from Rugby for choosing the venue. We mapped a new residential development, complete with addresses; tons of retail stuff in Rugby centre and put a major logistics park on the map - Rugby Gateway- just off J1 of the M6.]]></description>
+			<content:encoded><![CDATA[<p>A small meeting this month. The Bacco Lounge is to be highly recommended- thanks to Greg from Rugby for choosing the venue. We mapped a new residential development, complete with addresses; tons of retail stuff in Rugby centre and put a major logistics park on the map &#8211; Rugby Gateway- just off J1 of the M6.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

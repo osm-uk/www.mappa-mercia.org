@@ -1,0 +1,107 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Whats in a Postcode?	</title>
+	<atom:link href="https://www.mappa-mercia.org/2011/02/whats-in-postcode.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2011/02/whats-in-postcode.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 22 Feb 2015 17:35:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2011/02/whats-in-postcode.html#comment-538</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sun, 22 Feb 2015 17:35:57 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/whats-in-a-postcode/#comment-538</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2011/02/whats-in-postcode.html#comment-513&quot;&gt;Peter R&lt;/a&gt;.
+
+Hi Peter,
+
+This is done by editing the crowd-sourced map &quot;OpenStreetMap&quot; (OSM). Microsoft has allowed OSM contributors to use their bing aerial imagery and the centre points of postcodes is now available as opendata (from both the OS and the Office of National Statistics).]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2011/02/whats-in-postcode.html#comment-513">Peter R</a>.</p>
+<p>Hi Peter,</p>
+<p>This is done by editing the crowd-sourced map &#8220;OpenStreetMap&#8221; (OSM). Microsoft has allowed OSM contributors to use their bing aerial imagery and the centre points of postcodes is now available as opendata (from both the OS and the Office of National Statistics).</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Peter R		</title>
+		<link>https://www.mappa-mercia.org/2011/02/whats-in-postcode.html#comment-513</link>
+
+		<dc:creator><![CDATA[Peter R]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2015 11:37:41 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/whats-in-a-postcode/#comment-513</guid>
+
+					<description><![CDATA[How can you do that without using copyrighted data from other mapping? Even if you walked down the street writing down the house numbers you&#039;re not going to know the shapes of the houses without either OS mapping or satellite data or both.
+
+Something like this would be wonderful for delivery drivers, especially in the countryside.  But I thought the obstacle to producing such a thing was that you&#039;d need the PAF, the OS maps, Google, etc etc to accomplish it.]]></description>
+			<content:encoded><![CDATA[<p>How can you do that without using copyrighted data from other mapping? Even if you walked down the street writing down the house numbers you&#8217;re not going to know the shapes of the houses without either OS mapping or satellite data or both.</p>
+<p>Something like this would be wonderful for delivery drivers, especially in the countryside.  But I thought the obstacle to producing such a thing was that you&#8217;d need the PAF, the OS maps, Google, etc etc to accomplish it.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tim		</title>
+		<link>https://www.mappa-mercia.org/2011/02/whats-in-postcode.html#comment-18</link>
+
+		<dc:creator><![CDATA[Tim]]></dc:creator>
+		<pubDate>Tue, 31 May 2011 17:04:06 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/whats-in-a-postcode/#comment-18</guid>
+
+					<description><![CDATA[Fine work, sir!&lt;br /&gt;&lt;br /&gt;I&#039;m doing a similar job in Cambourne, Cambridgeshire:&lt;br /&gt;http://osm.org/go/eu66D40Cq--&lt;br /&gt;&lt;br /&gt;I&#039;d agree with all your points above too, based on my experience.&lt;br /&gt;&lt;br /&gt;In Cambourne, I&#039;ve added driveways to garages and footpaths to front doors too, as it became obvious early on that without these, it often wasn&#039;t at all clear how to access a particular property, which I think is one of the main uses of this kind of mapping. (See, for instance, nos. 5 and 7 on Alder Drive in the above linked map. Without indicating fences, driveways and footpaths, they would just be sitting marooned in between several surrounding roads).&lt;br /&gt;&lt;br /&gt;This appears to be less of a problem in B72, as the roads are much straighter and more widely spaced, so it&#039;s pretty obvious which houses are accessed from which streets.&lt;br /&gt;&lt;br /&gt;It&#039;s just a shame that the village was still under construction when the Bing imagery was made, so we&#039;ll have to wait for complete mapping of the last parts to be built.]]></description>
+			<content:encoded><![CDATA[<p>Fine work, sir!</p>
+<p>I&#8217;m doing a similar job in Cambourne, Cambridgeshire:<br /><a href="http://osm.org/go/eu66D40Cq--" rel="nofollow ugc">http://osm.org/go/eu66D40Cq&#8211;</a></p>
+<p>I&#8217;d agree with all your points above too, based on my experience.</p>
+<p>In Cambourne, I&#8217;ve added driveways to garages and footpaths to front doors too, as it became obvious early on that without these, it often wasn&#8217;t at all clear how to access a particular property, which I think is one of the main uses of this kind of mapping. (See, for instance, nos. 5 and 7 on Alder Drive in the above linked map. Without indicating fences, driveways and footpaths, they would just be sitting marooned in between several surrounding roads).</p>
+<p>This appears to be less of a problem in B72, as the roads are much straighter and more widely spaced, so it&#8217;s pretty obvious which houses are accessed from which streets.</p>
+<p>It&#8217;s just a shame that the village was still under construction when the Bing imagery was made, so we&#8217;ll have to wait for complete mapping of the last parts to be built.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: tanoshimi		</title>
+		<link>https://www.mappa-mercia.org/2011/02/whats-in-postcode.html#comment-16</link>
+
+		<dc:creator><![CDATA[tanoshimi]]></dc:creator>
+		<pubDate>Wed, 23 Feb 2011 16:42:31 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/whats-in-a-postcode/#comment-16</guid>
+
+					<description><![CDATA[Excellent work, and very inspiring - when the weather gets a bit nicer I might attempt to do a little bit of this close to my home (I don&#039;t think I&#039;ll manage the whole of a postcode area, or even sector, but possibly I&#039;ll do the whole of my postcode!)]]></description>
+			<content:encoded><![CDATA[<p>Excellent work, and very inspiring &#8211; when the weather gets a bit nicer I might attempt to do a little bit of this close to my home (I don&#8217;t think I&#8217;ll manage the whole of a postcode area, or even sector, but possibly I&#8217;ll do the whole of my postcode!)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Brian		</title>
+		<link>https://www.mappa-mercia.org/2011/02/whats-in-postcode.html#comment-12</link>
+
+		<dc:creator><![CDATA[Brian]]></dc:creator>
+		<pubDate>Mon, 14 Feb 2011 15:26:50 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/whats-in-a-postcode/#comment-12</guid>
+
+					<description><![CDATA[B27- how&#039;s that for palindrom-ness-  shouldn&#039;t be too far behind (like a few weeks)- but I don&#039;t think I&#039;ll ever have the patience to enter all the garden boundaries]]></description>
+			<content:encoded><![CDATA[<p>B27- how&#8217;s that for palindrom-ness-  shouldn&#8217;t be too far behind (like a few weeks)- but I don&#8217;t think I&#8217;ll ever have the patience to enter all the garden boundaries</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

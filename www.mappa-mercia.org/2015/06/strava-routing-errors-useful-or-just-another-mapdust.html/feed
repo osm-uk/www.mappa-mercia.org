@@ -1,0 +1,77 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Strava routing errors: Useful or just another MapDust?	</title>
+	<atom:link href="https://www.mappa-mercia.org/2015/06/strava-routing-errors-useful-or-just-another-mapdust.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2015/06/strava-routing-errors-useful-or-just-another-mapdust.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Fri, 19 Jun 2015 09:15:23 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Todd		</title>
+		<link>https://www.mappa-mercia.org/2015/06/strava-routing-errors-useful-or-just-another-mapdust.html#comment-943</link>
+
+		<dc:creator><![CDATA[Todd]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2015 09:15:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1142#comment-943</guid>
+
+					<description><![CDATA[I&#039;ve also found the data in the Route tool to be well out of date, 6 months or more. And the error that was bothering me a month ago (fixed in OSM last year) is still there. Waiting... waiting... waiting. Seems a bit amateur to have a one-off import of OSM to a live website, even if it says &quot;beta&quot;. And I&#039;ve just noticed in the route tool today that the Google copyright and terms links are overlayed on the OSM view. Very naughty Strava.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve also found the data in the Route tool to be well out of date, 6 months or more. And the error that was bothering me a month ago (fixed in OSM last year) is still there. Waiting&#8230; waiting&#8230; waiting. Seems a bit amateur to have a one-off import of OSM to a live website, even if it says &#8220;beta&#8221;. And I&#8217;ve just noticed in the route tool today that the Google copyright and terms links are overlayed on the OSM view. Very naughty Strava.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: James		</title>
+		<link>https://www.mappa-mercia.org/2015/06/strava-routing-errors-useful-or-just-another-mapdust.html#comment-912</link>
+
+		<dc:creator><![CDATA[James]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2015 23:39:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1142#comment-912</guid>
+
+					<description><![CDATA[Hjart&#039;s experience is close to mine.  For a non-OSM based site, the bugs are pretty good.  In the US, I&#039;d give it a 30% good bug rate.  
+
+The old data thing is mildly annoying. The Strava site says they update routing data quarterly, but in my experience, it is closer to annually.  They just did an update.  One nice thing is that you can filter out the old errors, so stale errors do disappear.
+
+Also, the Strava routing table hasn&#039;t allowed travel on unclassified highways until the latest update.  They didn&#039;t allow routing on tertiary_links and bridleways.  I haven&#039;t checked whether that was fixed.  These omissions lead to false positives.
+
+Beyond this, the slide tool is pretty awesome for accurately mapping trails and fixing bad Tiger geometry.]]></description>
+			<content:encoded><![CDATA[<p>Hjart&#8217;s experience is close to mine.  For a non-OSM based site, the bugs are pretty good.  In the US, I&#8217;d give it a 30% good bug rate.  </p>
+<p>The old data thing is mildly annoying. The Strava site says they update routing data quarterly, but in my experience, it is closer to annually.  They just did an update.  One nice thing is that you can filter out the old errors, so stale errors do disappear.</p>
+<p>Also, the Strava routing table hasn&#8217;t allowed travel on unclassified highways until the latest update.  They didn&#8217;t allow routing on tertiary_links and bridleways.  I haven&#8217;t checked whether that was fixed.  These omissions lead to false positives.</p>
+<p>Beyond this, the slide tool is pretty awesome for accurately mapping trails and fixing bad Tiger geometry.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Hjart		</title>
+		<link>https://www.mappa-mercia.org/2015/06/strava-routing-errors-useful-or-just-another-mapdust.html#comment-907</link>
+
+		<dc:creator><![CDATA[Hjart]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2015 20:37:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1142#comment-907</guid>
+
+					<description><![CDATA[A year ago or so I fixed several hundred of these and I found it obvious from many of them that the vast majority of Strava users  were quite confused about the effects of staring at a Google map when the underlying routing engine was based on OSM (which they had no idea about). Despite that I found many reports highlighting issues that most likely wouldn&#039;t have been easily found otherwise. There definitely are gems to be found in there.
+
+Eventually I found though that Strava&#039;s copy of OSM didn&#039;t seem to ever get updated, which resulted in new reports cropping up on issues which I had already fixed a long time (half a year or more) ago and that&#039;s when I lost interest in fixing these  errors. Hopefully this has improved now.]]></description>
+			<content:encoded><![CDATA[<p>A year ago or so I fixed several hundred of these and I found it obvious from many of them that the vast majority of Strava users  were quite confused about the effects of staring at a Google map when the underlying routing engine was based on OSM (which they had no idea about). Despite that I found many reports highlighting issues that most likely wouldn&#8217;t have been easily found otherwise. There definitely are gems to be found in there.</p>
+<p>Eventually I found though that Strava&#8217;s copy of OSM didn&#8217;t seem to ever get updated, which resulted in new reports cropping up on issues which I had already fixed a long time (half a year or more) ago and that&#8217;s when I lost interest in fixing these  errors. Hopefully this has improved now.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

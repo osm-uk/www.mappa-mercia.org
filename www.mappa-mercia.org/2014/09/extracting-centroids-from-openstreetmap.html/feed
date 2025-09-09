@@ -1,0 +1,76 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Extracting centroids from OpenStreetMap	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/09/extracting-centroids-from-openstreetmap.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/09/extracting-centroids-from-openstreetmap.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Tue, 05 Sep 2017 20:57:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Charly		</title>
+		<link>https://www.mappa-mercia.org/2014/09/extracting-centroids-from-openstreetmap.html#comment-118788</link>
+
+		<dc:creator><![CDATA[Charly]]></dc:creator>
+		<pubDate>Tue, 05 Sep 2017 20:57:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1047#comment-118788</guid>
+
+					<description><![CDATA[Thank you so much.
+If you don&#039;t want the description double, beneath the POI, I prefer without &quot;&#062;;&quot; .
+
+Could you please explain how to get a map legend with all layers.]]></description>
+			<content:encoded><![CDATA[<p>Thank you so much.<br />
+If you don&#8217;t want the description double, beneath the POI, I prefer without &#8220;&gt;;&#8221; .</p>
+<p>Could you please explain how to get a map legend with all layers.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Andy Robinson		</title>
+		<link>https://www.mappa-mercia.org/2014/09/extracting-centroids-from-openstreetmap.html#comment-281</link>
+
+		<dc:creator><![CDATA[Andy Robinson]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2014 10:16:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1047#comment-281</guid>
+
+					<description><![CDATA[I was also using the same proceses last night to create a map for my son who&#039;s just started Uni. I thought, what does a student need? So I added layers for pubs, supermarkets, convenience stores, and the extent of the campus. Plus I added a couple of markers for digs &amp; main university building to help him orientate when bleary eyed.
+
+http://u.osmfr.org/m/17940/]]></description>
+			<content:encoded><![CDATA[<p>I was also using the same proceses last night to create a map for my son who&#8217;s just started Uni. I thought, what does a student need? So I added layers for pubs, supermarkets, convenience stores, and the extent of the campus. Plus I added a couple of markers for digs &#038; main university building to help him orientate when bleary eyed.</p>
+<p><a href="http://u.osmfr.org/m/17940/" rel="nofollow ugc">http://u.osmfr.org/m/17940/</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: DaCor		</title>
+		<link>https://www.mappa-mercia.org/2014/09/extracting-centroids-from-openstreetmap.html#comment-280</link>
+
+		<dc:creator><![CDATA[DaCor]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2014 22:50:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1047#comment-280</guid>
+
+					<description><![CDATA[LEGEND!
+
+Thank you!]]></description>
+			<content:encoded><![CDATA[<p>LEGEND!</p>
+<p>Thank you!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

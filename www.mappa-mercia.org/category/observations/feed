@@ -1,0 +1,356 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Observations &#8211; Mappa Mercia</title>
+	<atom:link href="https://www.mappa-mercia.org/category/observations/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Thu, 19 Jan 2017 14:39:31 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Mysterious Objects: no 7 in an occasional series</title>
+		<link>https://www.mappa-mercia.org/2017/01/mysterious-objects-no-7-in-an-occasional-series.html</link>
+					<comments>https://www.mappa-mercia.org/2017/01/mysterious-objects-no-7-in-an-occasional-series.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2017 14:39:31 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1497</guid>
+
+					<description><![CDATA[It&#8217;s been a long time since I&#8217;ve found an object on my surveys that has left me perplexed. Neary two years actually. The cynical side of me thinks its probably I haven&#8217;t been curious enough or motivated enough to document &#8230; <a href="https://www.mappa-mercia.org/2017/01/mysterious-objects-no-7-in-an-occasional-series.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>It&#8217;s been a long time since I&#8217;ve found an object on my surveys that has left me perplexed. Neary two years actually. The cynical side of me thinks its probably I haven&#8217;t been curious enough or motivated enough to document it. And to my embarrassment, it&#8217;s on my daily walk to the shops.</p>
+<p>Anyway, can anyone help with this one? It&#8217;s about 3 inches square and embedded in a pavement and doesn&#8217;t look like it&#8217;s  a lid that can be opened to something like a valve or switch. Also it looks like it&#8217;s brass which is unusual for street furniture of this kind.</p>
+<p style="text-align: center;"><a href="https://www.mappa-mercia.org/wp-content/uploads/2017/01/IMG_3949-2.jpg"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1496" src="https://www.mappa-mercia.org/wp-content/uploads/2017/01/IMG_3949-2-231x300.jpg" alt="" width="231" height="300" srcset="https://www.mappa-mercia.org/wp-content/uploads/2017/01/IMG_3949-2-231x300.jpg 231w, https://www.mappa-mercia.org/wp-content/uploads/2017/01/IMG_3949-2-768x996.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2017/01/IMG_3949-2-789x1024.jpg 789w" sizes="(max-width: 231px) 100vw, 231px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2017/01/mysterious-objects-no-7-in-an-occasional-series.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>There&#8217;s no map to look at in this blog- it&#8217;s secret!</title>
+		<link>https://www.mappa-mercia.org/2017/01/theres-no-map-to-look-at-in-this-blog-its-secret.html</link>
+					<comments>https://www.mappa-mercia.org/2017/01/theres-no-map-to-look-at-in-this-blog-its-secret.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Sun, 15 Jan 2017 15:27:34 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1492</guid>
+
+					<description><![CDATA[The attempts at secrecy surrounding the UK&#8217;s water supply became even more bizarre following my previous blog concerning the location of fire hydrants in the West Midlands, where making a map of fire hydrants is considered a threat to national &#8230; <a href="https://www.mappa-mercia.org/2017/01/theres-no-map-to-look-at-in-this-blog-its-secret.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>The attempts at secrecy surrounding the UK&#8217;s water supply became even more bizarre following my previous blog concerning the location of fire hydrants in the West Midlands, where making a map of fire hydrants is considered a threat to national security.</p>
+<p>Now we have the local water utility company, Severn Trent Water, joining the West Midlands Fire Service in attempting to prevent mapping of water resources, using similar &#8220;national security &#8221; concerns, although the phrase used by STW is &#8220;national critical infrastructure&#8221;.</p>
+<p>As part of the current OSM UK quarterly project which is to improve mapping of any water features I thought it would be great to map the installation of the new pipeline paralleling the existing <a href="http://history.powys.org.uk/history/rhayader/aqueduct1.html">Elan Valley Aqueduct</a> which is imaginatively named the &#8220;Birmingham Resilience Project&#8221;.</p>
+<p>BRP is a massive  £242m  two-year civil engineering project and is designed to  provide resilience to the Edwardian aqueduct opened in 1904 which supplies Birmingham all the way from a reservoir in the Elan Valley in Wales.  This pinnacle of Edwardian engineering is  a 73 mile (117 Km) supply which requires no pumps, relying on gravity and siphons.</p>
+<p>The Birmingham Resilience Project will provide a parallel supply for the last section of the aqueduct. It will run 16 miles (25 Km) from the River Severn at Stourport to the Frankley Reservoir to the West of Birmingham. It will be  a pumped underground pipeline. The best short online description of the project is <a href="http://www.waterprojectsonline.com/case_studies/2015/Severn_Trent_Birmingham_Resilience_2015.pdf">here. </a>There&#8217;s also an in depth presentation<a href="http://www.nodiglive.co.uk/component/phocadownload/category/1-downloads?download=13:head-of-pipelines-steve-mackellar"> here</a>  by the Head of Pipelines from the main contractor Jacobs</p>
+<p>STW&#8217;s informative online pages about the project include a <a href="https://www.stwater.co.uk/in-my-area/planned-improvements/frequently-asked-questions/">FAQ  </a>where you can <em><strong>apply to look at the map of the proposed route</strong></em>(!)</p>
+<p>Originally STW had published an online map showing the proposed route overlaid on an OpenData map from the Ordnance Survey (the UK&#8217;s national mapping agency). This would have made mapping it for OSM a doddle. However there was a statement on this map:<br />
+&#8220;This drawing is not to be used in whole or part other than for the intended purpose and project as defined on this drawing.  Refer to the contract for full terms and conditions.&#8221;</p>
+<p>So I contacted STW to see if we could use the map as I couldn&#8217;t refer to the contract which isn&#8217;t a public document. (Remember all  UK public utilities, except the National Health Service and the BBC, and large swathes of central and local government are run privately with no accountability or information other than to contracted parties or shareholders.)</p>
+<p>What transpired was a phone conversation which was quite stunning in its convoluted reasoning. I didn&#8217;t record it, but it was along the lines of:</p>
+<p>&#8220;Yes we&#8217;ve published a map based on opendata but no you can&#8217;t use it&#8221;</p>
+<p>&#8220;Why publish it, if we&#8217;re not allowed to use it?&#8221;</p>
+<p>&#8220;We need to undertake public consultation, but the data can only be viewed not replicated as it concerns national critical infrastructure&#8221;</p>
+<p>&#8220;So if I walk along public footpaths and roads and take photographs and gps readings wherever I can see this 16 mile civil engineering project and then make a map from my collected data, that woud be OK?</p>
+<p>&#8220;Yes I guess so&#8221;</p>
+<p>&#8220;So why not save me the effort and give me the data, which has already been made public, as the effect will be the same: publishing a map of a highly visible civil engineering project?&#8221;</p>
+<p>&#8220;We can&#8217;t do that &#8211; it would compromise national critical infrastructure&#8221;</p>
+<p>Repeat the last two statements ad infinitum.</p>
+<p>Despite its absence from STW&#8217;s website and the medieval process of applying to look at it (and no doubt have your name recorded as a potential threat to national critical infrastructure); for those of you who want to see  a map of the proposed route, the online planning sites of each local authority that the new aqueduct traverses (Wyre Forest District Council, Wychavon District Council, Bromsgrove District Council, Birmingham City Council) provide <strong><em>dozens of very detailed maps, </em></strong>all of which are copyrighted however. So it doesn&#8217;t get us any further forward other than having to do a ground survey, but it makes a nonsense of STW&#8217;s attempts to make online access to maps difficult.</p>
+<p>In STW&#8217;s parallel corporate universe you can have a two-year civil engineering project digging up 16 miles of the countryside with its attendant huge online archive of public planning documents all of which you can make invisible! Just as long as you don&#8217;t have an online opensource map!</p>
+<p>Anyone feel like helping with the ground survey?</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2017/01/theres-no-map-to-look-at-in-this-blog-its-secret.html/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A guide to mapping Fire Hydrants in the UK</title>
+		<link>https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html</link>
+					<comments>https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2016 15:42:16 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Observations]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1487</guid>
+
+					<description><![CDATA[&#160; In the West Midlands our fire hydrant signs are generally placed on lamp posts: The black H on a yellow background I believe to be a UK standard. The upper number is the diameter of the underlying water main &#8230; <a href="https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>In the West Midlands our fire hydrant signs are generally placed on lamp posts:</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-1475 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-300x225.jpg" alt="" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3914-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>The black H on a yellow background I believe to be a UK standard. The upper number is the diameter of the underlying water main in mm. The lower number is the distance in feet to the fire hydrant from the sign with the arrow showing the direction to the actual hydrant. There is also a reference number at the foot of the sign. So, having spotted the sign, the actual fire hydrant has to be found. The signs can get swivelled on the lamposts through maintenance interventions or general neglect and the arrows point in the wrong direction!</p>
+<p>To complicate matters further, there are some fire hydrants that do not have a sign, and some older variants of the signs. These older signs tend to be attached to buildings or walls and I have no idea what the numbers refer to.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1483" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-300x225.jpg" alt="" width="129" height="97" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3925-1024x768.jpg 1024w" sizes="(max-width: 129px) 100vw, 129px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1482" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-300x225.jpg" alt="" width="130" height="97" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3935-1024x768.jpg 1024w" sizes="(max-width: 130px) 100vw, 130px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1480" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-300x225.jpg" alt="" width="135" height="101" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3919-1024x768.jpg 1024w" sizes="(max-width: 135px) 100vw, 135px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1479" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-300x225.jpg" alt="" width="132" height="99" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3917-1024x768.jpg 1024w" sizes="(max-width: 132px) 100vw, 132px" /></a></p>
+<p>So you have to on the lookout on the ground as well as spotting yellow H  signs.Fire hydrant covers generally have FH on them to identify them, although some older ones can have just H only. Whether the older style ones are still operational I don&#8217;t know, but they get mapped anyway.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916.jpg"><img decoding="async" loading="lazy" class="wp-image-1476 alignleft" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-300x225.jpg" alt="" width="166" height="124" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3916-1024x768.jpg 1024w" sizes="(max-width: 166px) 100vw, 166px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927.jpg"><img decoding="async" loading="lazy" class="alignnone wp-image-1484 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-300x225.jpg" alt="" width="171" height="128" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3927-1024x768.jpg 1024w" sizes="(max-width: 171px) 100vw, 171px" /></a></p>
+<p>&nbsp;</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915.jpg"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1477" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-300x225.jpg" alt="" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3915-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587.jpg"><img decoding="async" loading="lazy" class="alignnone  wp-image-1485" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587-225x300.jpg" alt="" width="171" height="228" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587-225x300.jpg 225w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3926-e1482937093587-768x1024.jpg 768w" sizes="(max-width: 171px) 100vw, 171px" /></a></p>
+<p>And of course it&#8217;s always good to see public organisations collaborating successfully with each other!</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924.jpg"><img decoding="async" loading="lazy" class="size-medium wp-image-1481 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-300x225.jpg" alt="" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/12/IMG_3924-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>The basic tag is emergency=fire_hydrant with more <a href="http://wiki.openstreetmap.org/wiki/Tag:emergency%3Dfire_hydrant">details on the OSM wiki</a></p>
+<p>Why the sudden interest in fire hydrants? In the UK, they&#8217;ve languished as an item that gets mapped.</p>
+<p>At our last mappamercia pub meeting Andy Mabbett regaled us with his saga of trying to get West Midlands Fire Service to release the locations of fire hydrants under Freedom of Information legislation.</p>
+<p>The full saga can be found<a href="https://www.whatdotheyknow.com/request/locations_of_fire_hydrants"> here</a></p>
+<p>WMFS refused to release the information on the grounds of national security viz: &#8220;publishing information about water  networks and other parts of the critical national infrastructure could  expose vulnerabilities in the network and pose a serious risk to public health either through non availability of water resource or<br />
+contamination of supplies. There does not have to be any evidence that this is being planned but it is a possibility given the current threat level in the United Kingdom.&#8221;</p>
+<p>An appeal by Andy against WMFS to the first-tier information rights tribunal mainly on the grounds that other Fire Services in the UK had already released their information on fire hydrants was rejected. The judges agreed with the Information Commissioner&#8217;s Office (ICO) assessment:</p>
+<p>&#8220;The ICO concluded that the withholding of the information was reasonably necessary for national security and a listing of hydrants and their locations would assist in the planning of an attack by poisoning on water supply infrastructure by identifying access points. Such an attack on the infrastructure would be in the domain of national security. While hydrants are visible a comprehensive list of the precise location of every hydrant would place in the public domain more information than is available through hydrants being visible. WMFS supplied a list of attacks and attempted attacks on water supplies.The ICO considered that such an attack was plausible.&#8221;</p>
+<p>There is a method for contaminating the water supply known as backflow contamination, which is considered to be reasonably easy according to an excellent paper <a href="http://www.waterworld.com/articles/2010/03/terrorism-vulnerabilities-to-the-water-supply-and-the-role-of-the-consumer.html">here </a>which quotes extensively from US military and homeland security sources. Fire hydrants are one possible source to generate backflow.</p>
+<p>My limited understanding of water networks is that backflow is a general problem for the water supply industry, which can mitigate the effects with backflow prevention devices. Just how extensive and successful this mitigation is in the UK (and thus how safe we are from backflow attacks) will remain a commercial mystery, as our water supply is in the hands of private companies who are under no obligation to reveal such information. ( I have another story about water networks and open information which will be the subject of a later blog)</p>
+<p>Given the cult of secrecy that exists at all levels of official Britain, it also seems unlikely there will be any disclosure of the risk levels of such an attack vector so that we might make up our own minds based on the data. We will have to make do with the assurances of &#8220;those that know best&#8221;. The public&#8217;s role seems to be limited primarily to that of potential or actual victims.</p>
+<p>This issue does raise some interesting ethical challenges for OpenStreetMap as it seems to be sending us back several centuries when accurate maps were regarded as military secrets. Or to the days of the Cold War when our national mapping agency the Ordnance Survey would obligingly leave blank spaces on their maps at the sites of military installations. Would a map of fire hydrants in the West Midlands be construed as offence under ss57&amp;58 of the Terrorism Act 2000: collecting, possessing or making a record of information of a kind likely to be useful to a person committing or preparing an act of terrorism? Should we be standing up for opendata, one of the founding principles of OpenStreetMap, or protecting  (supposedly) national security? What is the position in other jurisdictions where there are more draconian restrictions about identifying and mapping military installations and &#8220;national critical infrastructure&#8221;? Are mappers more circumspect there?  What&#8217;s the legal postion- is the OSMF liable for prosecution or just the contributing mapper or both? Should OSMF comply with a demand to remove information on the grounds of national security? Or to refrain from collecting it in the first instance?</p>
+<p>According to taginfo there are only 1786 fire hydrants mapped in the UK, of which there are now about 300  in the West Midlands. Prior to my interest being piqued by this sorry tale there were only about 5 fire hydrants mapped in the West Midlands. Judging by the density of fire hydrants I&#8217;ve discovered so far, there are probably thousands in the West Midlands so I seriously doubt whether we&#8217;ll ever crowdsource the location of all of them,(or even many more than we have already).</p>
+<p>Nonetheless, it&#8217;s been an education in another aspect of urban infrastructure I wasn&#8217;t really aware of, and a confirmation of the patrician &#8220;you don&#8217;t need to know about that&#8221; attitude of much of British officialdom.</p>
+<p>(all of the images are my own and are published here as public domain)</p>
+<div class="textLayer">
+<div>.</div>
+</div>
+<div data-canvas-width="643.1706424"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/12/a-guide-to-mapping-fire-hydrants-in-the-uk.html/feed</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Summary of the Summer UK Quarterly Project</title>
+		<link>https://www.mappa-mercia.org/2016/10/summary-of-the-summer-uk-quarterly-project.html</link>
+					<comments>https://www.mappa-mercia.org/2016/10/summary-of-the-summer-uk-quarterly-project.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2016 15:35:04 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1456</guid>
+
+					<description><![CDATA[Our Summer project  which ended on 30 September was to map as many farmyards as we could. 1. We added 1499 farmyards, which compares to an increase of 853 schools for the schools project which seems to suggest farmyards was &#8230; <a href="https://www.mappa-mercia.org/2016/10/summary-of-the-summer-uk-quarterly-project.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>Our Summer project  which ended on 30 September was to map as many farmyards as we could.</div>
+<div></div>
+<div>1. We added 1499 farmyards, which compares to an increase of 853 schools for the schools project which seems to suggest farmyards was a more active project, but the schools project added 3653 polygons( i.e we converted lots of nodes to polygons, thereby enriching the data). So this time we created more data, rather than improve existing data.</div>
+<div>2. We gathered momentum during the project: it took 39 days to edit the first 500 farmyards; 33 for the next 500; and 20 days for the ultimate 500 (well, 499)</div>
+<p>3. There are over 19,000 place=farm tags, almost all of them (&gt;18,000) nodes. Mostly they seem to indicate farms but sometimes they get used too enthusiastically for any group of buildings. It is generally agreed that this tag really doesn&#8217;t add any useful information and its use should be discouraged.</p></div>
+<p>4. We have 36 generically named Poultry Farm or Poultry Houses copied from OS OpenData, which describes the farm but doesn&#8217;t actually name it!</p></div>
+<p>5. A lot of farms in Herefordshire (which is where I mapped mostly for this project) don&#8217;t have the word Farm in their name. Is this the case elsewhere?</p></div>
+<p>6. If Herefordshire is anything to go by road alignment in rural areas can be pretty poor.</p></div>
+<p>7. Waterways traced from NPE are severely misaligned.</p></div>
+<p>8. 5 and 6 might suggest themselves as future quarterly projects. Correcting them around farms I added certainly slowed down my output.</p></div>
+<p>9. Don&#8217;t ask farmers to help you mapping during their busiest time of year! I got zero response from my approaches.</p></div>
+<p>10. Most unusual name I found was Cold Comfort Farm. There are 4 of them in the UK and had a <a href="http://www.openstreetmap.org/way/228497532#map=16/52.2189/-1.8953&amp;layers=Thttps://en.wikipedia.org/wiki/Cold_Comfort_Farm" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en-GB&amp;q=http://www.openstreetmap.org/way/228497532%23map%3D16/52.2189/-1.8953%26layers%3DThttps://en.wikipedia.org/wiki/Cold_Comfort_Farm&amp;source=gmail&amp;ust=1475594768764000&amp;usg=AFQjCNGvpZAxMddmssEnOKZMuoLPWcwgYA">comic novel</a> named after them</p>
+<p>Herefordshire farmyards before and after:</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June.png" rel="attachment wp-att-1455"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1455" src="https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June-300x230.png" alt="hereford-farms-june" width="300" height="230" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June-300x230.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June-768x589.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/10/Hereford-farms-June.png 855w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep.png" rel="attachment wp-att-1454"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1454" src="https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep-300x225.png" alt="hereford-end-sep" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep-300x225.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep-768x576.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/10/hereford-end-Sep.png 866w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/10/summary-of-the-summer-uk-quarterly-project.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Colonisation by street cabinet</title>
+		<link>https://www.mappa-mercia.org/2016/06/colonisation-by-street-cabinet.html</link>
+					<comments>https://www.mappa-mercia.org/2016/06/colonisation-by-street-cabinet.html#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Wed, 22 Jun 2016 18:35:38 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1428</guid>
+
+					<description><![CDATA[Man_made=street_cabinet is not the most popular tag or object to map: there are only 753 instances in the UK according to taginfo. However &#8230;&#8230;they are proliferating at what seems a high rate judging by my recent surveys. I started noticing &#8230; <a href="https://www.mappa-mercia.org/2016/06/colonisation-by-street-cabinet.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Man_made=street_cabinet is not the most popular tag or object to map: there are only 753 instances in the UK according to taginfo.</p>
+<p>However &#8230;&#8230;they are proliferating at what seems a high rate judging by my recent surveys. I started noticing street cabinets as part of a traffic management project which Birmingham City Council invited OSM to design a tagging scheme for  traffic sensors associated with controlling traffic signals and assist in editing and quality control (more on this later, but probably after SotM 2016, where it will feature in a talk I&#8217;ll be giving)</p>
+<p>Even if you don&#8217;t have a local project like this, traffic signal cabinets usually have  a reference number on them to identify a set of signals and are useful for identifying them. For our project the reference number matched the sensor node  reference number on the traffic management network &#8211; so it was a useful way of OSM  mappers on the ground cross-checking centra data held by the Council. Who knows, if you map enough of them in your area, someone will find a use for the data?</p>
+<p><em>By the way  individual traffic signal poles can also have reference numbers, but I&#8217;m not advocating <strong>they</strong> all get mapped!</em></p>
+<p>But back to proliferating street cabinets- always communications cabinets adjacent to phone masts. Not only are they proliferating &#8211; they&#8217;re growing in size. Some are now the size of refigerators. The  collection shown here was definitely not there when I first surveyed this phone mast several years ago. The smallest one second from the left was all that was there. I guess the proliferation is down to the phenomenal growth in mobile data traffic, and possibly the sharing of masts by mobile network providers. I have seen one surrounded by 7 such cabinets! Can anyone beat that?</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/06/street-cabinets.jpg" rel="attachment wp-att-1427"><img decoding="async" loading="lazy" class="size-medium wp-image-1427 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/06/street-cabinets-300x225.jpg" alt="street cabinets" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/06/street-cabinets-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/06/street-cabinets-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/06/street-cabinets-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Should we bother mapping these? It&#8217;s down to individual preference I guess, OSM is not going to be deficient without them.</p>
+<p>Perhaps when they become covered in graffiti and are transformed into tourism=artwork? The local taggers have already made a start on these.</p>
+<p>But they are a significant physical presence and we do map other objects which are much smaller (most of which, it has to be said, are immediately useful, like benches, mailboxes, litter bins etc). I shall periodically amuse myself by adding significant clusters of these to OSM data.</p>
+<p>The things you notice once you start surveying and editing with OSM!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/06/colonisation-by-street-cabinet.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Visit to the National Library of Scotland</title>
+		<link>https://www.mappa-mercia.org/2016/05/visit-to-the-national-library-of-scotland.html</link>
+					<comments>https://www.mappa-mercia.org/2016/05/visit-to-the-national-library-of-scotland.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Fri, 27 May 2016 21:49:58 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1407</guid>
+
+					<description><![CDATA[Last October I had the pleasure of visiting the National Library of Scotland. I was up in Edinburgh at State of the Map Scotland and couldn&#8217;t pass up on the opportunity to have a guided tour of the library&#8217;s maps &#8230; <a href="https://www.mappa-mercia.org/2016/05/visit-to-the-national-library-of-scotland.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Last October I had the pleasure of visiting the National Library of Scotland. I was up in Edinburgh at <a href="http://wiki.openstreetmap.org/wiki/State_of_the_Map_Scotland_2015" target="_blank">State of the Map Scotland</a> and couldn&#8217;t pass up on the opportunity to have a guided tour of the library&#8217;s maps reading room. Our host, Chris Fleet, had laid out a number of fantastic items from their collection &#8211; each with it&#8217;s own story.</p>
+<p>Being a bit of a map geek I took way too many photos during the hour or so we had before closure. Here are some of the best to whet your appetite. The NLS are long term <a href="http://wiki.openstreetmap.org/wiki/National_Library_of_Scotland" target="_blank">supporters of OpenStreetMap</a>, have scanned and georeferenced many thousands of maps, and host zoomable maps on their <a href="http://maps.nls.uk/index.html" target="_blank">amazing website</a>. If you find yourself in Edinburgh, be sure to check out their collection.</p>
+<div id="attachment_1408" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1408" decoding="async" loading="lazy" class="size-full wp-image-1408" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized000.jpg" alt="Russian military maps (read all about these secret cold war maps)." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized000.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized000-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized000-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1408" class="wp-caption-text">Russian military maps (link: <a href="http://www.wired.com/2015/07/secret-cold-war-maps/" target="_blank">secret cold war maps</a>).</p></div>
+<div id="attachment_1409" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1409" decoding="async" loading="lazy" class="size-full wp-image-1409" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized003.jpg" alt="Textured maps for the blind and partially sighted." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized003.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized003-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized003-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1409" class="wp-caption-text">Textured maps for the blind and partially sighted.</p></div>
+<div id="attachment_1410" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1410" decoding="async" loading="lazy" class="size-full wp-image-1410" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized005.jpg" alt="The Blaeu Atlas of Scotland, 1654 (view online)" width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized005.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized005-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized005-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1410" class="wp-caption-text">The Blaeu Atlas of Scotland, 1654 (<a href="http://maps.nls.uk/view/00000395" target="_blank">view online</a>)</p></div>
+<div id="attachment_1411" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1411" decoding="async" loading="lazy" class="size-full wp-image-1411" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized006.jpg" alt="Precision tools of the map maker." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized006.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized006-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized006-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1411" class="wp-caption-text">Precision tools of the map maker.</p></div>
+<div id="attachment_1412" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1412" decoding="async" loading="lazy" class="size-full wp-image-1412" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized017.jpg" alt="Map corrections: tracing paper and sticky tape!" width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized017.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized017-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized017-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1412" class="wp-caption-text">Map corrections: tracing paper and sticky tape!</p></div>
+<div id="attachment_1413" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1413" decoding="async" loading="lazy" class="size-full wp-image-1413" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized021.jpg" alt="A map of WW1 trench positions in Belgium." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized021.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized021-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized021-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1413" class="wp-caption-text">A map of WW1 trench positions in Belgium.</p></div>
+<div id="attachment_1414" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1414" decoding="async" loading="lazy" class="size-full wp-image-1414" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized022.jpg" alt="Now you see it, now you don't. Early day 'airbrusing' to remove an airfield from aerial photos." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized022.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized022-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized022-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1414" class="wp-caption-text">Now you see it, now you don&#8217;t. Early day &#8216;airbrusing&#8217; to remove an airfield from aerial photos.</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/05/visit-to-the-national-library-of-scotland.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Schools project: When we map</title>
+		<link>https://www.mappa-mercia.org/2016/02/schools-project-when-we-map.html</link>
+					<comments>https://www.mappa-mercia.org/2016/02/schools-project-when-we-map.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sat, 20 Feb 2016 16:35:01 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1372</guid>
+
+					<description><![CDATA[In order to assist a conversation on Loomio about when to hold a &#8220;Night School&#8221; mapathon, I took a look at when mappers are most involved in the quarterly project to map schools. Data is based on Harry Wood&#8217;s School &#8230; <a href="https://www.mappa-mercia.org/2016/02/schools-project-when-we-map.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>In order to assist a conversation on <a href="https://www.loomio.org/d/Nt4DYCu2/concentrating-our-efforts">Loomio</a> about when to hold a &#8220;Night School&#8221; mapathon, I took a look at when mappers are most involved in the quarterly project to map schools. Data is based on Harry Wood&#8217;s <a href="http://harrywood.dev.openstreetmap.org/diffreader/schools/?filter=uk">School Edits website</a>.</strong></p>
+<p>Starting with average number of mappers per day we see that Wednesday leads, whilst Friday and Saturday have the lowest number of mappers. Nothing unusual here then!</p>
+<p><img decoding="async" loading="lazy" class="size-full wp-image-1373 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Day.png" alt="WhenMap_Day" width="471" height="341" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Day.png 471w, https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Day-300x217.png 300w" sizes="(max-width: 471px) 100vw, 471px" /></p>
+<p>Although Monday has fewer mappers, in terms of total edits it is still up there with Tuesday and Wednesday.<img decoding="async" loading="lazy" class="size-full wp-image-1374 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Day2.png" alt="WhenMap_Day2" width="518" height="340" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Day2.png 518w, https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Day2-300x197.png 300w" sizes="(max-width: 518px) 100vw, 518px" /></p>
+<p>If we look at the time of day we find that 19:00 is the best hour for mappers.</p>
+<p><img decoding="async" loading="lazy" class="size-full wp-image-1375 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Hour.png" alt="WhenMap_Hour" width="558" height="340" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Hour.png 558w, https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Hour-300x183.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/02/WhenMap_Hour-80x50.png 80w" sizes="(max-width: 558px) 100vw, 558px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/02/schools-project-when-we-map.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>UK mapping hot-spots</title>
+		<link>https://www.mappa-mercia.org/2016/01/uk-mapping-hot-spots.html</link>
+					<comments>https://www.mappa-mercia.org/2016/01/uk-mapping-hot-spots.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2016 23:49:49 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1341</guid>
+
+					<description><![CDATA[It&#8217;s been a month since we started our fifth quarterly project, so let&#8217;s look at where the engaged OpenStreetMap contributors are editing. Read on to find out where the mapping hot-spots are and where we have missing map locations. Each &#8230; <a href="https://www.mappa-mercia.org/2016/01/uk-mapping-hot-spots.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>It&#8217;s been a month since we started our fifth quarterly project, so let&#8217;s look at where the engaged OpenStreetMap contributors are editing. Read on to find out where the mapping hot-spots are and where we have missing map locations.</strong></p>
+<p>Each quarter year we pick a different task to work on. The fifth is all about <a href="https://www.mappa-mercia.org/2016/01/2016-first-quarterly-project-schools.html">schools</a> and has (by a long way) been our most successful. Let&#8217;s therefore use it to get an idea of where the engaged OpenStreetMap community is. By &#8220;engaged&#8221; I mean, where are the UK OpenStreetMappers who follow the community channels &#8211; such as the <a href="https://lists.openstreetmap.org/pipermail/talk-gb/">talk-gb mailing list</a> and twitter accounts like <a href="https://twitter.com/mappamercia">ours</a> &#8211; and join in with group mapping efforts.</p>
+<p>Lets look at the results. Data comes from the <a href="http://harrywood.dev.openstreetmap.org/diffreader/schools/">school edit tracker</a>.</p>
+<div id="attachment_1342" style="width: 540px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1342" decoding="async" loading="lazy" class="size-full wp-image-1342" src="https://www.mappa-mercia.org/wp-content/uploads/2016/01/MapOfEdits.jpg" alt="Map of the OpenStreetMap community engaged in the quarterly project to map schools." width="530" height="676" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/01/MapOfEdits.jpg 530w, https://www.mappa-mercia.org/wp-content/uploads/2016/01/MapOfEdits-235x300.jpg 235w" sizes="(max-width: 530px) 100vw, 530px" /><p id="caption-attachment-1342" class="wp-caption-text">Map of the OpenStreetMap community engaged in the quarterly project to map schools.</p></div>
+<p>As you&#8217;d expect most edits are focused on large towns and cities. Here we have a larger population from which to attract engaged mappers, and of course there are more schools to map without having to travel so far. Large cities don&#8217;t always equate to lots of mappers though. Manchester and Liverpool are lagging behind; a trait we also saw during our first quarterly project (note: edits in the OL postcode region are my remote edits).</p>
+<blockquote><p>The cities that are most engaged also tend to be those with OpenStreetMap communities that meet regularly.</p></blockquote>
+<p>Perhaps big urban areas seem to daunting to an individual mapper! What we see is that the cities and  larger towns that are most engaged also tend to be those with OpenStreetMap communities that meet in person regularly. These include Birmingham (this group), London, Nottingham and the central belt of Scotland. Perhaps the active mappers in Blackpool and Bradford could see if there is any interest in setting up a local community focused along the Mersey!</p>
+<p>Other areas that are doing well are Cheshire, East Anglia, the South East and along the River Severn. Within the more rural areas Yorkshire is doing well (mapping is across the county not just in the larger urban areas) and as <a href="https://www.mappa-mercia.org/2016/01/mapped-every-school-in-the-outer-hebrides-and-lerwick.html">previously noted</a> the Outer Hebrides and Shetland Islands.</p>
+<p>Cardiff is another example of a city that is missing mappers. As are most of Wales and the South West, much of which is rural. They are joined by the region sandwiched between the Lake District and Edinburgh.</p>
+<p>Finally, Ireland&#8217;s mappers are focused on <a href="http://www.openstreetmap.ie/projects/townlands/">mapping Townlands</a>, but nevertheless they&#8217;ve found time to map a few schools in both Northern Ireland and the Republic of Ireland.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/01/uk-mapping-hot-spots.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Birmingham New Street Station</title>
+		<link>https://www.mappa-mercia.org/2015/10/birmingham-new-street-station.html</link>
+					<comments>https://www.mappa-mercia.org/2015/10/birmingham-new-street-station.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2015 18:28:47 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Observations]]></category>
+		<category><![CDATA[Use The Map]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1256</guid>
+
+					<description><![CDATA[Surveying and editing the new  mainline multilevel station in Birmingham proved to be a mapping challenge; involving as it did keeping a lot of the existing edits, modifying most of them and then layering on the new developments. Very similar &#8230; <a href="https://www.mappa-mercia.org/2015/10/birmingham-new-street-station.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Surveying and editing the new  mainline multilevel station in Birmingham proved to be a mapping challenge; involving as it did keeping a lot of the existing edits, modifying most of them and then layering on the new developments. Very similar in mapping terms  to the physical work in actually renovating the stations whilst keeping it running.</p>
+<p>The mapping is complete apart from a few pernickety errors, omissions and problems like the late completions of the taxi rank to the South of the station and the Metro Station to the North. The main improvement needed is  smoothing the curves of the platforms and  tracks. Getting them aligned to the lifts, escalators and stairs from the concourse above was bad enough!</p>
+<p>One thing I haven&#8217;t been able to address is the  goods delivery access to the shopping mall above the station. Previously there was a service road on the roof  for delivery which was accessed via the ramp to the multistorey car park, but most of the roof is now a huge glassed dome. If anyone knows how it&#8217;s done please let me know.</p>
+<p>The rendering limitations of OpenStreetMap meant some compromises were in order: mainly the prominence given to the pedestrian way for the Grand Central shopping mall as opposed to the pedestrian concourse underneath for the station concourse. Tagging the mall pedestrian ways as bridges was a possibility but that was really too much mapping for the renderer and not what&#8217;s on the ground.</p>
+<p>To rectify this inability to render multiple layers, I thought I&#8217;d produce some floor plans of each level, selecting in JOSM layers various tagged levels. They&#8217;re only screenshots from JOSM as my  mapping skills don&#8217;t extend to taking the data and rendering as a map- and it would just take too long to learn. If anyone else wants to have a go then please feel free! I&#8217;ve produced two versions of each, one with a dark background and one with a light background. I have done some post-editing to make the concourse more prominent rather than relying solely on the footways in the original OSM data. The plans  may prove to be more useful separated like this than trying to interpret the complexity of the standard OSM map.</p>
+<p>First New Street Station Concourse (at level 0)</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-4.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1266" src="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-4-300x194.png" alt="New Street Station Concourse 4" width="300" height="194" srcset="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-4-300x194.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-4-1024x661.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-4.png 1467w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-3.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1265" src="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-3-300x176.png" alt="New Street Station Concourse 3" width="300" height="176" srcset="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-3-300x176.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-3-1024x602.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Concourse-3.png 1632w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Next the platforms underneath (at level -1)</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-platforms-2.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1263" src="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-platforms-2-300x191.png" alt="New Street platforms 2" width="300" height="191" srcset="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-platforms-2-300x191.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-platforms-2-1024x653.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-platforms-2-80x50.png 80w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-platforms-2.png 1514w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Platforms-1.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1262" src="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Platforms-1-300x157.png" alt="New Street Platforms 1" width="300" height="157" srcset="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Platforms-1-300x157.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Platforms-1-1024x534.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Platforms-1.png 1656w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Grand Central shopping mall (above the Concourse at Level 1)</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-2.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1260" src="https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-2-300x257.png" alt="Grand Central 2" width="300" height="257" srcset="https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-2-300x257.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-2-1024x878.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-2.png 1228w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-1.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1259" src="https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-1-300x254.png" alt="Grand Central 1" width="300" height="254" srcset="https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-1-300x254.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-1-1024x867.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/Grand-Central-1.png 1077w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>And finally Level 2</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Sation-Level-2-2.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1264" src="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Sation-Level-2-2-300x199.png" alt="New Street Sation Level 2 2" width="300" height="199" srcset="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Sation-Level-2-2-300x199.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Sation-Level-2-2-1024x681.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Sation-Level-2-2.png 1354w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Level-2.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1267" src="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Level-2-300x190.png" alt="New Street Station Level 2" width="300" height="190" srcset="https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Level-2-300x190.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Level-2-1024x648.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Level-2-80x50.png 80w, https://www.mappa-mercia.org/wp-content/uploads/2015/10/New-Street-Station-Level-2.png 1384w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Some of these plans might make it to our mappa-mercia maps section, as a regional resource.</p>
+<p>A few suggestions for improvements  in rendering complex public buildings like this:</p>
+<ol>
+<li>Display an icon and name for the entrances</li>
+<li>Display an icon for emergency exits</li>
+<li>Differentiate rendering for stairs and escalators</li>
+<li>Show direction of travel for escalators and stairs</li>
+<li>Display an icon for ticket barriers (turnstiles)</li>
+<li>Tagging schema for internal concourses and thoroughfares (maybe just add indoors=yes to highway=pedestrian and area=yes)</li>
+<li> Opacity differentiation for multiple concourse/thoroughfare levels (even  just two would be useful)</li>
+<li>Specifically for railway stations &#8211; get the platform rendering to behave as if it understood OSM layers!</li>
+</ol>
+<p>And apologies to anyone involved in indoor mapping &#8211; I found the documentation just too complex and confusing, but I&#8217;d like to learn. If anyone can review the data and demonstrate how to make a complete 3-D multilayer model I&#8217;d be very appreciative.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2015/10/birmingham-new-street-station.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Birmingham: A top 10 city by the number of POI</title>
+		<link>https://www.mappa-mercia.org/2015/09/birmingham-a-top-10-city-by-the-number-of-poi.html</link>
+					<comments>https://www.mappa-mercia.org/2015/09/birmingham-a-top-10-city-by-the-number-of-poi.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2015 20:16:43 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1236</guid>
+
+					<description><![CDATA[Have you ever wondered which cities have the most points of interest (POI) mapped in OpenStreetMap? That&#8217;s exactly the question that one user, baditaflorin, pondered over. With 65,093 features on the map, we are delighted that Birmingham ranks as number &#8230; <a href="https://www.mappa-mercia.org/2015/09/birmingham-a-top-10-city-by-the-number-of-poi.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Have you ever wondered which cities have the most points of interest (POI) mapped in OpenStreetMap? That&#8217;s exactly the question that one user, baditaflorin, pondered over. With 65,093 features on the map, we are delighted that Birmingham ranks as number 9 in the count of most POI.</p>
+<p>Head over to baditaflorin&#8217;s <a href="https://www.openstreetmap.org/user/baditaflorin/diary/35766">write-up</a> to find out which city tops the list.</p>
+<div style="width: 654px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="" src="http://www.dakitrack.com/sites/default/files/poi%20carte%20%281%29.jpg" alt="" width="644" height="431" /><p class="wp-caption-text">Image from <a href="http://www.dakitrack.com/en/content/point-of-interest-POI-tracking-map" target="_blank">DAKItrack</a>.</p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2015/09/birmingham-a-top-10-city-by-the-number-of-poi.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Massive Release of Highways Asset Data in Birmingham	</title>
+	<atom:link href="https://www.mappa-mercia.org/2017/03/massive-release-of-highways-asset-data-in-birmingham.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2017/03/massive-release-of-highways-asset-data-in-birmingham.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Mon, 13 Mar 2017 17:47:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Chris Hill		</title>
+		<link>https://www.mappa-mercia.org/2017/03/massive-release-of-highways-asset-data-in-birmingham.html#comment-113593</link>
+
+		<dc:creator><![CDATA[Chris Hill]]></dc:creator>
+		<pubDate>Mon, 13 Mar 2017 17:47:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1500#comment-113593</guid>
+
+					<description><![CDATA[Where was the tree import discussed? Undiscussed imports usually get reverted!! How do you know what the quality is like? &#039;Official&#039; does mean &#039;good&#039;.]]></description>
+			<content:encoded><![CDATA[<p>Where was the tree import discussed? Undiscussed imports usually get reverted!! How do you know what the quality is like? &#8216;Official&#8217; does mean &#8216;good&#8217;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

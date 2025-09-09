@@ -1,0 +1,66 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Birmingham completely covered with buildings	</title>
+	<atom:link href="https://www.mappa-mercia.org/2012/10/birmingham-completely-covered-with.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2012/10/birmingham-completely-covered-with.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 17:33:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: J. Marsch		</title>
+		<link>https://www.mappa-mercia.org/2012/10/birmingham-completely-covered-with.html#comment-38</link>
+
+		<dc:creator><![CDATA[J. Marsch]]></dc:creator>
+		<pubDate>Fri, 02 Nov 2012 01:23:29 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/birmingham-completely-covered-with-buildings/#comment-38</guid>
+
+					<description><![CDATA[Tag building height as much as possible please :-)&lt;br /&gt;&lt;br /&gt;@osmbuildings]]></description>
+			<content:encoded><![CDATA[<p>Tag building height as much as possible please 🙂</p>
+<p>@osmbuildings</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2012/10/birmingham-completely-covered-with.html#comment-37</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sat, 27 Oct 2012 13:12:12 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/birmingham-completely-covered-with-buildings/#comment-37</guid>
+
+					<description><![CDATA[Good job all :-) Can you explain a bit more about &quot;Cities Revealed&quot; please. I&#039;ve been waiting for Bing to update their aerial imagery of Coventry city centre for ages.]]></description>
+			<content:encoded><![CDATA[<p>Good job all 🙂 Can you explain a bit more about &#8220;Cities Revealed&#8221; please. I&#8217;ve been waiting for Bing to update their aerial imagery of Coventry city centre for ages.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Steven		</title>
+		<link>https://www.mappa-mercia.org/2012/10/birmingham-completely-covered-with.html#comment-36</link>
+
+		<dc:creator><![CDATA[Steven]]></dc:creator>
+		<pubDate>Sat, 27 Oct 2012 12:49:56 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/birmingham-completely-covered-with-buildings/#comment-36</guid>
+
+					<description><![CDATA[Now if we could get the whole of GB like that you&#039;d make @osmgb very happy]]></description>
+			<content:encoded><![CDATA[<p>Now if we could get the whole of GB like that you&#8217;d make @osmgb very happy</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

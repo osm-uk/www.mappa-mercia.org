@@ -1,0 +1,73 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The streets they are changing	</title>
+	<atom:link href="https://www.mappa-mercia.org/2018/01/the-streets-they-are-changing.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2018/01/the-streets-they-are-changing.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Tue, 06 Feb 2018 17:48:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Owen Boswarva		</title>
+		<link>https://www.mappa-mercia.org/2018/01/the-streets-they-are-changing.html#comment-123740</link>
+
+		<dc:creator><![CDATA[Owen Boswarva]]></dc:creator>
+		<pubDate>Tue, 06 Feb 2018 17:48:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1533#comment-123740</guid>
+
+					<description><![CDATA[I&#039;ve had a comment from InLink via Twitter:
+
+&quot;InLinkUK works in partnership with BT and our company has no such policy position. We are happy to share InLink locations and would welcome receiving suggestions on the best ways to do so in an open data format via hello@inlinkuk.com&quot;
+
+https://twitter.com/InLinkUK/status/960867088905785344]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve had a comment from InLink via Twitter:</p>
+<p>&#8220;InLinkUK works in partnership with BT and our company has no such policy position. We are happy to share InLink locations and would welcome receiving suggestions on the best ways to do so in an open data format via <a href="mailto:hello@inlinkuk.com">hello@inlinkuk.com</a>&#8221;</p>
+<p><a href="https://twitter.com/InLinkUK/status/960867088905785344" rel="nofollow ugc">https://twitter.com/InLinkUK/status/960867088905785344</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jez Crow		</title>
+		<link>https://www.mappa-mercia.org/2018/01/the-streets-they-are-changing.html#comment-123616</link>
+
+		<dc:creator><![CDATA[Jez Crow]]></dc:creator>
+		<pubDate>Mon, 29 Jan 2018 21:12:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1533#comment-123616</guid>
+
+					<description><![CDATA[The Ofcom document you link to above states there were 67,000 phone boxes in 2006 so a significant number of boxes on OSM may have been removed already.
+Separately, the Local Government Association are not happy about the new &#039;InLinks&#039; - https://www.local.gov.uk/about/news/lga-call-crackdown-trojan-telephone-boxes-amid-900-cent-rise-some-areas]]></description>
+			<content:encoded><![CDATA[<p>The Ofcom document you link to above states there were 67,000 phone boxes in 2006 so a significant number of boxes on OSM may have been removed already.<br />
+Separately, the Local Government Association are not happy about the new &#8216;InLinks&#8217; &#8211; <a href="https://www.local.gov.uk/about/news/lga-call-crackdown-trojan-telephone-boxes-amid-900-cent-rise-some-areas" rel="nofollow ugc">https://www.local.gov.uk/about/news/lga-call-crackdown-trojan-telephone-boxes-amid-900-cent-rise-some-areas</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: weeklyOSM 392 &#124; weekly &#8211; semanario &#8211; hebdo &#8211; 週刊 &#8211; týdeník &#8211; edisi		</title>
+		<link>https://www.mappa-mercia.org/2018/01/the-streets-they-are-changing.html#comment-123594</link>
+
+		<dc:creator><![CDATA[weeklyOSM 392 &#124; weekly &#8211; semanario &#8211; hebdo &#8211; 週刊 &#8211; týdeník &#8211; edisi]]></dc:creator>
+		<pubDate>Sat, 27 Jan 2018 16:11:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1533#comment-123594</guid>
+
+					<description><![CDATA[[&#8230;] Prangle of Mappa Mercia writes an article about the future of phoneboxes in the UK. The plans include the removal of half of the phoneboxes [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Prangle of Mappa Mercia writes an article about the future of phoneboxes in the UK. The plans include the removal of half of the phoneboxes [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

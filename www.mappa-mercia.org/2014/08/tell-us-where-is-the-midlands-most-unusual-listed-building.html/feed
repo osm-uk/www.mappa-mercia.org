@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tell us: Where is the Midlands most unusual listed building?	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/08/tell-us-where-is-the-midlands-most-unusual-listed-building.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/08/tell-us-where-is-the-midlands-most-unusual-listed-building.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sat, 04 Oct 2014 22:15:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Andy Mabbett		</title>
+		<link>https://www.mappa-mercia.org/2014/08/tell-us-where-is-the-midlands-most-unusual-listed-building.html#comment-292</link>
+
+		<dc:creator><![CDATA[Andy Mabbett]]></dc:creator>
+		<pubDate>Sat, 04 Oct 2014 22:15:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=979#comment-292</guid>
+
+					<description><![CDATA[It&#039;s a Victorian cast-iron urinal. And &lt;a href=&quot;http://pigsonthewing.org.uk/mysterious-case-birmingham-missing-victorian-cast-iron-urinal/&quot; rel=&quot;nofollow&quot;&gt;it&#039;s gone missing&lt;/a&gt;!]]></description>
+			<content:encoded><![CDATA[<p>It&#8217;s a Victorian cast-iron urinal. And <a href="http://pigsonthewing.org.uk/mysterious-case-birmingham-missing-victorian-cast-iron-urinal/" rel="nofollow">it&#8217;s gone missing</a>!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

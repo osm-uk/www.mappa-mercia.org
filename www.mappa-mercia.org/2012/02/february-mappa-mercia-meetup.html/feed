@@ -1,0 +1,54 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: February Mappa-Mercia meetup	</title>
+	<atom:link href="https://www.mappa-mercia.org/2012/02/february-mappa-mercia-meetup.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2012/02/february-mappa-mercia-meetup.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 17:33:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Adrian		</title>
+		<link>https://www.mappa-mercia.org/2012/02/february-mappa-mercia-meetup.html#comment-22</link>
+
+		<dc:creator><![CDATA[Adrian]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2012 16:28:41 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/february-mappa-mercia-meetup/#comment-22</guid>
+
+					<description><![CDATA[What&#039;s a CT? Here in Kingstanding/Great Barr the map has been spoiled by someone adding the back alleys as roads, and making other changes that make the mapping inconsistent. Is it possible to sandbox such changes? Or have them as optional layers? Or just remove them altogether?]]></description>
+			<content:encoded><![CDATA[<p>What&#8217;s a CT? Here in Kingstanding/Great Barr the map has been spoiled by someone adding the back alleys as roads, and making other changes that make the mapping inconsistent. Is it possible to sandbox such changes? Or have them as optional layers? Or just remove them altogether?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Andy Mabbett		</title>
+		<link>https://www.mappa-mercia.org/2012/02/february-mappa-mercia-meetup.html#comment-21</link>
+
+		<dc:creator><![CDATA[Andy Mabbett]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2012 15:09:49 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/february-mappa-mercia-meetup/#comment-21</guid>
+
+					<description><![CDATA[Sorry I couldn&#039;t be there; sounds like you had a very productive evening.&lt;br /&gt;&lt;br /&gt;The JQ trail is clearly marked on the ground, as this Flickr set shows:  http://www.flickr.com/photos/ell-r-brown/sets/72157629070010385/&lt;br /&gt;&lt;br /&gt;I&#039;m not in the city centre as much as I used to be, but I&#039;ll survey some of them next time I am.&lt;br /&gt;&lt;br /&gt;Unless someone beats me to it ;-)]]></description>
+			<content:encoded><![CDATA[<p>Sorry I couldn&#8217;t be there; sounds like you had a very productive evening.</p>
+<p>The JQ trail is clearly marked on the ground, as this Flickr set shows:  <a href="http://www.flickr.com/photos/ell-r-brown/sets/72157629070010385/" rel="nofollow ugc">http://www.flickr.com/photos/ell-r-brown/sets/72157629070010385/</a></p>
+<p>I&#8217;m not in the city centre as much as I used to be, but I&#8217;ll survey some of them next time I am.</p>
+<p>Unless someone beats me to it 😉</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

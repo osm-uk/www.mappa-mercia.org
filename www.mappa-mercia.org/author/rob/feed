@@ -1,0 +1,283 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RobJN &#8211; Mappa Mercia</title>
+	<atom:link href="https://www.mappa-mercia.org/author/rob/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sat, 02 Jun 2018 21:07:12 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Joy Diversion: Mapping in Manchester</title>
+		<link>https://www.mappa-mercia.org/2018/06/joy-diversion-mapping-in-manchester.html</link>
+					<comments>https://www.mappa-mercia.org/2018/06/joy-diversion-mapping-in-manchester.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sat, 02 Jun 2018 21:07:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1549</guid>
+
+					<description><![CDATA[Saturday 19th May saw the UK OpenStreetMap community and Open Data Manchester join forces for an afternoon of exploring central Manchester. Several mappers from the Midlands made the trip and boy, did we have fun! Our hosts had prepared some &#8230; <a href="https://www.mappa-mercia.org/2018/06/joy-diversion-mapping-in-manchester.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Saturday 19th May saw the UK OpenStreetMap community and Open Data Manchester join forces for an afternoon of exploring central Manchester. Several mappers from the Midlands made the trip and boy, did we have fun!</p>
+<p>Our hosts had prepared some great &#8220;Explorer Backpacks&#8221; and we soon broke off in to teams for our expeditions into the unknown. From the waterways to historic relics, the missions were wide ranging &#8211; we even had a Geiger counter on hand to find the spot with the highest background radiation!</p>
+<p><img decoding="async" loading="lazy" class="aligncenter wp-image-1550 size-full" src="https://www.mappa-mercia.org/wp-content/uploads/2018/06/JoyDiversionManchester.jpg" alt="" width="515" height="679" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/06/JoyDiversionManchester.jpg 515w, https://www.mappa-mercia.org/wp-content/uploads/2018/06/JoyDiversionManchester-228x300.jpg 228w" sizes="(max-width: 515px) 100vw, 515px" /></p>
+<p>After soaking up the sun we headed back to Federation House to share our findings before heading for a well earned drink.</p>
+<blockquote><p>Dan S: It was ace, in particular the slightly whimsical mapping trip we did, following psychogeographic suggestions prepared by the Joy Diversion organisers. That was a good way to get new mappers and experienced mappers working together on an equal footing.</p></blockquote>
+<blockquote><p>Samantha: I really enjoyed the event on Saturday. I&#8217;d love to get out and about around Manchester and learn more about the city in general. If anyone else is local and wants to go exploring, to add to the map or otherwise please let me know.</p></blockquote>
+<blockquote><p>Tony Shield: Really enjoyed the ability to meet like minded people and get a deeper understanding of the OSM project. Going out and surveying then placing the information on the map was great. Seeing some of the uses the data could be used for was really interesting.</p></blockquote>
+<blockquote><p>Martyn: Joy Diversion was a great afternoon, I&#8217;ve just updated OSM with the Team Crocodile survey (cycle and car parking, playgrounds, water taxi, footpaths and more). Keep on improving the map.</p></blockquote>
+<p>A big success then! Partnering with Open Data Manchester worked really well. Nice folk and a good opportunity to spread the word about OSM without having to arrange a venue and drum up attendees from scratch.</p>
+<p><small><em>Post content: OpenStreetMap United Kingdom CIC (with minor amends). Local mappers Brian and Rob are Directors of the community interest company, which focuses on supporting OSM in the UK.</em></small></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2018/06/joy-diversion-mapping-in-manchester.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Conflation &#038; Validation: OSM Conflator</title>
+		<link>https://www.mappa-mercia.org/2018/01/osm-conflator.html</link>
+					<comments>https://www.mappa-mercia.org/2018/01/osm-conflator.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2018 22:41:06 +0000</pubDate>
+				<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1539</guid>
+
+					<description><![CDATA[When Ilya approached the UK OpenStreetMap community about incorporating third party data (Shell petrol stations) into OSM he had already ran the data through his “OSM Conflator” tool. As part of the project he also created a “Community Validation” tool. &#8230; <a href="https://www.mappa-mercia.org/2018/01/osm-conflator.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>When Ilya approached the UK OpenStreetMap community about incorporating third party data (Shell petrol stations) into OSM he had already ran the data through his “OSM Conflator” tool. As part of the project he also created a “Community Validation” tool. I decided to take a look at both of these using Asda petrol station data as a test case.</strong></p>
+<p><strong>In a series of posts I will share my experience with conflation and validation. This first post covers just OSM Conflator, with a follow on posts in the coming days covering the Community Validation tool and some reflections on the process.<br />
+</strong></p>
+<h3>Intro to OSM Conflator</h3>
+<p>OSM Conflator is a command-line tool written in Python 3 that compares a third party dataset against OpenStreetMap. It does not directly edit OpenStreetMap but instead gives you two outputs based on what it finds. The first, preview.json, can be loaded into an online tool such as <a href="http://geojson.io/#map=2/20.0/0.0">geojson.io</a> to visualise the differences. The second, a OSM change file, can be opened in JOSM for uploading in to OpenStreetMap. In both cases it assumes the third party data is correct and more up to date than any OSM data it is replacing. As such it is worth using the <a href="https://wiki.openstreetmap.org/wiki/OSM_Conflator#Community_Validation">Community Validation</a> tool to check the results <em>before</em> uploading.</p>
+<p>For now the third party data must be point (node) data but it can match to both nodes and ways in OpenStreetMap; downloading the most recent data each time you run the script. The matching is initially done by distance and you can set the maximum tolerance (e.g. 100 meters). If the third party data has a unique reference key (e.g. a store ID number) then this can be added to OpenStreetMap the first time you merge the data. The next time you run the comparison, for example if a retail chain has changed their opening hours, then OSM Conflator relies on this reference key rather than having to undertake a proximity search.</p>
+<h3>Inputs</h3>
+<p>OSM Conflator requires two inputs: a profile and the third party data. The profile sets the search criteria and which third party tags should always replace values on matched OSM objects. In the case of the Asda petrol stations the search criteria was for ‘amenity=fuel’ objects within 100 meters. The tags to upload were &#8216;brand&#8217;, &#8216;opening_hours&#8217;, &#8216;website&#8217;, &#8216;phone&#8217;, &#8216;addr:street&#8217;, and &#8216;addr:postcode&#8217;. The data included a unique reference ID so I set the profile to write this to OSM.</p>
+<p>&nbsp;</p>
+<div id="attachment_1542" style="width: 692px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1542" decoding="async" loading="lazy" class="wp-image-1542 size-full" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-profile.png" alt="" width="682" height="157" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-profile.png 682w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-profile-300x69.png 300w" sizes="(max-width: 682px) 100vw, 682px" /><p id="caption-attachment-1542" class="wp-caption-text">My OSM Conflator profile file.</p></div>
+<p>&nbsp;</p>
+<p>The profile is actually created as a Python file but is simple enough that you don’t need any Python experience. If you are however a pro at Python you can add to the profile. Example additions include tag transformations (e.g. reformatting telephone numbers in to ‘+44 &lt;Area Code&gt; &lt;Number&gt;’ format) or even code to download the source data direct from the third party’s website. If like me you are not a Python pro then you will need to provide OSM Conflator with a separate file including the third party data. This must be in a JSON file format.</p>
+<p>&nbsp;</p>
+<div id="attachment_1545" style="width: 605px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1545" decoding="async" loading="lazy" class="wp-image-1545 size-full" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-data.png" alt="" width="595" height="103" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-data.png 595w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/OSM-Conflate-data-300x52.png 300w" sizes="(max-width: 595px) 100vw, 595px" /><p id="caption-attachment-1545" class="wp-caption-text">Extract of the Asda source data (rows and additional tag columns omitted).</p></div>
+<p>&nbsp;</p>
+<p>Getting the third party data into a JSON file is easy when you know how. Prepare a table like the one above with columns for latitude (lat), longitude (lon) and, if you have it, the unique reference key (id). For the tags you wish to add to OpenStreetMap name the columns according to the standard tag usage within OSM adding ‘tags/’ in front of the column name. To convert your table into a JSON file simply copy and paste the data in to <a href="http://www.convertcsv.com/csv-to-json.htm">www.convertcsv.com/csv-to-json.htm</a> making sure to select “First row is column names” and “Recreate nested objects and arrays” in the options. Copy the output into a blank notepad and save as ‘data.json’.</p>
+<h3>Running the tool</h3>
+<p>With the profile and third party data now prepared the final step is to run OSM Conflate. As noted this is a Python 3 command-line tool. I assume you have already installed this and have also installed ‘pip’ which is a package management system used to install and manage software packages written in Python. With both of these installed go ahead and open a command/terminal window and run “pip install osm_conflate” to install OSM Conflate. Finally to run OSM Conflate using your profile and data file run “conflate -i data.json -v -o result.osm -c preview.json profile.py”. When it has finished running try opening preview.json in <a href="http://geojson.io/#map=2/20.0/0.0">geojson.io</a> to get a visualisation of the results.</p>
+<p>In the next post we will look at how to load the outputs in to the Community Validation tool.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2018/01/osm-conflator.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Petrol stations with a fixme tag</title>
+		<link>https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html</link>
+					<comments>https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 17 Jan 2018 21:49:36 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1525</guid>
+
+					<description><![CDATA[As we described when we kicked off this quarters UK project to map petrol stations, recent community validation of third party (import) data has highlighted much outdated and erroneous data within OpenStreetMap :-(. For the Shell import we captured some &#8230; <a href="https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>As we <a href="https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html">described</a> when we kicked off this quarters UK project to map petrol stations, recent community validation of third party (import) data has highlighted much outdated and erroneous data within OpenStreetMap :-(. For the Shell import we captured some of this and added it to a &#8220;fixme&#8221; tag. If you have not yet come across this tag then it is one in which OpenStreetMap users can flag something that looks wrong or requires additional information to improve the map.</p>
+<p>It is possible to view petrol stations with a fixme tag by using Overpass Turbo scripts. We have done this already so all you have to do is click <a href="https://overpass-turbo.eu/s/uZD">this link</a> and press run. Results are visual as shown in the example below. There are approximately 130 petrol stations with a fixme tag so with some effort we should be able to review them all. Happy mapping!</p>
+<div id="attachment_1526" style="width: 827px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1526" decoding="async" loading="lazy" class="wp-image-1526 size-full" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme.png" alt="" width="817" height="421" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme.png 817w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme-300x155.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_fixme-768x396.png 768w" sizes="(max-width: 817px) 100vw, 817px" /><p id="caption-attachment-1526" class="wp-caption-text">Example result from Overpass Turbo.</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2018/01/petrol-stations-with-a-fixme-tag.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tracking our progress mapping petrol stations</title>
+		<link>https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html</link>
+					<comments>https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 10 Jan 2018 13:53:41 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1522</guid>
+
+					<description><![CDATA[When we did the highly successful quarterly project to map schools we tracked the progress using a script that collated data on a daily basis from TagInfo UK. This enables us to see how we are getting on, both in &#8230; <a href="https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>When we did the highly successful <a href="https://wiki.openstreetmap.org/wiki/UK_Quarterly_Projects">quarterly project</a> to map schools we tracked the progress using a script that collated data on a daily basis from TagInfo UK. This enables us to see how we are getting on, both in terms of total features mapped, but also the split between nodes, ways and relations. We can then produce charts like the one for schools shown below.</p>
+<div id="attachment_1523" style="width: 310px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1523" decoding="async" loading="lazy" class="wp-image-1523 size-medium" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OpenStreetMap_schools_UK-300x191.png" alt="" width="300" height="191" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/OpenStreetMap_schools_UK-300x191.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/OpenStreetMap_schools_UK-80x50.png 80w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/OpenStreetMap_schools_UK.png 517w" sizes="(max-width: 300px) 100vw, 300px" /><p id="caption-attachment-1523" class="wp-caption-text">UK Schools mapped in OpenStreetMap</p></div>
+<p>&nbsp;</p>
+<p>This script was also used on the following quarterly projects up to the end of Q1 2017. Unfortunately I failed to set it up for the following quarterly projects, and worse still, failed to notice that the script stopped running in May 2017. It looks like the reason behind this was a change in the server that we are hosted on causing a 32bit vs 64bit error &#8211; but I&#8217;m no expert!</p>
+<p>The important thing is that I have it up and running again and <strong>have added tracking for petrol stations</strong>. You can view the data by following <a href="https://docs.google.com/spreadsheets/d/1G9KXfp4Ho3fVROO9MxotcYTydl9CEXB_fi5ko2pM5Kc/edit?usp=sharing">this link</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2018/01/tracking-our-progress-mapping-petrol-stations.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Q1 2018 mapping project: Petrol stations</title>
+		<link>https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html</link>
+					<comments>https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Tue, 09 Jan 2018 22:01:19 +0000</pubDate>
+				<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1517</guid>
+
+					<description><![CDATA[Following a lengthy discussion on the talk-gb mailing list and several false starts, Ilya recently imported UK Shell petrol station data into OpenStreetMap.To confirm the quality of the third party data a brand new community validation tool was developed. Use &#8230; <a href="https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" loading="lazy" class="size-full wp-image-1518 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_station.jpg" alt="" width="640" height="337" srcset="https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_station.jpg 640w, https://www.mappa-mercia.org/wp-content/uploads/2018/01/petrol_station-300x158.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p>Following a lengthy discussion on the talk-gb mailing list and several false starts, Ilya <a href="https://lists.openstreetmap.org/pipermail/talk-gb/2017-December/021011.html">recently imported</a> UK Shell petrol station data into OpenStreetMap.To confirm the quality of the third party data a brand new <a href="https://lists.openstreetmap.org/pipermail/talk-gb/2017-December/020972.html">community validation tool</a> was developed. Use of this tool highlighted a lot of inconsistency in the way we map &#8211; as such let&#8217;s make petrol stations the quarterly mapping project for Q1 2018.</p>
+<p>According to <a href="https://www.statista.com/statistics/312331/number-of-petrol-stations-in-the-united-kingdom-uk/">Statistica</a> there are some 8450 petrol stations in the UK. Compare this to OpenStreetMap, where <a href="http://taginfo.openstreetmap.org.uk/tags/amenity=fuel">TagInfo shows</a> that we have mapped 7200. Not bad &#8211; just 1250 more to go! Let&#8217;s see if we can get to the magic 8450 by the end of the quarterly project (or show that the real number is indeed different). This also gives us a great opportunity to review the existing data, updating old tags to reflect on-the-ground change and converting petrol stations mapped as points (nodes) to ones mapped as areas (closed ways).</p>
+<p><em>Image: CC-By-Sa 2.0 <a title="View profile" href="http://www.geograph.org.uk/profile/11162" rel="cc:attributionURL dct:creator">Betty Longbottom</a></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2018/01/q1-2018-mapping-project-petrol-stations.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Visit to the National Library of Scotland</title>
+		<link>https://www.mappa-mercia.org/2016/05/visit-to-the-national-library-of-scotland.html</link>
+					<comments>https://www.mappa-mercia.org/2016/05/visit-to-the-national-library-of-scotland.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Fri, 27 May 2016 21:49:58 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1407</guid>
+
+					<description><![CDATA[Last October I had the pleasure of visiting the National Library of Scotland. I was up in Edinburgh at State of the Map Scotland and couldn&#8217;t pass up on the opportunity to have a guided tour of the library&#8217;s maps &#8230; <a href="https://www.mappa-mercia.org/2016/05/visit-to-the-national-library-of-scotland.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Last October I had the pleasure of visiting the National Library of Scotland. I was up in Edinburgh at <a href="http://wiki.openstreetmap.org/wiki/State_of_the_Map_Scotland_2015" target="_blank">State of the Map Scotland</a> and couldn&#8217;t pass up on the opportunity to have a guided tour of the library&#8217;s maps reading room. Our host, Chris Fleet, had laid out a number of fantastic items from their collection &#8211; each with it&#8217;s own story.</p>
+<p>Being a bit of a map geek I took way too many photos during the hour or so we had before closure. Here are some of the best to whet your appetite. The NLS are long term <a href="http://wiki.openstreetmap.org/wiki/National_Library_of_Scotland" target="_blank">supporters of OpenStreetMap</a>, have scanned and georeferenced many thousands of maps, and host zoomable maps on their <a href="http://maps.nls.uk/index.html" target="_blank">amazing website</a>. If you find yourself in Edinburgh, be sure to check out their collection.</p>
+<div id="attachment_1408" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1408" decoding="async" loading="lazy" class="size-full wp-image-1408" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized000.jpg" alt="Russian military maps (read all about these secret cold war maps)." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized000.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized000-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized000-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1408" class="wp-caption-text">Russian military maps (link: <a href="http://www.wired.com/2015/07/secret-cold-war-maps/" target="_blank">secret cold war maps</a>).</p></div>
+<div id="attachment_1409" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1409" decoding="async" loading="lazy" class="size-full wp-image-1409" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized003.jpg" alt="Textured maps for the blind and partially sighted." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized003.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized003-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized003-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1409" class="wp-caption-text">Textured maps for the blind and partially sighted.</p></div>
+<div id="attachment_1410" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1410" decoding="async" loading="lazy" class="size-full wp-image-1410" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized005.jpg" alt="The Blaeu Atlas of Scotland, 1654 (view online)" width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized005.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized005-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized005-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1410" class="wp-caption-text">The Blaeu Atlas of Scotland, 1654 (<a href="http://maps.nls.uk/view/00000395" target="_blank">view online</a>)</p></div>
+<div id="attachment_1411" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1411" decoding="async" loading="lazy" class="size-full wp-image-1411" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized006.jpg" alt="Precision tools of the map maker." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized006.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized006-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized006-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1411" class="wp-caption-text">Precision tools of the map maker.</p></div>
+<div id="attachment_1412" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1412" decoding="async" loading="lazy" class="size-full wp-image-1412" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized017.jpg" alt="Map corrections: tracing paper and sticky tape!" width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized017.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized017-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized017-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1412" class="wp-caption-text">Map corrections: tracing paper and sticky tape!</p></div>
+<div id="attachment_1413" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1413" decoding="async" loading="lazy" class="size-full wp-image-1413" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized021.jpg" alt="A map of WW1 trench positions in Belgium." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized021.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized021-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized021-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1413" class="wp-caption-text">A map of WW1 trench positions in Belgium.</p></div>
+<div id="attachment_1414" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1414" decoding="async" loading="lazy" class="size-full wp-image-1414" src="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized022.jpg" alt="Now you see it, now you don't. Early day 'airbrusing' to remove an airfield from aerial photos." width="800" height="600" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized022.jpg 800w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized022-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/05/resized022-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-1414" class="wp-caption-text">Now you see it, now you don&#8217;t. Early day &#8216;airbrusing&#8217; to remove an airfield from aerial photos.</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/05/visit-to-the-national-library-of-scotland.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>End of our JOSM paint styles</title>
+		<link>https://www.mappa-mercia.org/2016/04/end-of-our-josm-paint-styles.html</link>
+					<comments>https://www.mappa-mercia.org/2016/04/end-of-our-josm-paint-styles.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sat, 30 Apr 2016 20:23:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1398</guid>
+
+					<description><![CDATA[Several years ago we created JOSM paint styles to help with the task of mapping gritting routes. The styles made it easier to identify which roads had the gritting tag. The recent versions of JOSM have changed the requirements of &#8230; <a href="https://www.mappa-mercia.org/2016/04/end-of-our-josm-paint-styles.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Several years ago we created JOSM paint styles to help with the task of mapping gritting routes. The styles made it easier to identify which roads had the gritting tag.</p>
+<p>The recent versions of JOSM have changed the requirements of these style plugins therefore breaking our code. If you still use the style you will see the following message that gives the reasoning and how to fix the problem. The style plugin would need to be updated to the latest MapCCS code.</p>
+<p><img decoding="async" loading="lazy" class="size-full wp-image-1399 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/04/Warning.png" alt="Warning" width="627" height="138" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/04/Warning.png 627w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/Warning-300x66.png 300w" sizes="(max-width: 627px) 100vw, 627px" /></p>
+<p>This applies to both our josm-style.xml and josm-preset.xml code. Currently we have no plans to update these style plugins to the latest MapCCS code, however <strong>we welcome support from others to complete this update</strong>. If someone can come forward we will upload the new code so the functionality continues to work. For now, to prevent the warning message popping up each time you start JOSM, simply go to &#8220;View -&gt; Map paint styles -&gt; Map paint preferences&#8221; and delete &#8220;Winter Gritting&#8221; and &#8220;Winter Gritting2&#8221;.</p>
+<p>We apologise for any inconvenience this causes.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/04/end-of-our-josm-paint-styles.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Becoming mobile: MAPS.ME and Geopedia</title>
+		<link>https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html</link>
+					<comments>https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Mon, 18 Apr 2016 21:44:11 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1391</guid>
+
+					<description><![CDATA[Back in June of last year we shared with you Richard Fairhurst&#8217;s State of the Map US talk in which he set out the case for more mobile OpenStreetMap apps. One of the key message was that &#8220;we need to &#8230; <a href="https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>Back in June of last year we shared with you <a href="https://www.mappa-mercia.org/2015/06/we-need-to-think-about-smartphone-editors.html">Richard Fairhurst&#8217;s State of the Map US talk</a> in which he set out the case for more mobile OpenStreetMap apps. One of the key message was that &#8220;we need to think about smartphone editors&#8221; as a way to continue growing OpenStreetMap. This month we got a new mobile editor and a new app to help you explore your surroundings.</strong></p>
+<p>Firstly the new editor. This comes in the form of an update to the popular <a href="http://maps.me/en/home">MAPS.ME</a>. Even before this update MAPS.ME was a essential app for any OpenStreetMapper. It provides a simple to use offline map with voice over guidance for travel directions by car or on foot. It&#8217;s interface is simple and effective: for example, clicking on a map feature brings up a slider at the bottom of the screen providing more information.</p>
+<p>On April 5th 2016, MAPS.ME developer Ilya Zverev <a href="http://www.openstreetmap.org/user/Zverik/diary/38344">explained</a> how you can now edit the map information direct from the app. This is perfect for adding addresses, phone numbers and opening hours to existing map features whilst out and about.</p>
+<div id="attachment_1392" style="width: 699px" class="wp-caption aligncenter"><a href="http://maps.me/en/home" rel="attachment wp-att-1392"><img aria-describedby="caption-attachment-1392" decoding="async" loading="lazy" class="wp-image-1392" src="https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-1024x526.png" alt="Editing OpenStreetMap with Maps.Me" width="689" height="354" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-1024x526.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-300x154.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor-768x394.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/mapsme-editor.png 1100w" sizes="(max-width: 689px) 100vw, 689px" /></a><p id="caption-attachment-1392" class="wp-caption-text">Editing OpenStreetMap with MAPS.ME</p></div>
+<p>With more than 7 million monthly active users MAPS.ME is aiming to be the number one OpenStreetMap editor. Although OpenStreetMap&#8217;s <a href="http://wiki.openstreetmap.org/wiki/Editor_usage_stats#by_number_of_users_.28distinct_uids.29">editor usage stats</a> are a little out of date, it&#8217;s <a href="http://py.osmz.ru/mmwatch/">already clear</a> that MAPS.ME is the most used mobile editor measured by number of users.</p>
+<p>The second addition to mobile comes in the form of <a href="http://www.geopedia.info/">Geopedia</a>. This is a neat little app that takes the OpenStreetMap base map and overlays the wikipedia database. Clicking on the map shows you all the nearby features that have a wikipedia article (we understand this is based on wikipedia&#8217;s latitude/longitude data rather than the wikipedia tag stored within OpenStreetMap).</p>
+<div id="attachment_1393" style="width: 699px" class="wp-caption aligncenter"><a href="http://www.geopedia.info/" rel="attachment wp-att-1393"><img aria-describedby="caption-attachment-1393" decoding="async" loading="lazy" class="size-full wp-image-1393" src="https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia.png" alt="Searching for nearby attractions with geopedia." width="689" height="426" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia.png 689w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia-300x185.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/04/Geopedia-80x50.png 80w" sizes="(max-width: 689px) 100vw, 689px" /></a><p id="caption-attachment-1393" class="wp-caption-text">Searching for nearby attractions with geopedia.</p></div>
+<p>As this links to wikipedia you can view the articles in multiple languages and view an image if one is available. It works well to find new and exciting places to explore in your neighbourhood, or whilst away travelling. And of course you can use it as a prompt to add text and photos to wikipedia, and map details to OpenStreetMap &#8211; perhaps via MAPS.ME!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/04/becoming-mobile-maps-me-and-geopedia.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>&#8220;Night School&#8221; status report</title>
+		<link>https://www.mappa-mercia.org/2016/03/night-school-status-report.html</link>
+					<comments>https://www.mappa-mercia.org/2016/03/night-school-status-report.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 02 Mar 2016 17:59:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1385</guid>
+
+					<description><![CDATA[Yesterday the mapping community in the UK held an online &#8220;Night School&#8221; mapathon to hep map schools. So how did we get on? We did it! Yesterday we set the record for the highest number of edits to amenity=school features &#8230; <a href="https://www.mappa-mercia.org/2016/03/night-school-status-report.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>Yesterday the mapping community in the UK held an online &#8220;Night School&#8221; mapathon to hep map schools. So how did we get on?</strong></p>
+<p>We did it! Yesterday we set the record for the highest number of edits to amenity=school features in the UK. Between us we edited 405 schools beating our previous high from 18th January.</p>
+<p>Looking at the detail we created 202 new school polygons (a 33% increase on our previous daily best) and modified 191 ways. The other edits (12) were to nodes.</p>
+<p>We are now at 75.5% of all UK schools mapped as ways (according to Robert W&#8217;s <a href="http://robert.mathmos.net/osm/schools/progress/">fantastic progress tool</a>). This is up from just 62.8% when we started this task at the start of January. All but 10 postcode areas are above 50% complete. When we started there was 30 below 50% (8 below 40%). At the top end we have 24 postcode areas 95+ percent complete. Compared to zero when we started!</p>
+<p>A total of 38 people edited during the day &#8211; again, another record! And the edits of those who used the #OSMschools comment in their changesets can been seen <a href="http://resultmaps.neis-one.org/osm-changesets?comment=OSMschool#5/55.838/-1.604">here</a>.</p>
+<p>Thanks for the amazing effort today. I hope the <a href="http://maproulette.org/#t=ukschools/6d5899d6-facc-4460-b152-6e0ac68188bb">MapRoulette task</a> is proving popular and will encourage more edits in the least loved parts of the UK OSM map.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/03/night-school-status-report.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Welcome to Night School (1st March)</title>
+		<link>https://www.mappa-mercia.org/2016/02/welcome-to-night-school-1st-march.html</link>
+					<comments>https://www.mappa-mercia.org/2016/02/welcome-to-night-school-1st-march.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 24 Feb 2016 20:58:56 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1379</guid>
+
+					<description><![CDATA[This quarter the UK OpenStreetMap community is mapping schools. So far over 250 people have made 10,000 edits &#8211; a hugely impressive feat! There&#8217;s still time to get involved and on Tuesday 1st March we are holding &#8220;Night School&#8221;, an &#8230; <a href="https://www.mappa-mercia.org/2016/02/welcome-to-night-school-1st-march.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>This quarter the UK <a href="https://openstreetmap.org">OpenStreetMap</a> community is <a href="http://wiki.openstreetmap.org/wiki/UK_Quarterly_Projects">mapping schools</a>. So far over 250 people have made 10,000 edits &#8211; a hugely impressive feat! There&#8217;s still time to get involved and on Tuesday 1st March we are holding &#8220;Night School&#8221;, an online mapathon.</strong></p>
+<p>Night School is experiment for the UK Quarterly Project; on the evening of Tuesday 1st March let&#8217;s join together as one big community to map schools. There are no rules, simply start when you like and finish when you like and map where you like! Follow along with the progress on the <a href="http://harrywood.dev.openstreetmap.org/diffreader/schools/?filter=uk">school edit tracker</a> and our live <a href="http://resultmaps.neis-one.org/osm-changesets?comment=OSMschool#6/53.495/-3.549">map of edits</a> (to show up on the map simply add &#8220;#OSMschools&#8221; to the comment box when you save your map edit).</p>
+<div id="attachment_1380" style="width: 650px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1380" decoding="async" loading="lazy" class="size-full wp-image-1380" src="https://www.mappa-mercia.org/wp-content/uploads/2016/02/640px-Birmingham_Business_School_at_night.jpg" alt="Birmingham Business School, at night. CC-BY-SA" width="640" height="426" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/02/640px-Birmingham_Business_School_at_night.jpg 640w, https://www.mappa-mercia.org/wp-content/uploads/2016/02/640px-Birmingham_Business_School_at_night-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /><p id="caption-attachment-1380" class="wp-caption-text">Birmingham Business School, at night. <a href="https://commons.wikimedia.org/wiki/File:Birmingham_Business_School,_at_night.jpg">CC-BY-SA</a></p></div>
+<p>If you don&#8217;t know how to map schools in OpenStreetMap check out our handy <a href="https://www.mappa-mercia.org/2016/02/how-to-map-a-school-in-openstreetmap.html">picture tutorial</a>. You can always <a href="https://www.mappa-mercia.org/contact">contact us</a> for more support should you need it.</p>
+<p>Ideas for making the evening more fun are welcome! Don&#8217;t forget the discussions on Schools Quarterly Project that are taking place <a href="https://www.loomio.org/invitations/1f686576bce85c49f956">here on Loomio</a> as a trial for a possible platform for UK member decision-making.</p>
+<p>Even at this stage of the project new people are joining, so spread the word on other channels to see who we might attract.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/02/welcome-to-night-school-1st-march.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

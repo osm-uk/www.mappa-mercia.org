@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Maperitive: Creating your own rendering rules	</title>
+	<atom:link href="https://www.mappa-mercia.org/2013/01/creating-your-own-rendering-rules.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2013/01/creating-your-own-rendering-rules.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 18:43:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Mappa Mercia		</title>
+		<link>https://www.mappa-mercia.org/2013/01/creating-your-own-rendering-rules.html#comment-51</link>
+
+		<dc:creator><![CDATA[Mappa Mercia]]></dc:creator>
+		<pubDate>Wed, 09 Jan 2013 21:27:03 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/creating-your-own-rendering-rules/#comment-51</guid>
+
+					<description><![CDATA[I&#039;ve struggled with getting the rendering rules into this blog properly. There does not need to be blank lines between each row, but rows should be properly indented (with the tab key). I found that if you copy from this post, it will copy it with rows being indented with a &quot;space&quot; character only. Sorry.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve struggled with getting the rendering rules into this blog properly. There does not need to be blank lines between each row, but rows should be properly indented (with the tab key). I found that if you copy from this post, it will copy it with rows being indented with a &#8220;space&#8221; character only. Sorry.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

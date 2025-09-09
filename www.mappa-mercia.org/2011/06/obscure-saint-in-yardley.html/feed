@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: An obscure saint in Yardley	</title>
+	<atom:link href="https://www.mappa-mercia.org/2011/06/obscure-saint-in-yardley.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2011/06/obscure-saint-in-yardley.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Mon, 22 Apr 2019 11:03:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Joni		</title>
+		<link>https://www.mappa-mercia.org/2011/06/obscure-saint-in-yardley.html#comment-137813</link>
+
+		<dc:creator><![CDATA[Joni]]></dc:creator>
+		<pubDate>Mon, 22 Apr 2019 11:03:27 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/an-obscure-saint-in-yardley/#comment-137813</guid>
+
+					<description><![CDATA[This is the only site I&#039;ve found to explain St Edburgha!!  Thank you for the information and lovely pictures!! I wish I&#039;d taken more notice when I lived close by!!]]></description>
+			<content:encoded><![CDATA[<p>This is the only site I&#8217;ve found to explain St Edburgha!!  Thank you for the information and lovely pictures!! I wish I&#8217;d taken more notice when I lived close by!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

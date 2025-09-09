@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Picturesque view of the Black Country	</title>
+	<atom:link href="https://www.mappa-mercia.org/2009/12/picturesque-view-of-black-country.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2009/12/picturesque-view-of-black-country.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 13:56:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: jdk653		</title>
+		<link>https://www.mappa-mercia.org/2009/12/picturesque-view-of-black-country.html#comment-6</link>
+
+		<dc:creator><![CDATA[jdk653]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2009 22:49:19 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/picturesque-view-of-the-black-country/#comment-6</guid>
+
+					<description><![CDATA[Check out my not-totally-unrelated &lt;a href=&quot;http://www.flickr.com/photos/jdk653/2337893109/&quot; rel=&quot;nofollow&quot;&gt;photo of the canal at Smethwick&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Check out my not-totally-unrelated <a href="http://www.flickr.com/photos/jdk653/2337893109/" rel="nofollow">photo of the canal at Smethwick</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

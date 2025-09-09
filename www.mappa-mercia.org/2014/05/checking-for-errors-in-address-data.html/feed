@@ -1,0 +1,62 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Checking for errors in address data	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/05/checking-for-errors-in-address-data.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/05/checking-for-errors-in-address-data.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Wed, 28 May 2014 08:20:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: davespod		</title>
+		<link>https://www.mappa-mercia.org/2014/05/checking-for-errors-in-address-data.html#comment-189</link>
+
+		<dc:creator><![CDATA[davespod]]></dc:creator>
+		<pubDate>Wed, 28 May 2014 08:20:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=925#comment-189</guid>
+
+					<description><![CDATA[Thanks for that. I had not realised that OSM Inspector had this feature - a long time since I&#039;ve used it. Do you have any thoughts on how to deal with situations where street numbering is related to a group of houses rather than a street? This seems to be common in my village. 
+
+For example on the street Stallion Lane, some houses are addressed 1, Stallion Lane, etc. However, there is also a group of houses called Castle Mount. Houses there are addressed 1, Castle Mount, etc. There is no service road that could be named Castle Mount, and the section of road going past the houses is still called Stallion Lane. If I just number these houses and say they are on Stallion Lane, routing software will think 1, Castle Mount, is 1, Stallion Lane. Scratching my head on how to make this work. Have you come across similar situations?]]></description>
+			<content:encoded><![CDATA[<p>Thanks for that. I had not realised that OSM Inspector had this feature &#8211; a long time since I&#8217;ve used it. Do you have any thoughts on how to deal with situations where street numbering is related to a group of houses rather than a street? This seems to be common in my village. </p>
+<p>For example on the street Stallion Lane, some houses are addressed 1, Stallion Lane, etc. However, there is also a group of houses called Castle Mount. Houses there are addressed 1, Castle Mount, etc. There is no service road that could be named Castle Mount, and the section of road going past the houses is still called Stallion Lane. If I just number these houses and say they are on Stallion Lane, routing software will think 1, Castle Mount, is 1, Stallion Lane. Scratching my head on how to make this work. Have you come across similar situations?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: poppei82		</title>
+		<link>https://www.mappa-mercia.org/2014/05/checking-for-errors-in-address-data.html#comment-188</link>
+
+		<dc:creator><![CDATA[poppei82]]></dc:creator>
+		<pubDate>Tue, 27 May 2014 08:50:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=925#comment-188</guid>
+
+					<description><![CDATA[Hi!
+
+Just a hint for using OSMI directly in JOSM (if you use this application): http://wiki.openstreetmap.org/wiki/Quality_Assurance_Tools_script
+Additionally you find the tool &quot;housenumbervalidator&quot; included in the next release.
+
+Poppei]]></description>
+			<content:encoded><![CDATA[<p>Hi!</p>
+<p>Just a hint for using OSMI directly in JOSM (if you use this application): <a href="http://wiki.openstreetmap.org/wiki/Quality_Assurance_Tools_script" rel="nofollow ugc">http://wiki.openstreetmap.org/wiki/Quality_Assurance_Tools_script</a><br />
+Additionally you find the tool &#8220;housenumbervalidator&#8221; included in the next release.</p>
+<p>Poppei</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

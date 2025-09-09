@@ -1,0 +1,82 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Schools: Back to square one?	</title>
+	<atom:link href="https://www.mappa-mercia.org/2016/01/schools-back-to-square-one.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2016/01/schools-back-to-square-one.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Wed, 27 Jan 2016 16:27:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: weekly 288 &#124; weekly &#8211; semanario &#8211; hebdo &#8211; săptămânal &#8211; haftalık &#8211; 週刊 &#8211; týdeník &#8211; edisi		</title>
+		<link>https://www.mappa-mercia.org/2016/01/schools-back-to-square-one.html#comment-8465</link>
+
+		<dc:creator><![CDATA[weekly 288 &#124; weekly &#8211; semanario &#8211; hebdo &#8211; săptămânal &#8211; haftalık &#8211; 週刊 &#8211; týdeník &#8211; edisi]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2016 16:27:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1321#comment-8465</guid>
+
+					<description><![CDATA[[&#8230;] Escuelas: Volviendo al punto de partida? Una entrada del blog Mapa Mercia. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Escuelas: Volviendo al punto de partida? Una entrada del blog Mapa Mercia. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mapped: Every school in the Outer Hebrides and Shetland Islands! &#124; Mappa Mercia		</title>
+		<link>https://www.mappa-mercia.org/2016/01/schools-back-to-square-one.html#comment-7745</link>
+
+		<dc:creator><![CDATA[Mapped: Every school in the Outer Hebrides and Shetland Islands! &#124; Mappa Mercia]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2016 20:44:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1321#comment-7745</guid>
+
+					<description><![CDATA[[&#8230;] Nodes converted to ways Following lot&#8217;s of data clean up we are nearing 80% of schools mapped as land areas rather than simple points. We should hit this in [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Nodes converted to ways Following lot&#8217;s of data clean up we are nearing 80% of schools mapped as land areas rather than simple points. We should hit this in [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2016/01/schools-back-to-square-one.html#comment-7236</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2016 19:25:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1321#comment-7236</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2016/01/schools-back-to-square-one.html#comment-7212&quot;&gt;Harry Wood&lt;/a&gt;.
+
+Exactly right Harry. I had something similar written but the text was getting too long so it got chopped!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2016/01/schools-back-to-square-one.html#comment-7212">Harry Wood</a>.</p>
+<p>Exactly right Harry. I had something similar written but the text was getting too long so it got chopped!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Harry Wood		</title>
+		<link>https://www.mappa-mercia.org/2016/01/schools-back-to-square-one.html#comment-7212</link>
+
+		<dc:creator><![CDATA[Harry Wood]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2016 10:04:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1321#comment-7212</guid>
+
+					<description><![CDATA[&lt;i&gt;&#039;The chart unfortunately misses these&#039;&lt;/i&gt; Doesn&#039;t the chart just show the total count of nodes and ways? So if someone converts a school from node to way, it should show no change. I guess the decrease must be just due to removing duplicates ...which is an important data improvement!]]></description>
+			<content:encoded><![CDATA[<p><i>&#8216;The chart unfortunately misses these&#8217;</i> Doesn&#8217;t the chart just show the total count of nodes and ways? So if someone converts a school from node to way, it should show no change. I guess the decrease must be just due to removing duplicates &#8230;which is an important data improvement!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

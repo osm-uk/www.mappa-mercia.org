@@ -1,0 +1,71 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: FIX THAT ROAD NAME	</title>
+	<atom:link href="https://www.mappa-mercia.org/2015/01/fix-that-road-name.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2015/01/fix-that-road-name.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sat, 17 Jan 2015 10:49:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: weekly 234 &#8211; 06.01.–12.01.2015 &#124; weekly &#8211; semanario &#8211; hebdo &#8211; săptămânal &#8211; haftalık &#8211; 週刊 &#8211; týdeník		</title>
+		<link>https://www.mappa-mercia.org/2015/01/fix-that-road-name.html#comment-426</link>
+
+		<dc:creator><![CDATA[weekly 234 &#8211; 06.01.–12.01.2015 &#124; weekly &#8211; semanario &#8211; hebdo &#8211; săptămânal &#8211; haftalık &#8211; 週刊 &#8211; týdeník]]></dc:creator>
+		<pubDate>Sat, 17 Jan 2015 10:49:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1089#comment-426</guid>
+
+					<description><![CDATA[[&#8230;] the UK,  mappers discover (again) the possibility of Quarterly Projects to improve  OSM [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] the UK,  mappers discover (again) the possibility of Quarterly Projects to improve  OSM [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Brian Prangle		</title>
+		<link>https://www.mappa-mercia.org/2015/01/fix-that-road-name.html#comment-419</link>
+
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2015 16:57:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1089#comment-419</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2015/01/fix-that-road-name.html#comment-396&quot;&gt;Rob Norris&lt;/a&gt;.
+
+You&#039;re quite right - I&#039;ll correct the blog entry - thanks for reading and commenting]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2015/01/fix-that-road-name.html#comment-396">Rob Norris</a>.</p>
+<p>You&#8217;re quite right &#8211; I&#8217;ll correct the blog entry &#8211; thanks for reading and commenting</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Rob Norris		</title>
+		<link>https://www.mappa-mercia.org/2015/01/fix-that-road-name.html#comment-396</link>
+
+		<dc:creator><![CDATA[Rob Norris]]></dc:creator>
+		<pubDate>Thu, 08 Jan 2015 23:37:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1089#comment-396</guid>
+
+					<description><![CDATA[Regarding point 4, it&#039;s normally better to be more specific about what information has been derived from which source.
+
+Hence I would use source:name = OS_OpenData_Locator]]></description>
+			<content:encoded><![CDATA[<p>Regarding point 4, it&#8217;s normally better to be more specific about what information has been derived from which source.</p>
+<p>Hence I would use source:name = OS_OpenData_Locator</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

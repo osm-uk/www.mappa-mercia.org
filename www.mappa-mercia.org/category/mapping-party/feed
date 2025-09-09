@@ -1,0 +1,356 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mapping Party &#8211; Mappa Mercia</title>
+	<atom:link href="https://www.mappa-mercia.org/category/mapping-party/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Wed, 30 Nov 2016 18:26:15 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>Prizewinners!  Birmingham Highways Data Challenge</title>
+		<link>https://www.mappa-mercia.org/2016/11/prizewinners-birmingham-highways-data-challenge.html</link>
+					<comments>https://www.mappa-mercia.org/2016/11/prizewinners-birmingham-highways-data-challenge.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2016 18:26:15 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1467</guid>
+
+					<description><![CDATA[Mappa Mercia was at the 2 day Birmingham Highways Data Challenge hackathon last weekend where numerous datasets relating to highways and transport were made available. We won a prize for developing  an HS2 HGV Traffic Heat Map. It&#8217;s not the &#8230; <a href="https://www.mappa-mercia.org/2016/11/prizewinners-birmingham-highways-data-challenge.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Mappa Mercia was at the 2 day Birmingham Highways Data Challenge hackathon last weekend where numerous datasets relating to highways and transport were made available. We won a prize for developing  an <strong>HS2 HGV Traffic Heat Map</strong>. It&#8217;s not the finest visualisation, but we were up against a time constraint, poor initial data (essentially text descriptions of routes with no geolocation data) and having to learn new tools from scratch.<strong><u><br />
+</u></strong></p>
+<p style="text-align: center;"><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/11/HS2-heatmap.png"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-1468" src="https://www.mappa-mercia.org/wp-content/uploads/2016/11/HS2-heatmap-300x163.png" alt="hs2-heatmap" width="300" height="163" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/11/HS2-heatmap-300x163.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/11/HS2-heatmap-768x417.png 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/11/HS2-heatmap-1024x556.png 1024w, https://www.mappa-mercia.org/wp-content/uploads/2016/11/HS2-heatmap.png 1810w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="https://brianboru.carto.com/builder/77e67ee4-b3c5-11e6-86ef-0e3a376473ab/embed"><strong><em>Link to Visualisation</em></strong></a></p>
+<p><strong><em>Judges remarks</em></strong></p>
+<p>A striking example of an entry that demonstrated shortcomings in the manner in which data is published by the organisation that some members of the team worked for, leading to them finding a fix for this which they will take back to their organisation; in this case HS2, with a recommended, enduring fix. Nothing like a bit of user testing to highlight improvements and a swift response by HS2 data managers to find a solution.</p>
+<p><strong><em>Team</em></strong></p>
+<p>Andrew Gaitskell (HS2) and Brian Prangle (OpenStreetMap / Mappa Mercia)</p>
+<p><strong><em>Description</em></strong></p>
+<p>Traffic heat map showing anticipated HS2 HGV traffic intensity and flows – for the purpose of visualising the data the developers chose forecasted HGV traffic flows around Birmingham International Airport arising from the siting of HS2 construction compounds.</p>
+<p><strong><em>Technology</em></strong></p>
+<p>ArcGIS to extract CSV data of Traffic Link and HS2 Compound Location Data from GeoDatabase file downloaded from eB (HS2’s document management system)</p>
+<p>Online XY to Lat,Long coordinate converter. <a href="http://gridreferencefinder.com/batchConvert/batchConvert.php" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gridreferencefinder.com/batchConvert/batchConvert.php&amp;source=gmail&amp;ust=1480615685379000&amp;usg=AFQjCNGfE51DekYVeyftCwzhmYlVY5aHxQ">http://gridreferencefinder.com/batchConvert/batchConvert.php</a></p>
+<p>Excel to manipulate data and match XY Conversions to Traffic Flow Data</p>
+<p>OpenStreetMap for base map</p>
+<p>Used <a href="https://carto.com/" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://carto.com/&amp;source=gmail&amp;ust=1480615685379000&amp;usg=AFQjCNGnNKt4Gp3GMBjrjjZ45mj3XH0TfA">https://carto.com/</a> to display the location of the compounds and Traffic flow data</p>
+<p><strong><em>Data used</em></strong></p>
+<p>Machine-readable extracts from published documents.</p>
+<p>Additional data was required to identify the planned HS2 Compounds</p>
+<p>GeoDatabase Files of HS2 Traffic Links and Compound Locations.</p>
+<p><strong><em>Prize</em></strong></p>
+<p>Raspberry Pi 3</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/11/prizewinners-birmingham-highways-data-challenge.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>We Are Ten</title>
+		<link>https://www.mappa-mercia.org/2016/08/we-are-ten.html</link>
+					<comments>https://www.mappa-mercia.org/2016/08/we-are-ten.html#respond</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Mon, 22 Aug 2016 13:44:37 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1439</guid>
+
+					<description><![CDATA[August sees mappamercia celebrate its tenth birthday &#8211; can you believe it? We didn&#8217;t celebrate with a birthday cake but we did meet in Pershore Worcesteshire on Saturday 6th August at the Pickled Plum pub for lunch between morning and &#8230; <a href="https://www.mappa-mercia.org/2016/08/we-are-ten.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>August sees mappamercia celebrate its tenth birthday &#8211; can you believe it? We didn&#8217;t celebrate with a birthday cake but we did meet in Pershore Worcesteshire on Saturday 6th August at the Pickled Plum pub for lunch between morning and afternoon mapping sessions. It was a glorious English summer&#8217;s day and we got lots mapped.</p>
+<p>Why did we pick Pershore? Mainly because its postcode of WR10 nicely coincided with our birthday. Maybe we&#8217;ll be boxing around Worcester postcodes in August every year as we get older- see you next year in WR11!</p>
+<p>We had a good turnout of six people and took the opportunity of getting members&#8217; signatures on the Memorandum of Assocation for OpenStreetMap UK Community Interest Company (this is one of the legal documents required to form a limited company).</p>
+<p>Here&#8217;s Rob Nickerson being the first to add his signature (It was Rob who initiated the discussions many months ago to create a UK chapter of OSM)</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2016/08/Signing.jpg" rel="attachment wp-att-1440"><img decoding="async" loading="lazy" class="size-medium wp-image-1440 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2016/08/Signing-300x225.jpg" alt="Signing" width="300" height="225" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/08/Signing-300x225.jpg 300w, https://www.mappa-mercia.org/wp-content/uploads/2016/08/Signing-768x576.jpg 768w, https://www.mappa-mercia.org/wp-content/uploads/2016/08/Signing-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/08/we-are-ten.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Summer Programme</title>
+		<link>https://www.mappa-mercia.org/2016/05/summer-programme.html</link>
+					<comments>https://www.mappa-mercia.org/2016/05/summer-programme.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Mon, 09 May 2016 18:52:00 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1402</guid>
+
+					<description><![CDATA[To take advantage of the good weather and light evenings during the summer months we tour around the region mapping areas which look either interesting or not well-mapped. So far this year we have visited Stratford-upon-Avon where we attempted to &#8230; <a href="https://www.mappa-mercia.org/2016/05/summer-programme.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>To take advantage of the good weather and light evenings during the summer months we tour around the region mapping areas which look either interesting or not well-mapped.</p>
+<p>So far this year we have visited Stratford-upon-Avon where we attempted to map all the tourist accommodation (it is the 400th annivarsary of Shakespeare&#8217;s death and this town is a global tourist destination). The ongoing project is to map all the buildings &#8211; help appreciated!</p>
+<p>Last week saw us in Atherstone where our mapping effort was eclectic to say the least</p>
+<p>We have mapped out the remainder of the venues:</p>
+<p><strong>June</strong> will be <strong>Kidderminster</strong> on a Saturday ( pub &amp; date tbc)</p>
+<p><strong>July</strong> will be <strong>Tamworth</strong> Wed July 6th (<a href="http://www.openstreetmap.org/way/391844336" target="_blank">Globe Inn</a>, Lower Gungate)</p>
+<p><strong>August</strong> is the 10th anniversary of mappamercia so we&#8217;re going to map as much of <strong>WR10</strong> as possible, centred on <strong>Pershore</strong> (pub &amp; date tbc)</p>
+<p><strong>September</strong> will be somewhere in <strong>Herefordshire</strong> (some input from mappers in Herefordshire appreciated &#8211; given the distance involved for most attendees this will probably be a Saturday too)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/05/summer-programme.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Welcome to Night School (1st March)</title>
+		<link>https://www.mappa-mercia.org/2016/02/welcome-to-night-school-1st-march.html</link>
+					<comments>https://www.mappa-mercia.org/2016/02/welcome-to-night-school-1st-march.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 24 Feb 2016 20:58:56 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1379</guid>
+
+					<description><![CDATA[This quarter the UK OpenStreetMap community is mapping schools. So far over 250 people have made 10,000 edits &#8211; a hugely impressive feat! There&#8217;s still time to get involved and on Tuesday 1st March we are holding &#8220;Night School&#8221;, an &#8230; <a href="https://www.mappa-mercia.org/2016/02/welcome-to-night-school-1st-march.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>This quarter the UK <a href="https://openstreetmap.org">OpenStreetMap</a> community is <a href="http://wiki.openstreetmap.org/wiki/UK_Quarterly_Projects">mapping schools</a>. So far over 250 people have made 10,000 edits &#8211; a hugely impressive feat! There&#8217;s still time to get involved and on Tuesday 1st March we are holding &#8220;Night School&#8221;, an online mapathon.</strong></p>
+<p>Night School is experiment for the UK Quarterly Project; on the evening of Tuesday 1st March let&#8217;s join together as one big community to map schools. There are no rules, simply start when you like and finish when you like and map where you like! Follow along with the progress on the <a href="http://harrywood.dev.openstreetmap.org/diffreader/schools/?filter=uk">school edit tracker</a> and our live <a href="http://resultmaps.neis-one.org/osm-changesets?comment=OSMschool#6/53.495/-3.549">map of edits</a> (to show up on the map simply add &#8220;#OSMschools&#8221; to the comment box when you save your map edit).</p>
+<div id="attachment_1380" style="width: 650px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1380" decoding="async" loading="lazy" class="size-full wp-image-1380" src="https://www.mappa-mercia.org/wp-content/uploads/2016/02/640px-Birmingham_Business_School_at_night.jpg" alt="Birmingham Business School, at night. CC-BY-SA" width="640" height="426" srcset="https://www.mappa-mercia.org/wp-content/uploads/2016/02/640px-Birmingham_Business_School_at_night.jpg 640w, https://www.mappa-mercia.org/wp-content/uploads/2016/02/640px-Birmingham_Business_School_at_night-300x200.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /><p id="caption-attachment-1380" class="wp-caption-text">Birmingham Business School, at night. <a href="https://commons.wikimedia.org/wiki/File:Birmingham_Business_School,_at_night.jpg">CC-BY-SA</a></p></div>
+<p>If you don&#8217;t know how to map schools in OpenStreetMap check out our handy <a href="https://www.mappa-mercia.org/2016/02/how-to-map-a-school-in-openstreetmap.html">picture tutorial</a>. You can always <a href="https://www.mappa-mercia.org/contact">contact us</a> for more support should you need it.</p>
+<p>Ideas for making the evening more fun are welcome! Don&#8217;t forget the discussions on Schools Quarterly Project that are taking place <a href="https://www.loomio.org/invitations/1f686576bce85c49f956">here on Loomio</a> as a trial for a possible platform for UK member decision-making.</p>
+<p>Even at this stage of the project new people are joining, so spread the word on other channels to see who we might attract.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2016/02/welcome-to-night-school-1st-march.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>August 2015 monthly meeting</title>
+		<link>https://www.mappa-mercia.org/2015/07/august-2015-monthly-meeting.html</link>
+					<comments>https://www.mappa-mercia.org/2015/07/august-2015-monthly-meeting.html#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Prangle]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2015 16:00:38 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1175</guid>
+
+					<description><![CDATA[This will take place in Rugby, with the usual format of early evening mapping followed by food and beer and chat in a local pub. We usually gather in the pub for about 8pm but depending on weather and how &#8230; <a href="https://www.mappa-mercia.org/2015/07/august-2015-monthly-meeting.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>This will take place in Rugby, with the usual format of early evening mapping followed by food and beer and chat in a local pub. We usually gather in the pub for about 8pm but depending on weather and how hungry we are, some people get there early and some later.</p>
+<div style="width: 710px" class="wp-caption aligncenter"><img decoding="async" loading="lazy" class="" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Regent_Street%2C_Rugby.jpg" alt="Regent Street with St Andrews Church, Rugby" width="700" height="847" /><p class="wp-caption-text">Regent Street with St Andrews Church, Rugby</p></div>
+<p><strong>Date:</strong> Wednesday August 5th 2015</p>
+<p><strong>Venue:</strong>  <a href="http://thelounges.co.uk/lounges/bacco-lounge/" target="_blank">Bacco Lounge</a></p>
+<p>There&#8217;s no shortage of stuff to map in Rugby. Let us know where you intend to map either by comment here or on the <a href="https://lists.openstreetmap.org/listinfo/talk-gb-westmidlands">talk-gbwestmidlands mailing list </a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2015/07/august-2015-monthly-meeting.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Survey: A &#8220;UK/GB OpenStreetMap group&#8221;?</title>
+		<link>https://www.mappa-mercia.org/2015/07/survey-a-ukgb-openstreetmap-group.html</link>
+					<comments>https://www.mappa-mercia.org/2015/07/survey-a-ukgb-openstreetmap-group.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sat, 11 Jul 2015 20:28:53 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<category><![CDATA[Participate]]></category>
+		<category><![CDATA[Use The Map]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1168</guid>
+
+					<description><![CDATA[Dear UK/GB OpenStreetMappers, From time to time we talk about the potential of setting up a &#8220;UK/GB OpenStreetMap group&#8221; (name yet to be decided) but we never quite know what it should look like. Survey time!! Please fill in the &#8230; <a href="https://www.mappa-mercia.org/2015/07/survey-a-ukgb-openstreetmap-group.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Dear UK/GB OpenStreetMappers,</p>
+<p>From time to time we talk about the potential of setting up a &#8220;UK/GB<br />
+OpenStreetMap group&#8221; (name yet to be decided) but we never quite know what<br />
+it should look like.</p>
+<p>Survey time!! Please fill in the following 2 minute survey:</p>
+<p><a href="http://goo.gl/forms/Z797QhC27c">http://goo.gl/forms/Z797QhC27c</a></p>
+<p>Your responses to page 1 will be shared when we close the survey (in a few<br />
+weeks). If you respond to the optional page 2 questions (your details),<br />
+your responses will be used for the purpose of administrating the group<br />
+only (they will only be seen by myself and any designated administrator<br />
+should a UK/GB group be set up).</p>
+<p>So stop reading and go to the survey:</p>
+<p><a href="http://goo.gl/forms/Z797QhC27c">http://goo.gl/forms/Z797QhC27c</a></p>
+<p>Best regards and happy mapping,</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2015/07/survey-a-ukgb-openstreetmap-group.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Highlights from Water Orton</title>
+		<link>https://www.mappa-mercia.org/2015/06/highlights-from-water-orton.html</link>
+					<comments>https://www.mappa-mercia.org/2015/06/highlights-from-water-orton.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2015 13:52:06 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Mapping Party]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1152</guid>
+
+					<description><![CDATA[On Thursday 4th June the Mappa Mercia group met in Water Orton on the outskirts of Birmingham, UK, for our monthly mapping event. We had good weather but not everything else went to plan! Here&#8217;s a few highlights from our &#8230; <a href="https://www.mappa-mercia.org/2015/06/highlights-from-water-orton.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>On Thursday 4th June the Mappa Mercia group met in Water Orton on the outskirts of Birmingham, UK, for our monthly mapping event. We had good weather but not everything else went to plan! Here&#8217;s a few highlights from our twitter account &#8211; you can follow us on <a href="https://twitter.com/mappamercia" target="_blank">@mappamercia</a>.</p>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Mapping for <a href="https://twitter.com/hashtag/OpenStreetMap?src=hash">#OpenStreetMap</a> is not a crime! Today whilst mapping in Water Orton we got stopped by the police in unmarked car. <a href="https://twitter.com/hashtag/beingdeported?src=hash">#beingdeported</a></p>
+<p>&mdash; Mappa Mercia (@mappamercia) <a href="https://twitter.com/mappamercia/status/606557499240542208">June 4, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Whilst in Water Orton we spotted this listed structure. But why does it appear twice in the national heritage list? <a href="http://t.co/K2TZCuZLFT">http://t.co/K2TZCuZLFT</a></p>
+<p>&mdash; Mappa Mercia (@mappamercia) <a href="https://twitter.com/mappamercia/status/606963635672489985">June 5, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">On Thurs we held a mapping event in Water Orton. Here&#39;s just some of our edits. Next: Telford <a href="http://t.co/QBPLYCqmlS">http://t.co/QBPLYCqmlS</a> <a href="http://t.co/tXUqtdqplG">pic.twitter.com/tXUqtdqplG</a></p>
+<p>&mdash; Mappa Mercia (@mappamercia) <a href="https://twitter.com/mappamercia/status/608357235815804928">June 9, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">We mapped ~300 addresses at our Water Orton mapping party. Pic: Validating them on geofabrik <a href="http://t.co/W9DbRCs6ok">http://t.co/W9DbRCs6ok</a> <a href="http://t.co/CvB2YCQgXP">pic.twitter.com/CvB2YCQgXP</a></p>
+<p>&mdash; Mappa Mercia (@mappamercia) <a href="https://twitter.com/mappamercia/status/608359307395125250">June 9, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p>Despite being briefly stopped by the police (a first for us) we had a great time mapping Water Orton. If you would like to join us next time we will be in <a href="http://www.openstreetmap.org/node/26701389" target="_blank">Telford</a>. Although details are yet to be 100% finalised it is looking like we will diverge from our normal &#8216;first Thursday of the month&#8217; to make more of an event out of it. So join us on Saturday 4th July in Telford.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2015/06/highlights-from-water-orton.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Video: Wikidata for Mappers</title>
+		<link>https://www.mappa-mercia.org/2015/06/video-wikidata-for-mappers.html</link>
+					<comments>https://www.mappa-mercia.org/2015/06/video-wikidata-for-mappers.html#respond</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2015 09:59:57 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Mapping Party]]></category>
+		<category><![CDATA[Participate]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1139</guid>
+
+					<description><![CDATA[Following on from the tweet summary from Andy&#8217;s (@pigsonthewing) Wikidata presentation at State of the Map 2015, you can now watch the full talk:]]></description>
+										<content:encoded><![CDATA[<p>Following on from the <a href="/2015/06/mappa-mercia-at-state-of-the-map-us-2015.html">tweet summary</a> from Andy&#8217;s (<a href="https://twitter.com/pigsonthewing">@pigsonthewing</a>) Wikidata presentation at State of the Map 2015, you can now watch the full talk:</p>
+<div class="entry-content-asset videofit"><iframe loading="lazy" width="1140" height="641" src="https://www.youtube.com/embed/O6pnDQcrtwQ?feature=oembed" frameborder="0" allowfullscreen></iframe></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2015/06/video-wikidata-for-mappers.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mappa Mercia at State of the Map US 2015</title>
+		<link>https://www.mappa-mercia.org/2015/06/mappa-mercia-at-state-of-the-map-us-2015.html</link>
+					<comments>https://www.mappa-mercia.org/2015/06/mappa-mercia-at-state-of-the-map-us-2015.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2015 18:54:42 +0000</pubDate>
+				<category><![CDATA[Mapping Party]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1133</guid>
+
+					<description><![CDATA[Last weekend saw hundreds of OpenStreetMappers descend on New York City for State of the Map US 2015. Our very own Andy Mabbett (he&#8217;s @pigsonthewing on twitter) was in attendance and gave two talks; the first on Wikidata and it&#8217;s &#8230; <a href="https://www.mappa-mercia.org/2015/06/mappa-mercia-at-state-of-the-map-us-2015.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Last weekend saw hundreds of OpenStreetMappers descend on New York City for <a href="http://stateofthemap.us" target="_blank">State of the Map US 2015</a>. Our very own Andy Mabbett (he&#8217;s <a href="https://twitter.com/pigsonthewing">@pigsonthewing</a> on twitter) was in attendance and gave two talks; the first on Wikidata and it&#8217;s inclusion in OpenStreetMap, whilst the second (a 5 minute &#8216;lightning talk&#8217;) was on us, the Mappa Mercia community. Here&#8217;s how it played out.</p>
+<h2>Wikidata for mappers</h2>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">We are very excited for <a href="https://twitter.com/pigsonthewing">@pigsonthewing</a>&#39;s talk on Wikidata at <a href="https://twitter.com/sotmus">@sotmus</a>! <a href="https://twitter.com/hashtag/SOTMUS?src=hash">#SOTMUS</a></p>
+<p>&mdash; FixWikiMaps Project (@fixwikimaps) <a href="https://twitter.com/fixwikimaps/status/607204890851602433">June 6, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">. <a href="https://twitter.com/pigsonthewing">@pigsonthewing</a> speaking about <a href="https://twitter.com/wikidata">@wikidata</a> at State of the Map US <a href="https://twitter.com/hashtag/sotmus?src=hash">#sotmus</a> <a href="http://t.co/tNbRrEzTdp">pic.twitter.com/tNbRrEzTdp</a></p>
+<p>&mdash; Katie Filbert (@filbertkm) <a href="https://twitter.com/filbertkm/status/607206928016670721">June 6, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Matching <a href="https://twitter.com/hashtag/wikidata?src=hash">#wikidata</a> to <a href="https://twitter.com/hashtag/OpenStreetMap?src=hash">#OpenStreetMap</a>: &quot;95% certain that these are match and we have proposed&quot; <a href="https://twitter.com/pigsonthewing">@pigsonthewing</a> speaking at <a href="https://twitter.com/hashtag/sotmus?src=hash">#sotmus</a></p>
+<p>&mdash; Mappa Mercia (@mappamercia) <a href="https://twitter.com/mappamercia/status/607209640288505856">June 6, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">.<a href="https://twitter.com/pigsonthewing">@pigsonthewing</a> making a plea for allowing bots to tag OSM with wikidata info. I think he&#39;s right. <a href="https://twitter.com/hashtag/sotmus?src=hash">#sotmus</a></p>
+<p>&mdash; Tom Lee (@tjl) <a href="https://twitter.com/tjl/status/607208872667967488">June 6, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/SOTMUS?src=hash">#SOTMUS</a> Over 176K matches for <a href="https://twitter.com/wikidata">@Wikidata</a> &amp; <a href="https://twitter.com/openstreetmap">@OpenStreetMap</a> entities: <a href="http://t.co/QBCQjZZ65Z">http://t.co/QBCQjZZ65Z</a> We should let a bot tag these in OSM</p>
+<p>&mdash; Andy Mabbett (@pigsonthewing) <a href="https://twitter.com/pigsonthewing/status/607215905026777089">June 6, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">.<a href="https://twitter.com/pigsonthewing">@pigsonthewing</a>&#39;s summary: &quot;Wikidata [..] is copyright-free, please use it. You can tag objects in OpenStreetMap with Wikidata IDs&quot; <a href="https://twitter.com/hashtag/sotmus?src=hash">#sotmus</a></p>
+<p>&mdash; Mappa Mercia (@mappamercia) <a href="https://twitter.com/mappamercia/status/607211665202024448">June 6, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">I raised a ticket about <a href="https://twitter.com/wikidata">@Wikidata</a> in <a href="https://twitter.com/openstreetmap">@OpenStreetMap</a>&#39;s &quot;ID&quot; editor. <a href="https://twitter.com/hashtag/SOTMUS?src=hash">#SOTMUS</a> / <a href="https://twitter.com/bhousel">@bhousel</a> <a href="http://t.co/j6U6cqiATv">http://t.co/j6U6cqiATv</a></p>
+<p>&mdash; Andy Mabbett (@pigsonthewing) <a href="https://twitter.com/pigsonthewing/status/607553137575100416">June 7, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p>You can read more about Andy&#8217;s proposal to automate wikidata tagging in OpenStreetMap <a href="http://wiki.openstreetmap.org/wiki/User:Pigsonthewing/Wikipedia" target="_blank">here</a>. To see which map features already include a wikidata tag check out <a href="http://umap.openstreetmap.fr/en/map/wikidata-map-live_14808#17/52.47895/-1.90163" target="_blank">this map</a>.</p>
+<h2>Mappa Mercia</h2>
+<p>Andy&#8217;s &#8216;lightning talk&#8217; on day 2 showed off some of our work and discussed how to build a local community:</p>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Hey cool heritage mapping in England by <a href="https://twitter.com/pigsonthewing">@pigsonthewing</a> check it out Gopi <a href="https://twitter.com/theblueyonder">@theblueyonder</a> <a href="https://twitter.com/hashtag/sotmus?src=hash">#sotmus</a> <a href="http://t.co/aIApXXtv0t">pic.twitter.com/aIApXXtv0t</a></p>
+<p>&mdash; Erica Hagen (@ricaji) <a href="https://twitter.com/ricaji/status/607585111282991104">June 7, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="entry-content-asset videofit">
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Enjoyed the prez on how to build a strong local <a href="https://twitter.com/hashtag/OSM?src=hash">#OSM</a> community. Bottom line: You have to be open &amp; inclusive <a href="https://twitter.com/pigsonthewing">@pigsonthewing</a> <a href="https://twitter.com/hashtag/sotmus?src=hash">#sotmus</a></p>
+<p>&mdash; Datapolitan (@Datapolitan) <a href="https://twitter.com/Datapolitan/status/607585002222555136">June 7, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<h2>Voice of Megan Smith</h2>
+<p>On Saturday a surprise speaker was announced &#8211; Megan Smith, Chief Technology Officer of the United States. Andy used the opportunity to capture a sample of her voice for &#8216;<a href="http://en.wikipedia.org/wiki/Wikipedia:Voice_intro_project" target="_blank">voice intro project</a>&#8216; he instigated on wikipedia. You can listen to the audio clip on <a href="https://en.wikipedia.org/wiki/Megan_Smith" target="_blank">her wikipedia page</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2015/06/mappa-mercia-at-state-of-the-map-us-2015.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A missing &#8216;l&#8217; adds 5 miles</title>
+		<link>https://www.mappa-mercia.org/2014/08/a-missing-l-adds-5-miles.html</link>
+					<comments>https://www.mappa-mercia.org/2014/08/a-missing-l-adds-5-miles.html#comments</comments>
+		
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2014 21:44:59 +0000</pubDate>
+				<category><![CDATA[Map Improvements]]></category>
+		<category><![CDATA[Mapping Party]]></category>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=967</guid>
+
+					<description><![CDATA[When I first started contributing to OpenStreetMap there was a Project of the Week section on the OSM wiki. After much success this eventually came to and end in July 2011. Now, after a three year break, its back in &#8230; <a href="https://www.mappa-mercia.org/2014/08/a-missing-l-adds-5-miles.html">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>When I first started contributing to OpenStreetMap there was a <a href="http://wiki.openstreetmap.org/wiki/Project_of_the_week">Project of the Week</a> section on the OSM wiki. After much success this eventually came to and end in July 2011. Now, after a three year break, its back in the form of a “<a href="http://blog.openstreetmap.de/?s=wochenaufgabe">wochenaufgabe</a>” (weekly task), for it is the German OpenStreetMap community that has brought back this weekly project.</p>
+<p>This weeks <a href="http://blog.openstreetmap.de/blog/2014/08/wochenaufgabe-strassennamen-kw-3334-11-08-24-08-2014/">task</a> revolves around adding street names to buildings and suggests contributors use the Geofabrik <a href="http://tools.geofabrik.de/osmi/">OSM Inspector</a> tool I previously <a title="Checking for errors in address data" href="/2014/05/checking-for-errors-in-address-data.html">blogged about</a>. Given that I recently helped to map buildings as part of our Shenstone meet-up, I thought I best check the quality of our evenings work.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_to_aston.png"><img decoding="async" loading="lazy" class="size-full wp-image-969 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_to_aston.png" alt="OSM Inspector unknown close" width="483" height="389" srcset="https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_to_aston.png 483w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_to_aston-300x241.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_to_aston-250x201.png 250w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_to_aston-100x80.png 100w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_to_aston-150x120.png 150w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_to_aston-200x161.png 200w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_to_aston-450x362.png 450w" sizes="(max-width: 483px) 100vw, 483px" /></a></p>
+<p>As it turns out, my attention was quickly diverted to the neighbouring town of <a href="http://www.openstreetmap.org/#map=12/52.56667/-1.81667" target="_blank">Sutton Coldfield</a>. As shown in the image above there are a collection of houses in Four Oaks that have a street name that links to Aston Close in Shenstone, 5 miles north (as seen by the lines heading north from each property). The buildings are tagged with <em>addr:street=Aston Close</em>, whilst the nearby Sutton Coldfield street is tagged <em>name=Alston Close</em>. So which is correct – Alston or Aston. We could go back out an survey this close, or turn to OpenData in the form of Land Registry&#8217;s <a href="http://landregistry.data.gov.uk/app/ppd/search">Price Paid data</a>.</p>
+<p><a href="https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_Land_Registry.png"><img decoding="async" loading="lazy" class="size-full wp-image-968 aligncenter" src="https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_Land_Registry.png" alt="Alston Close in Land Registry price paid data" width="488" height="331" srcset="https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_Land_Registry.png 488w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_Land_Registry-300x203.png 300w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_Land_Registry-250x169.png 250w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_Land_Registry-100x67.png 100w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_Land_Registry-150x101.png 150w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_Land_Registry-200x135.png 200w, https://www.mappa-mercia.org/wp-content/uploads/2014/08/Alston_Land_Registry-450x305.png 450w" sizes="(max-width: 488px) 100vw, 488px" /></a></p>
+<p>A quick search of the Price Paid data identifies the Sutton Coldfield street as Alston Close. No longer will you end up 5 miles out of the way next time you use OSM to route to this street.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mappa-mercia.org/2014/08/a-missing-l-adds-5-miles.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

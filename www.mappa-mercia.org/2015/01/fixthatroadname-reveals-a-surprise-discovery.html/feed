@@ -1,0 +1,54 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Fixthatroadname! reveals a surprise discovery	</title>
+	<atom:link href="https://www.mappa-mercia.org/2015/01/fixthatroadname-reveals-a-surprise-discovery.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2015/01/fixthatroadname-reveals-a-surprise-discovery.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sat, 10 Jan 2015 10:08:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Ed Loach		</title>
+		<link>https://www.mappa-mercia.org/2015/01/fixthatroadname-reveals-a-surprise-discovery.html#comment-401</link>
+
+		<dc:creator><![CDATA[Ed Loach]]></dc:creator>
+		<pubDate>Sat, 10 Jan 2015 10:08:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1092#comment-401</guid>
+
+					<description><![CDATA[I&#039;m not sure if you mentioned in a previous blog post, but if it looks like all the names match in your area, you can find the names that have been sourced from OS Locator which may still need checking using http://www.itoworld.com/map/1862 (assuming people have added an appropriate source or source:name tag)]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m not sure if you mentioned in a previous blog post, but if it looks like all the names match in your area, you can find the names that have been sourced from OS Locator which may still need checking using <a href="http://www.itoworld.com/map/1862" rel="nofollow ugc">http://www.itoworld.com/map/1862</a> (assuming people have added an appropriate source or source:name tag)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2015/01/fixthatroadname-reveals-a-surprise-discovery.html#comment-390</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Wed, 07 Jan 2015 19:15:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1092#comment-390</guid>
+
+					<description><![CDATA[Good find. As there is a wikipedia article [1] I&#039;ve added this to the street using the tag &quot;name:wikipedia&quot;.
+
+[1] http://en.wikipedia.org/wiki/Robert_Edwin_Phillips]]></description>
+			<content:encoded><![CDATA[<p>Good find. As there is a wikipedia article [1] I&#8217;ve added this to the street using the tag &#8220;name:wikipedia&#8221;.</p>
+<p>[1] <a href="http://en.wikipedia.org/wiki/Robert_Edwin_Phillips" rel="nofollow ugc">http://en.wikipedia.org/wiki/Robert_Edwin_Phillips</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

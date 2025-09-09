@@ -1,0 +1,73 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Birmingham New Street Station	</title>
+	<atom:link href="https://www.mappa-mercia.org/2015/10/birmingham-new-street-station.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2015/10/birmingham-new-street-station.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sat, 17 Oct 2015 10:20:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: PanierAvide		</title>
+		<link>https://www.mappa-mercia.org/2015/10/birmingham-new-street-station.html#comment-3106</link>
+
+		<dc:creator><![CDATA[PanierAvide]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2015 10:20:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1256#comment-3106</guid>
+
+					<description><![CDATA[Good job ;) If you want to have a look to your work in a map which handles levels, have a look at :
+http://github.pavie.info/openlevelup/?s=q.CQe+-1.NOP+R6+0.0+0
+
+The render is better when indoor=* or buildingpart=* tags are used, a good (and &quot;simple&quot;) start is : https://wiki.openstreetmap.org/wiki/Simple_Indoor_Tagging
+
+You can contact me if you want more details :)]]></description>
+			<content:encoded><![CDATA[<p>Good job 😉 If you want to have a look to your work in a map which handles levels, have a look at :<br />
+<a href="http://github.pavie.info/openlevelup/?s=q.CQe+-1.NOP+R6+0.0+0" rel="nofollow ugc">http://github.pavie.info/openlevelup/?s=q.CQe+-1.NOP+R6+0.0+0</a></p>
+<p>The render is better when indoor=* or buildingpart=* tags are used, a good (and &#8220;simple&#8221;) start is : <a href="https://wiki.openstreetmap.org/wiki/Simple_Indoor_Tagging" rel="nofollow ugc">https://wiki.openstreetmap.org/wiki/Simple_Indoor_Tagging</a></p>
+<p>You can contact me if you want more details 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Locator		</title>
+		<link>https://www.mappa-mercia.org/2015/10/birmingham-new-street-station.html#comment-3090</link>
+
+		<dc:creator><![CDATA[Locator]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 22:21:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1256#comment-3090</guid>
+
+					<description><![CDATA[Amazing piece of work. Huge respect.]]></description>
+			<content:encoded><![CDATA[<p>Amazing piece of work. Huge respect.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: weekly 273 &#124; weekly &#8211; semanario &#8211; hebdo &#8211; săptămânal &#8211; haftalık &#8211; 週刊 &#8211; týdeník &#8211; edisi		</title>
+		<link>https://www.mappa-mercia.org/2015/10/birmingham-new-street-station.html#comment-3086</link>
+
+		<dc:creator><![CDATA[weekly 273 &#124; weekly &#8211; semanario &#8211; hebdo &#8211; săptămânal &#8211; haftalık &#8211; 週刊 &#8211; týdeník &#8211; edisi]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2015 21:21:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1256#comment-3086</guid>
+
+					<description><![CDATA[[&#8230;] Mercia writes about their success in mapping the entire new mainline multilevel station in [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Mercia writes about their success in mapping the entire new mainline multilevel station in [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

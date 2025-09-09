@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Congratulations!	</title>
+	<atom:link href="https://www.mappa-mercia.org/2016/10/congratulations.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2016/10/congratulations.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Tue, 18 Oct 2016 18:34:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2016/10/congratulations.html#comment-102418</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2016 18:34:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1458#comment-102418</guid>
+
+					<description><![CDATA[And here is a link to the award ceremony (video should be up in next few days): http://2016.stateofthemap.org/2016/openstreetmap-awards-and-state-of-the-local-map/]]></description>
+			<content:encoded><![CDATA[<p>And here is a link to the award ceremony (video should be up in next few days): <a href="http://2016.stateofthemap.org/2016/openstreetmap-awards-and-state-of-the-local-map/" rel="nofollow ugc">http://2016.stateofthemap.org/2016/openstreetmap-awards-and-state-of-the-local-map/</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

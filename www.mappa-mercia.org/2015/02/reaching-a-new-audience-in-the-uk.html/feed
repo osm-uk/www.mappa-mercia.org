@@ -1,0 +1,68 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Reaching a new audience in the UK	</title>
+	<atom:link href="https://www.mappa-mercia.org/2015/02/reaching-a-new-audience-in-the-uk.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2015/02/reaching-a-new-audience-in-the-uk.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Fri, 06 Feb 2015 19:03:20 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2015/02/reaching-a-new-audience-in-the-uk.html#comment-506</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2015 19:03:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1103#comment-506</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2015/02/reaching-a-new-audience-in-the-uk.html#comment-502&quot;&gt;Harry Wood&lt;/a&gt;.
+
+I think we are within the scope of Notes. We are communicating to mappers - both those that contribute via the map editing software and those &quot;mappers&quot; who have not yet made the leap to edit the actual data but are happy contributing via the Notes system.
+
+Let&#039;s do trials and see what the impact is. We just need to keep an eye on the number of notes and the open:close ratio:
+http://resultmaps.neis-one.org/osm-notes-country?c=United%20Kingdom]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2015/02/reaching-a-new-audience-in-the-uk.html#comment-502">Harry Wood</a>.</p>
+<p>I think we are within the scope of Notes. We are communicating to mappers &#8211; both those that contribute via the map editing software and those &#8220;mappers&#8221; who have not yet made the leap to edit the actual data but are happy contributing via the Notes system.</p>
+<p>Let&#8217;s do trials and see what the impact is. We just need to keep an eye on the number of notes and the open:close ratio:<br />
+<a href="http://resultmaps.neis-one.org/osm-notes-country?c=United%20Kingdom" rel="nofollow ugc">http://resultmaps.neis-one.org/osm-notes-country?c=United%20Kingdom</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Harry Wood		</title>
+		<link>https://www.mappa-mercia.org/2015/02/reaching-a-new-audience-in-the-uk.html#comment-502</link>
+
+		<dc:creator><![CDATA[Harry Wood]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2015 12:54:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1103#comment-502</guid>
+
+					<description><![CDATA[One thing to watch out for with this idea, is that Notes feature &quot;is intended for humans to communicate with other humans (mappers). It is not a place to dump automated error checking.&quot;  We have lots of &quot;quality assurance&quot; tests, which tend to get presented on separate websites. We don&#039;t want to start duplicating these as notes on a large scale.
+
+I think there&#039;s an argument to be made that certain QA tests, such as the OS Locator comparisons, are of a much higher importance than others, so they might deserve to be &quot;promoted&quot; as notes, but this might be a slippery slope.
+
+If the notes are still only ever created by humans, then this is less likely to be a problem. This way we might try it in a test area (as you&#039;ve suggested) and also create notes first in areas where it&#039;s higher priority, or where it seems more likely to work.
+
+I love the &quot;quarterly project&quot; idea by the way. Must try to join in some more.]]></description>
+			<content:encoded><![CDATA[<p>One thing to watch out for with this idea, is that Notes feature &#8220;is intended for humans to communicate with other humans (mappers). It is not a place to dump automated error checking.&#8221;  We have lots of &#8220;quality assurance&#8221; tests, which tend to get presented on separate websites. We don&#8217;t want to start duplicating these as notes on a large scale.</p>
+<p>I think there&#8217;s an argument to be made that certain QA tests, such as the OS Locator comparisons, are of a much higher importance than others, so they might deserve to be &#8220;promoted&#8221; as notes, but this might be a slippery slope.</p>
+<p>If the notes are still only ever created by humans, then this is less likely to be a problem. This way we might try it in a test area (as you&#8217;ve suggested) and also create notes first in areas where it&#8217;s higher priority, or where it seems more likely to work.</p>
+<p>I love the &#8220;quarterly project&#8221; idea by the way. Must try to join in some more.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

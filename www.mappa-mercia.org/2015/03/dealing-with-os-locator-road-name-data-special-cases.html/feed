@@ -1,0 +1,69 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Dealing with OS Locator road name data: special cases	</title>
+	<atom:link href="https://www.mappa-mercia.org/2015/03/dealing-with-os-locator-road-name-data-special-cases.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2015/03/dealing-with-os-locator-road-name-data-special-cases.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Tue, 05 May 2015 04:48:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Katie Urey		</title>
+		<link>https://www.mappa-mercia.org/2015/03/dealing-with-os-locator-road-name-data-special-cases.html#comment-800</link>
+
+		<dc:creator><![CDATA[Katie Urey]]></dc:creator>
+		<pubDate>Tue, 05 May 2015 04:48:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1120#comment-800</guid>
+
+					<description><![CDATA[OSM friends,
+
+I stumbled upon this discussion while looking for mapathon planning inspiration.   I live in Portland, Oregon, US. Our group, http://wiki.osgeo.org/wiki/PDX-OSGEO runs the local OSM mapathons.
+
+About fixing road names.... I do not know OS Locator and will look that up.   Have you looked at spiderosm.org?
+
+Our regional transit agency, TriMet.org has been using OSM and Conveyal.com/openplans for transit routing and has put some effort to validate and complete streets.  In a round about way this project inspired a project that might interest your group.  It&#039;s called spiderosm... &quot;SpiderOSM is an open source python package for matching segments in one path network (e.g. streets and trails) to corresponding segments in another, based on geography and network connectivity. &quot;...The documentation is easy to follow-- take a look at spiderosm.org
+
+
+
+best regards,
+Katie Urey]]></description>
+			<content:encoded><![CDATA[<p>OSM friends,</p>
+<p>I stumbled upon this discussion while looking for mapathon planning inspiration.   I live in Portland, Oregon, US. Our group, <a href="http://wiki.osgeo.org/wiki/PDX-OSGEO" rel="nofollow ugc">http://wiki.osgeo.org/wiki/PDX-OSGEO</a> runs the local OSM mapathons.</p>
+<p>About fixing road names&#8230;. I do not know OS Locator and will look that up.   Have you looked at spiderosm.org?</p>
+<p>Our regional transit agency, TriMet.org has been using OSM and Conveyal.com/openplans for transit routing and has put some effort to validate and complete streets.  In a round about way this project inspired a project that might interest your group.  It&#8217;s called spiderosm&#8230; &#8220;SpiderOSM is an open source python package for matching segments in one path network (e.g. streets and trails) to corresponding segments in another, based on geography and network connectivity. &#8220;&#8230;The documentation is easy to follow&#8211; take a look at spiderosm.org</p>
+<p>best regards,<br />
+Katie Urey</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Gregory Williams		</title>
+		<link>https://www.mappa-mercia.org/2015/03/dealing-with-os-locator-road-name-data-special-cases.html#comment-597</link>
+
+		<dc:creator><![CDATA[Gregory Williams]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2015 08:08:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1120#comment-597</guid>
+
+					<description><![CDATA[In Sandwich, Kent, there&#039;s a road that&#039;s genuinely called &quot;No Name Street&quot;:
+https://www.openstreetmap.org/way/27214970]]></description>
+			<content:encoded><![CDATA[<p>In Sandwich, Kent, there&#8217;s a road that&#8217;s genuinely called &#8220;No Name Street&#8221;:<br />
+<a href="https://www.openstreetmap.org/way/27214970" rel="nofollow ugc">https://www.openstreetmap.org/way/27214970</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

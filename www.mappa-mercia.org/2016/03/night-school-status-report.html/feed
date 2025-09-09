@@ -1,0 +1,23 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: &#8220;Night School&#8221; status report	</title>
+	<atom:link href="https://www.mappa-mercia.org/2016/03/night-school-status-report.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2016/03/night-school-status-report.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Wed, 02 Mar 2016 17:59:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+</channel>
+</rss>

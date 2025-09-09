@@ -1,0 +1,68 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Is this the most architecturally elaborate substation ever built?	</title>
+	<atom:link href="https://www.mappa-mercia.org/2012/04/is-this-most-architecturally-elaborate.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2012/04/is-this-most-architecturally-elaborate.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Sun, 09 Jun 2013 17:33:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Unknown		</title>
+		<link>https://www.mappa-mercia.org/2012/04/is-this-most-architecturally-elaborate.html#comment-25</link>
+
+		<dc:creator><![CDATA[Unknown]]></dc:creator>
+		<pubDate>Thu, 26 Apr 2012 20:22:55 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/is-this-the-most-architecturally-elaborate-substation-ever-built/#comment-25</guid>
+
+					<description><![CDATA[It makes more sense when you know that it was actually built as a water pumping station. These could be very elaborate indeed, both externally and internally - water supply was a source of great municipal pride as well as being a major contribution to public health. If you think this is elaborate, the same architects, Martin and Chamberlain, built a vast example in Venetian Gothic at Whitacre, near Shustoke, Warwickshire (still in use by Severn Trent), which has been compared to one of their board schools.]]></description>
+			<content:encoded><![CDATA[<p>It makes more sense when you know that it was actually built as a water pumping station. These could be very elaborate indeed, both externally and internally &#8211; water supply was a source of great municipal pride as well as being a major contribution to public health. If you think this is elaborate, the same architects, Martin and Chamberlain, built a vast example in Venetian Gothic at Whitacre, near Shustoke, Warwickshire (still in use by Severn Trent), which has been compared to one of their board schools.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mappa Mercia		</title>
+		<link>https://www.mappa-mercia.org/2012/04/is-this-most-architecturally-elaborate.html#comment-24</link>
+
+		<dc:creator><![CDATA[Mappa Mercia]]></dc:creator>
+		<pubDate>Thu, 26 Apr 2012 20:01:23 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/is-this-the-most-architecturally-elaborate-substation-ever-built/#comment-24</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2012/04/is-this-most-architecturally-elaborate.html#comment-23&quot;&gt;Chris Hill&lt;/a&gt;.
+
+I use listed_status=Grade II, Grade I or Grade II* and in the source tag where I got the info from- usually  a local authority list but sometimes from English Heritage. If it&#039;s also designated as a heritage building ( e.g UNESCO or a Civic Society or Local Authority Tourist Trail I also use heritage= x following the wiki tagging guidelines. I should probably write a wiki page!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2012/04/is-this-most-architecturally-elaborate.html#comment-23">Chris Hill</a>.</p>
+<p>I use listed_status=Grade II, Grade I or Grade II* and in the source tag where I got the info from- usually  a local authority list but sometimes from English Heritage. If it&#8217;s also designated as a heritage building ( e.g UNESCO or a Civic Society or Local Authority Tourist Trail I also use heritage= x following the wiki tagging guidelines. I should probably write a wiki page!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Chris Hill		</title>
+		<link>https://www.mappa-mercia.org/2012/04/is-this-most-architecturally-elaborate.html#comment-23</link>
+
+		<dc:creator><![CDATA[Chris Hill]]></dc:creator>
+		<pubDate>Thu, 26 Apr 2012 17:07:19 +0000</pubDate>
+		<guid isPermaLink="false">http://mappa.stulester.co.uk/is-this-the-most-architecturally-elaborate-substation-ever-built/#comment-23</guid>
+
+					<description><![CDATA[Do you use any tags to record the listing of these buildings?]]></description>
+			<content:encoded><![CDATA[<p>Do you use any tags to record the listing of these buildings?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

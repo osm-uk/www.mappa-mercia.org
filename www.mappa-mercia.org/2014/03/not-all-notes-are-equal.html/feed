@@ -1,0 +1,68 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Not all Notes are equal	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/03/not-all-notes-are-equal.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/03/not-all-notes-are-equal.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Mon, 24 Mar 2014 21:15:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2014/03/not-all-notes-are-equal.html#comment-140</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2014 21:15:11 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=853#comment-140</guid>
+
+					<description><![CDATA[Great idea Brian. One of the reasons why mapdust.com became unusable was because it became swamped with map bugs/notes. Many weren&#039;t revelant (and actually related to the smartphone routing App that made it so easy to create a new note) and a &quot;fade to white&quot; as you have propsed would have been a huge benefit. Hopefully one of the OpenStreetMap devs will agree :-)]]></description>
+			<content:encoded><![CDATA[<p>Great idea Brian. One of the reasons why mapdust.com became unusable was because it became swamped with map bugs/notes. Many weren&#8217;t revelant (and actually related to the smartphone routing App that made it so easy to create a new note) and a &#8220;fade to white&#8221; as you have propsed would have been a huge benefit. Hopefully one of the OpenStreetMap devs will agree 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: nebulon42		</title>
+		<link>https://www.mappa-mercia.org/2014/03/not-all-notes-are-equal.html#comment-137</link>
+
+		<dc:creator><![CDATA[nebulon42]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2014 18:58:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=853#comment-137</guid>
+
+					<description><![CDATA[+1]]></description>
+			<content:encoded><![CDATA[<p>+1</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: xkomczax		</title>
+		<link>https://www.mappa-mercia.org/2014/03/not-all-notes-are-equal.html#comment-135</link>
+
+		<dc:creator><![CDATA[xkomczax]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2014 13:23:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=853#comment-135</guid>
+
+					<description><![CDATA[Good idea! Maybe there can be even filter in some &quot;pro&quot; settings where every single user can highlight/hide specific notes (older than *, made by *, ...). 
+
+At the moment the only option I know is the RSS feed for notes - http://wiki.openstreetmap.org/wiki/Notes#RSS_feed]]></description>
+			<content:encoded><![CDATA[<p>Good idea! Maybe there can be even filter in some &#8220;pro&#8221; settings where every single user can highlight/hide specific notes (older than *, made by *, &#8230;). </p>
+<p>At the moment the only option I know is the RSS feed for notes &#8211; <a href="http://wiki.openstreetmap.org/wiki/Notes#RSS_feed" rel="nofollow ugc">http://wiki.openstreetmap.org/wiki/Notes#RSS_feed</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

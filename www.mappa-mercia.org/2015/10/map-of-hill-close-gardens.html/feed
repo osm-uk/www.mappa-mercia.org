@@ -1,0 +1,37 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Map of Hill Close Gardens	</title>
+	<atom:link href="https://www.mappa-mercia.org/2015/10/map-of-hill-close-gardens.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2015/10/map-of-hill-close-gardens.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Thu, 31 Mar 2016 12:55:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Hill Close Gardens		</title>
+		<link>https://www.mappa-mercia.org/2015/10/map-of-hill-close-gardens.html#comment-53940</link>
+
+		<dc:creator><![CDATA[Hill Close Gardens]]></dc:creator>
+		<pubDate>Thu, 31 Mar 2016 12:55:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1269#comment-53940</guid>
+
+					<description><![CDATA[Great work Rob, yes the history of the plot owners surely is fascinating. Great work on the mapping.]]></description>
+			<content:encoded><![CDATA[<p>Great work Rob, yes the history of the plot owners surely is fascinating. Great work on the mapping.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

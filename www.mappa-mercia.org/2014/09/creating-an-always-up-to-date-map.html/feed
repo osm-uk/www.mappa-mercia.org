@@ -1,0 +1,243 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Creating an always up to date map	</title>
+	<atom:link href="https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Thu, 28 Jan 2021 19:34:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Andres		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-147579</link>
+
+		<dc:creator><![CDATA[Andres]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 19:34:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-147579</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-487&quot;&gt;joost&lt;/a&gt;.
+
+Hi Joost,
+
+Im quite newbie in this fascinating universe, so take my advices with care, but seems to me thar cachin data to not stress server is as easy as switching it on on umap remote data options. 
+
+You will find as CACHE PROXIED REQUEST, is the last option within REMOTE DATA section]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-487">joost</a>.</p>
+<p>Hi Joost,</p>
+<p>Im quite newbie in this fascinating universe, so take my advices with care, but seems to me thar cachin data to not stress server is as easy as switching it on on umap remote data options. </p>
+<p>You will find as CACHE PROXIED REQUEST, is the last option within REMOTE DATA section</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-143147</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Thu, 26 Nov 2020 22:37:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-143147</guid>
+
+					<description><![CDATA[I have been informed that the instructions can now be vastly simplified. On the Overpass-Turbo side, go to Export &gt; Query &gt; copy as umap remote data url . The URL should then simply work as a remote data URL in umap.
+
+I haven&#039;t looked at this yet to confirm or update the article.]]></description>
+			<content:encoded><![CDATA[<p>I have been informed that the instructions can now be vastly simplified. On the Overpass-Turbo side, go to Export > Query > copy as umap remote data url . The URL should then simply work as a remote data URL in umap.</p>
+<p>I haven&#8217;t looked at this yet to confirm or update the article.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: derFred		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-141404</link>
+
+		<dc:creator><![CDATA[derFred]]></dc:creator>
+		<pubDate>Sun, 15 Sep 2019 19:49:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-141404</guid>
+
+					<description><![CDATA[Hi Rob,
+1. FlexiRentjet from June 6, 2019 is SPAM
+2. your description doesn&#039;t work anymore - do you have an idea what to change?]]></description>
+			<content:encoded><![CDATA[<p>Hi Rob,<br />
+1. FlexiRentjet from June 6, 2019 is SPAM<br />
+2. your description doesn&#8217;t work anymore &#8211; do you have an idea what to change?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Bibi		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-5358</link>
+
+		<dc:creator><![CDATA[Bibi]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2015 19:13:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-5358</guid>
+
+					<description><![CDATA[@RobJN
+(September 15, 2014) it&#039;s a bit old, but...
+You can request the overpass-api to return centers instead of polygons too. It makes more sense if you just need the centroid to return the centroid instead of the polygon add request uMap to do the job.
+Yes Yohan did a great job!]]></description>
+			<content:encoded><![CDATA[<p>@RobJN<br />
+(September 15, 2014) it&#8217;s a bit old, but&#8230;<br />
+You can request the overpass-api to return centers instead of polygons too. It makes more sense if you just need the centroid to return the centroid instead of the polygon add request uMap to do the job.<br />
+Yes Yohan did a great job!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: joost		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-487</link>
+
+		<dc:creator><![CDATA[joost]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2015 01:33:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-487</guid>
+
+					<description><![CDATA[I&#039;m amazed by how simple it is to create a map with these instructions. I&#039;d made a query showing paved main roads on Overpass before (http://overpass-turbo.eu/s/7q8), and it took me minutes to turn it into a nice umap. Unfortunately, it seems to be a bit too heavy on either umap, overpass or my bad internet connection. It would be nice to be able to cache this data (which is a lot of course) to a umap server and just have it update itself from time to time.]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m amazed by how simple it is to create a map with these instructions. I&#8217;d made a query showing paved main roads on Overpass before (<a href="http://overpass-turbo.eu/s/7q8" rel="nofollow ugc">http://overpass-turbo.eu/s/7q8</a>), and it took me minutes to turn it into a nice umap. Unfortunately, it seems to be a bit too heavy on either umap, overpass or my bad internet connection. It would be nice to be able to cache this data (which is a lot of course) to a umap server and just have it update itself from time to time.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-323</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Sun, 30 Nov 2014 17:29:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-323</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-320&quot;&gt;marco&lt;/a&gt;.
+
+Marco: I&#039;ve raised a issue with the developer of uMap:
+https://bitbucket.org/yohanboniface/umap/issue/140/overpass-variables-with-dynamic]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-320">marco</a>.</p>
+<p>Marco: I&#8217;ve raised a issue with the developer of uMap:<br />
+<a href="https://bitbucket.org/yohanboniface/umap/issue/140/overpass-variables-with-dynamic" rel="nofollow ugc">https://bitbucket.org/yohanboniface/umap/issue/140/overpass-variables-with-dynamic</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: marco		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-320</link>
+
+		<dc:creator><![CDATA[marco]]></dc:creator>
+		<pubDate>Fri, 28 Nov 2014 03:40:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-320</guid>
+
+					<description><![CDATA[I&#039;m trying to send overpass-turbo query result to umap via direct link, i get no error but also no data:
+
+http://umap.openstreetmap.fr/it/map/new/?http://overpass-api.de/api/interpreter?data=[out:json][timeout:25];area(3600043144)-&#062;.searchArea;(node[&quot;amenity&quot;=&quot;office&quot;](area.searchArea);way[&quot;amenity&quot;=&quot;office&quot;](area.searchArea);relation[&quot;amenity&quot;=&quot;office&quot;](area.searchArea););out body;&#062;;out skel qt;&#038;dataFormat=osm
+
+Any suggestion... ?]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;m trying to send overpass-turbo query result to umap via direct link, i get no error but also no data:</p>
+<p><a href="http://umap.openstreetmap.fr/it/map/new/?http://overpass-api.de/api/interpreter?data=%5Bout:json%5D%5Btimeout:25%5D;area(3600043144)-&#038;gt" rel="nofollow ugc">http://umap.openstreetmap.fr/it/map/new/?http://overpass-api.de/api/interpreter?data=%5Bout:json%5D%5Btimeout:25%5D;area(3600043144)-&#038;gt</a>;.searchArea;(node[&#8220;amenity&#8221;=&#8221;office&#8221;](area.searchArea);way[&#8220;amenity&#8221;=&#8221;office&#8221;](area.searchArea);relation[&#8220;amenity&#8221;=&#8221;office&#8221;](area.searchArea););out body;&gt;;out skel qt;&amp;dataFormat=osm</p>
+<p>Any suggestion&#8230; ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Rob Norris		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-302</link>
+
+		<dc:creator><![CDATA[Rob Norris]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2014 19:39:17 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-302</guid>
+
+					<description><![CDATA[On the subject of pubs closing (or indeed for many POIs), it would be useful to note how one would mark a pub closed - i.e. by following the &#039;disused:x&#039; lifecycle scheme.
+
+Such that an amenity=pub -&#062; disused:amenity=pub
+
+See http://wiki.openstreetmap.org/wiki/Disused for further detail.
+
+Perhaps someone might want to adjust the tags for an ex pub in your area very near to your example on the A3400 North out of Stratford-Upon-Avon ;)
+
+http://www.openstreetmap.org/way/158021422]]></description>
+			<content:encoded><![CDATA[<p>On the subject of pubs closing (or indeed for many POIs), it would be useful to note how one would mark a pub closed &#8211; i.e. by following the &#8216;disused:x&#8217; lifecycle scheme.</p>
+<p>Such that an amenity=pub -&gt; disused:amenity=pub</p>
+<p>See <a href="http://wiki.openstreetmap.org/wiki/Disused" rel="nofollow ugc">http://wiki.openstreetmap.org/wiki/Disused</a> for further detail.</p>
+<p>Perhaps someone might want to adjust the tags for an ex pub in your area very near to your example on the A3400 North out of Stratford-Upon-Avon 😉</p>
+<p><a href="http://www.openstreetmap.org/way/158021422" rel="nofollow ugc">http://www.openstreetmap.org/way/158021422</a></p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Andy Robinson		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-279</link>
+
+		<dc:creator><![CDATA[Andy Robinson]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2014 08:31:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-279</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-272&quot;&gt;DaCor&lt;/a&gt;.
+
+Take a look at http://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide which explains the process of making more complex queries of the overpass api.
+
+For example, instead of the very simple syntax of the query that Rob used, ie: node[&quot;amenity&quot;=&quot;pub&quot;] your bicycle node example might look something like:
+
+&lt;code&gt;    &#060;query type=&quot;node&quot;&#062;
+      &#060;has-kv k=&quot;bicycle_parking&quot; v=&quot;&quot;/&#062;
+      &#060;has-kv k=&quot;covered&quot; v=&quot;yes&quot;/&#062;
+      &#060;bbox-query {{bbox}}/&#062;
+    &#060;/query&#062;&lt;/code&gt;
+
+Which when compacted to a QL format and the bbox defined would create:
+
+&lt;code&gt;http://overpass-api.de/api/interpreter?data=[out:json][timeout:25];(node(node[&quot;bicycle_parking&quot;][&quot;covered&quot;=&quot;yes&quot;]({south},{west},{north},{east}););out body;&gt;;out skel qt;&lt;/code&gt; 
+
+This will get you any bike parking type nodes which are covered. You can then place these on the map in one colour for instance compared with those that are uncovered (by simply adding an additional overpass query that has the alternative covered=no attribute to a new layer in uMap).
+
+Additional data (tag information) that is returned by the api can also be added as description information to the umap popup boxes. You might for instance add the capacity attribute to display by default or when the icon is clicked to show the popup.
+
+The combination of Overpass and uMap and similar facilities is the real power behind OSM, offering huge potential for almost anyone to create bespoke maps.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-272">DaCor</a>.</p>
+<p>Take a look at <a href="http://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide" rel="nofollow ugc">http://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide</a> which explains the process of making more complex queries of the overpass api.</p>
+<p>For example, instead of the very simple syntax of the query that Rob used, ie: node[&#8220;amenity&#8221;=&#8221;pub&#8221;] your bicycle node example might look something like:</p>
+<p><code>    &lt;query type="node"&gt;<br />
+      &lt;has-kv k="bicycle_parking" v=""/&gt;<br />
+      &lt;has-kv k="covered" v="yes"/&gt;<br />
+      &lt;bbox-query {{bbox}}/&gt;<br />
+    &lt;/query&gt;</code></p>
+<p>Which when compacted to a QL format and the bbox defined would create:</p>
+<p><code>http://overpass-api.de/api/interpreter?data=[out:json][timeout:25];(node(node["bicycle_parking"]["covered"="yes"]({south},{west},{north},{east}););out body;>;out skel qt;</code> </p>
+<p>This will get you any bike parking type nodes which are covered. You can then place these on the map in one colour for instance compared with those that are uncovered (by simply adding an additional overpass query that has the alternative covered=no attribute to a new layer in uMap).</p>
+<p>Additional data (tag information) that is returned by the api can also be added as description information to the umap popup boxes. You might for instance add the capacity attribute to display by default or when the icon is clicked to show the popup.</p>
+<p>The combination of Overpass and uMap and similar facilities is the real power behind OSM, offering huge potential for almost anyone to create bespoke maps.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: RobJN		</title>
+		<link>https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-273</link>
+
+		<dc:creator><![CDATA[RobJN]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2014 08:17:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1017#comment-273</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-272&quot;&gt;DaCor&lt;/a&gt;.
+
+Yes I think it&#039;s possible. I&#039;ll have a look next week and get back to you. I also need to update this post as the polygon centre feature has now been added to uMap :-)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html#comment-272">DaCor</a>.</p>
+<p>Yes I think it&#8217;s possible. I&#8217;ll have a look next week and get back to you. I also need to update this post as the polygon centre feature has now been added to uMap 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

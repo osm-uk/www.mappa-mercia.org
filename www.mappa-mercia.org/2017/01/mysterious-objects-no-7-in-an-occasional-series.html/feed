@@ -1,0 +1,51 @@
+﻿
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Mysterious Objects: no 7 in an occasional series	</title>
+	<atom:link href="https://www.mappa-mercia.org/2017/01/mysterious-objects-no-7-in-an-occasional-series.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.mappa-mercia.org/2017/01/mysterious-objects-no-7-in-an-occasional-series.html</link>
+	<description>OpenStreetMap in the West Midlands</description>
+	<lastBuildDate>Wed, 25 Jan 2017 23:26:34 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>
+		By: Brian		</title>
+		<link>https://www.mappa-mercia.org/2017/01/mysterious-objects-no-7-in-an-occasional-series.html#comment-110951</link>
+
+		<dc:creator><![CDATA[Brian]]></dc:creator>
+		<pubDate>Wed, 25 Jan 2017 23:26:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1497#comment-110951</guid>
+
+					<description><![CDATA[Thanks Sorbus for solving the mystery. I agree the notch at the base could be used to lever open a hinged lid, having re-examined the object. And the picture in the Talis (Talbot) online catalogue matches.]]></description>
+			<content:encoded><![CDATA[<p>Thanks Sorbus for solving the mystery. I agree the notch at the base could be used to lever open a hinged lid, having re-examined the object. And the picture in the Talis (Talbot) online catalogue matches.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sorbus		</title>
+		<link>https://www.mappa-mercia.org/2017/01/mysterious-objects-no-7-in-an-occasional-series.html#comment-110526</link>
+
+		<dc:creator><![CDATA[Sorbus]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2017 23:54:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.mappa-mercia.org/?p=1497#comment-110526</guid>
+
+					<description><![CDATA[A Talbot &#039;push fit surface box&#039; gas valve? - according to Google... It looks like it can be levered open with the notch at the base.]]></description>
+			<content:encoded><![CDATA[<p>A Talbot &#8216;push fit surface box&#8217; gas valve? &#8211; according to Google&#8230; It looks like it can be levered open with the notch at the base.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
